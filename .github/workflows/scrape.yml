@@ -3,7 +3,7 @@ name: Scrape darts data and rebuild dashboard
 on:
   schedule:
     # Daily at 07:00 UTC (08:00 BST). Adjust as needed.
-    - cron: "0 7 * * *"
+    - cron: "0 4 * * *"
   workflow_dispatch:   # manual trigger from the Actions tab
 
 permissions:
