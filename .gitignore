@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+
+# Local test/scratch outputs — the real ones live in docs/
+*.log
+progress*.json
+opp_progress*.json
+stats_rk*.json
+*.html.bak
