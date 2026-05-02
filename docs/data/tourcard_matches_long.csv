@@ -49,16 +49,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 2641,Gian van Veen,8,2026-04-23,Premier League,U,Quarter Final Sub Match,Won,6 V 4,Gerwyn Price,2,90.97,93.61,-2.64,4670,154
 2641,Gian van Veen,9,2026-04-18,European Tour,ET,Last 32,Lost,3 V 6,Joe Cullen,6,92.7,91.73,0.97,3986,129
 2641,Gian van Veen,10,2026-04-16,Premier League,U,Quarter Final Sub Match,Lost,2 V 6,Luke Humphries,34,93.36,100.51,-7.15,3641,117
-36,Stephen Bunting,1,2026-04-30,Premier League,U,Quarter Final Sub Match,Lost,5 V 6,Gerwyn Price,2,97.02,95.98,1.04,5207,161
-36,Stephen Bunting,2,2026-04-28,Players Championship,PT,Last 32,Lost,3 V 6,Mike De Decker,66,95.82,94.27,1.55,4152,130
-36,Stephen Bunting,3,2026-04-28,Players Championship,PT,Last 64,Won,6 V 1,Sam Price,22829,89.19,69.49,19.7,3419,115
-36,Stephen Bunting,4,2026-04-28,Players Championship,PT,Last 128,Won,6 V 4,Stephen Burton,2014,101.06,96.63,4.43,4817,143
-36,Stephen Bunting,5,2026-04-27,Players Championship,PT,Last 128,Lost,5 V 6,Ricky Evans,45,92.53,94.33,-1.8,4935,160
-36,Stephen Bunting,6,2026-04-23,Premier League,U,Quarter Final Sub Match,Lost,5 V 6,Jonny Clayton,20,90.42,93.85,-3.43,4762,158
-36,Stephen Bunting,7,2026-04-19,European Tour,ET,Last 16,Lost,3 V 6,Wessel Nijman,130,90.02,87.62,2.4,4351,145
-36,Stephen Bunting,8,2026-04-18,European Tour,ET,Last 32,Won,6 V 3,Mickey Mansell,65,93.02,89.72,3.3,4372,141
-36,Stephen Bunting,9,2026-04-16,Premier League,U,Quarter Final Sub Match,Lost,1 V 6,Josh Rock,20114,104.81,102.55,2.26,3319,95
-36,Stephen Bunting,10,2026-04-14,Players Championship,PT,Last 32,Lost,4 V 6,Joe Hunt,14283,88.03,81.65,6.38,4636,158
 39,Chris Dobey,1,2026-04-28,Players Championship,PT,Quarter Final,Lost,3 V 6,Jermaine Wattimena,18,98.69,104.43,-5.74,3783,115
 39,Chris Dobey,2,2026-04-28,Players Championship,PT,Last 16,Won,6 V 1,Chris Landman,5183,99.29,82.96,16.33,3475,105
 39,Chris Dobey,3,2026-04-28,Players Championship,PT,Last 32,Won,6 V 3,Jurjen van der Velde,2784,93.08,84.64,8.44,4437,143
@@ -69,6 +59,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 39,Chris Dobey,8,2026-04-27,Players Championship,PT,Last 128,Won,6 V 1,Cor Dekker,2046,97.1,91.8,5.3,3366,104
 39,Chris Dobey,9,2026-04-19,European Tour,ET,Last 16,Lost,4 V 6,Gerwyn Price,2,99.31,105.96,-6.65,4502,136
 39,Chris Dobey,10,2026-04-18,European Tour,ET,Last 32,Won,6 V 2,Andrew Gilding,2088,98.18,94.12,4.06,3731,114
+36,Stephen Bunting,1,2026-04-30,Premier League,U,Quarter Final Sub Match,Lost,5 V 6,Gerwyn Price,2,97.02,95.98,1.04,5207,161
+36,Stephen Bunting,2,2026-04-28,Players Championship,PT,Last 32,Lost,3 V 6,Mike De Decker,66,95.82,94.27,1.55,4152,130
+36,Stephen Bunting,3,2026-04-28,Players Championship,PT,Last 64,Won,6 V 1,Sam Price,22829,89.19,69.49,19.7,3419,115
+36,Stephen Bunting,4,2026-04-28,Players Championship,PT,Last 128,Won,6 V 4,Stephen Burton,2014,101.06,96.63,4.43,4817,143
+36,Stephen Bunting,5,2026-04-27,Players Championship,PT,Last 128,Lost,5 V 6,Ricky Evans,45,92.53,94.33,-1.8,4935,160
+36,Stephen Bunting,6,2026-04-23,Premier League,U,Quarter Final Sub Match,Lost,5 V 6,Jonny Clayton,20,90.42,93.85,-3.43,4762,158
+36,Stephen Bunting,7,2026-04-19,European Tour,ET,Last 16,Lost,3 V 6,Wessel Nijman,130,90.02,87.62,2.4,4351,145
+36,Stephen Bunting,8,2026-04-18,European Tour,ET,Last 32,Won,6 V 3,Mickey Mansell,65,93.02,89.72,3.3,4372,141
+36,Stephen Bunting,9,2026-04-16,Premier League,U,Quarter Final Sub Match,Lost,1 V 6,Josh Rock,20114,104.81,102.55,2.26,3319,95
+36,Stephen Bunting,10,2026-04-14,Players Championship,PT,Last 32,Lost,4 V 6,Joe Hunt,14283,88.03,81.65,6.38,4636,158
 20114,Josh Rock,1,2026-04-30,Premier League,U,Quarter Final Sub Match,Lost,3 V 6,Luke Littler,5403,101.25,105.86,-4.61,4050,120
 20114,Josh Rock,2,2026-04-28,Players Championship,PT,Last 64,Lost,1 V 6,Rob Owen,54182,83.25,95.53,-12.28,2997,108
 20114,Josh Rock,3,2026-04-28,Players Championship,PT,Last 128,Won,6 V 5,Jeffrey de Graaf,2092,92.36,90.62,1.74,5172,168
@@ -79,16 +79,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 20114,Josh Rock,8,2026-04-16,Premier League,U,Semi Final Sub Match,Lost,5 V 6,Jonny Clayton,20,96.05,87.96,8.09,5347,167
 20114,Josh Rock,9,2026-04-16,Premier League,U,Quarter Final Sub Match,Won,6 V 1,Stephen Bunting,36,102.55,104.81,-2.26,3384,99
 20114,Josh Rock,10,2026-04-14,Players Championship,PT,Last 16,Lost,5 V 6,Joe Hunt,14283,93.78,93.0,0.78,5189,166
-130,Wessel Nijman,1,2026-04-28,Players Championship,PT,Final,Won,8 V 5,Jermaine Wattimena,18,96.84,94.12,2.72,6198,192
-130,Wessel Nijman,2,2026-04-28,Players Championship,PT,Semi Final,Won,7 V 4,Tom Bissell,46158,103.41,100.18,3.23,5205,151
-130,Wessel Nijman,3,2026-04-28,Players Championship,PT,Quarter Final,Won,6 V 2,Nathan Potter,2931,97.4,92.06,5.34,3896,120
-130,Wessel Nijman,4,2026-04-28,Players Championship,PT,Last 16,Won,6 V 3,Ryan Searle,31,96.19,86.36,9.83,4457,139
-130,Wessel Nijman,5,2026-04-28,Players Championship,PT,Last 32,Won,6 V 3,Sebastian Bialecki,3038,99.95,90.81,9.14,4398,132
-130,Wessel Nijman,6,2026-04-28,Players Championship,PT,Last 64,Won,6 V 5,Tom Sykes,50760,96.62,91.96,4.66,5282,164
-130,Wessel Nijman,7,2026-04-28,Players Championship,PT,Last 128,Won,6 V 2,Scott Williams,5137,99.2,89.6,9.6,3902,118
-130,Wessel Nijman,8,2026-04-27,Players Championship,PT,Quarter Final,Lost,3 V 6,Gary Anderson,10,105.57,108.1,-2.53,4082,116
-130,Wessel Nijman,9,2026-04-27,Players Championship,PT,Last 16,Won,6 V 1,Leon Weber,32046,93.68,88.44,5.24,3466,111
-130,Wessel Nijman,10,2026-04-27,Players Championship,PT,Last 32,Won,6 V 2,Tom Sykes,50760,113.37,94.24,19.13,3968,105
 3,Michael van Gerwen,1,2026-04-30,Premier League,U,Quarter Final Sub Match,Lost,3 V 6,Luke Humphries,34,91.02,99.18,-8.16,4005,132
 3,Michael van Gerwen,2,2026-04-23,Premier League,U,Semi Final Sub Match,Lost,5 V 6,Luke Littler,5403,107.54,102.06,5.48,5090,142
 3,Michael van Gerwen,3,2026-04-23,Premier League,U,Quarter Final Sub Match,Won,6 V 3,Josh Rock,20114,98.64,91.89,6.75,4373,133
@@ -99,6 +89,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 3,Michael van Gerwen,8,2026-04-09,Premier League,U,Final Sub Match,Lost,5 V 6,Jonny Clayton,20,101.34,97.39,3.95,5101,151
 3,Michael van Gerwen,9,2026-04-09,Premier League,U,Semi Final Sub Match,Won,6 V 5,Stephen Bunting,36,90.92,93.11,-2.19,5243,173
 3,Michael van Gerwen,10,2026-04-09,Premier League,U,Quarter Final Sub Match,Won,6 V 4,Gian van Veen,2641,95.44,94.49,0.95,4613,145
+130,Wessel Nijman,1,2026-04-28,Players Championship,PT,Final,Won,8 V 5,Jermaine Wattimena,18,96.84,94.12,2.72,6198,192
+130,Wessel Nijman,2,2026-04-28,Players Championship,PT,Semi Final,Won,7 V 4,Tom Bissell,46158,103.41,100.18,3.23,5205,151
+130,Wessel Nijman,3,2026-04-28,Players Championship,PT,Quarter Final,Won,6 V 2,Nathan Potter,2931,97.4,92.06,5.34,3896,120
+130,Wessel Nijman,4,2026-04-28,Players Championship,PT,Last 16,Won,6 V 3,Ryan Searle,31,96.19,86.36,9.83,4457,139
+130,Wessel Nijman,5,2026-04-28,Players Championship,PT,Last 32,Won,6 V 3,Sebastian Bialecki,3038,99.95,90.81,9.14,4398,132
+130,Wessel Nijman,6,2026-04-28,Players Championship,PT,Last 64,Won,6 V 5,Tom Sykes,50760,96.62,91.96,4.66,5282,164
+130,Wessel Nijman,7,2026-04-28,Players Championship,PT,Last 128,Won,6 V 2,Scott Williams,5137,99.2,89.6,9.6,3902,118
+130,Wessel Nijman,8,2026-04-27,Players Championship,PT,Quarter Final,Lost,3 V 6,Gary Anderson,10,105.57,108.1,-2.53,4082,116
+130,Wessel Nijman,9,2026-04-27,Players Championship,PT,Last 16,Won,6 V 1,Leon Weber,32046,93.68,88.44,5.24,3466,111
+130,Wessel Nijman,10,2026-04-27,Players Championship,PT,Last 32,Won,6 V 2,Tom Sykes,50760,113.37,94.24,19.13,3968,105
 26,Ross Smith,1,2026-04-28,Players Championship,PT,Last 64,Lost,3 V 6,Tom Bissell,46158,91.6,103.62,-12.02,3847,126
 26,Ross Smith,2,2026-04-28,Players Championship,PT,Last 128,Won,6 V 0,Owen Bates,14661,101.33,79.07,22.26,3006,89
 26,Ross Smith,3,2026-04-27,Players Championship,PT,Last 16,Lost,2 V 6,Rob Cross,29,99.71,103.54,-3.83,3656,110
