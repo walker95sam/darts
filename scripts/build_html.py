@@ -5,6 +5,8 @@ HTML = r"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#fafafa">
 <title>PDC Tour-Card Form Dashboard</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.js" integrity="sha384-iU8HYtnGQ8Cy4zl7gbNMOhsDTTKX02BTXptVP/vqAWIaTfM7isw76iyZCsjL2eVi" crossorigin="anonymous"></script>
 <style>
@@ -121,6 +123,82 @@ table.main tbody tr.selected td { background:#fff8e1; }
 .common-table th { font-size:11px; color:#666; }
 .common-table .num { text-align:right; font-variant-numeric:tabular-nums; }
 .empty { color:#999; font-style:italic; padding:8px 0; font-size:12px; }
+
+/* ============ MOBILE RESPONSIVE (≤ 768px) ============ */
+#detailBackdrop { position:fixed; inset:0; background:rgba(0,0,0,.35); opacity:0;
+  pointer-events:none; transition:opacity .2s ease; z-index:9; }
+#detailBackdrop.open { opacity:1; pointer-events:auto; }
+
+@media (max-width: 768px) {
+  body { font-size: 13px; }
+  header { padding:14px 14px 6px; }
+  h1 { font-size:16px; }
+  .subtitle { font-size:11px; }
+  .tabs { padding:6px 10px 0; gap:2px; overflow-x:auto; -webkit-overflow-scrolling:touch; }
+  .tab { padding:8px 12px; font-size:13px; flex-shrink:0; }
+  .kpi-row { padding:10px 14px; gap:12px; }
+  .kpi b { font-size:15px; }
+  .controls { padding:10px 14px; gap:8px; }
+  .controls input[type=search] { width:100%; }
+  .controls label { font-size:12px; }
+  .legend { padding:6px 14px 12px; font-size:11px; }
+  .table-wrap { padding:10px 0 16px; overflow-x:hidden; }
+
+  /* Slim down to 5 essential columns on phones:
+     Sea# | Player | C | Avg L10 | +/- vs opp.
+     Hide: Opp avg(5), Trend(7), WR(8), SD(9), CO%(10), 180s(11), F9(12), SeaAvg(13), n(14), Last(15) */
+  table.main thead th:nth-child(5),  table.main tbody td:nth-child(5),
+  table.main thead th:nth-child(7),  table.main tbody td:nth-child(7),
+  table.main thead th:nth-child(8),  table.main tbody td:nth-child(8),
+  table.main thead th:nth-child(9),  table.main tbody td:nth-child(9),
+  table.main thead th:nth-child(10), table.main tbody td:nth-child(10),
+  table.main thead th:nth-child(11), table.main tbody td:nth-child(11),
+  table.main thead th:nth-child(12), table.main tbody td:nth-child(12),
+  table.main thead th:nth-child(13), table.main tbody td:nth-child(13),
+  table.main thead th:nth-child(14), table.main tbody td:nth-child(14),
+  table.main thead th:nth-child(15), table.main tbody td:nth-child(15) { display:none; }
+  table.main thead th { padding:9px 6px; font-size:11px; }
+  table.main tbody td { padding:11px 6px; font-size:13px; }
+  table.main { border-radius:0; }
+
+  /* Detail panel becomes a bottom-sheet */
+  #detail {
+    width:100%; max-width:none; right:0; left:0; top:auto; bottom:0;
+    height:88vh; max-height:88vh; transform:translateY(110%);
+    border-radius:14px 14px 0 0;
+    box-shadow:0 -2px 20px rgba(0,0,0,.15);
+  }
+  #detail.open { transform:translateY(0); }
+  #detail .close-x { font-size:26px; padding:6px; }
+  /* Drag handle */
+  #detail::before {
+    content:""; position:absolute; top:8px; left:50%; transform:translateX(-50%);
+    width:42px; height:4px; background:#ddd; border-radius:2px;
+  }
+  #detail h2 { margin-top:18px; }
+
+  /* Compare tab — stack vertically */
+  .compare { padding:14px; }
+  .compare-controls { padding:12px; gap:10px; }
+  .compare-controls .field { width:100%; }
+  .compare-controls select { width:100%; }
+  .compare-controls .swap { width:100%; }
+  .compare-grid { grid-template-columns:1fr; gap:12px; }
+  .player-card { padding:14px; }
+  .player-card .pa-stats { grid-template-columns:repeat(3,1fr); padding:8px; }
+  .player-card .pa-stats b { font-size:13px; }
+  .player-card table { font-size:11px; }
+  .player-card table td, .player-card table th { padding:5px 4px; }
+  .chart-card, .h2h-card { padding:12px; }
+  .chart-wrap { height:240px; }
+  .common-table { font-size:11px; }
+  .common-table th, .common-table td { padding:6px 4px; }
+}
+
+/* Very small phones — drop the rank column too to save width */
+@media (max-width: 380px) {
+  table.main thead th:nth-child(1), table.main tbody td:nth-child(1) { display:none; }
+}
 </style>
 </head>
 <body>
@@ -162,6 +240,7 @@ table.main tbody tr.selected td { background:#fff8e1; }
   </div>
 </div>
 
+<div id="detailBackdrop" onclick="closeDetail()"></div>
 <aside id="detail">
   <span class="close-x" onclick="closeDetail()">×</span>
   <h2 id="d-name"></h2>
@@ -388,9 +467,11 @@ function openDetail(playerKey) {
   document.getElementById("d-profile").href = s.profile_url || "#";
   document.getElementById("d-profile").textContent = "Open profile on dartsorakel.com →";
   document.getElementById("detail").classList.add("open");
+  document.getElementById("detailBackdrop").classList.add("open");
 }
 function closeDetail() {
   document.getElementById("detail").classList.remove("open");
+  document.getElementById("detailBackdrop").classList.remove("open");
   document.querySelectorAll("table.main tbody tr").forEach(tr => tr.classList.remove("selected"));
 }
 
