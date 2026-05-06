@@ -425,11 +425,36 @@ function fmtTrend(v) {
 }
 function fmtPct(v) { return v == null ? "—" : (v*100).toFixed(0)+"%"; }
 function fmtCO(v) { return v == null ? "—" : v.toFixed(1)+"%"; }
+
+/* UK date helpers */
+const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+function ukShort(s) {
+  if (!s) return "—";
+  const d = new Date(s);
+  if (isNaN(d)) return s;
+  return String(d.getUTCDate()).padStart(2,'0') + '/' +
+         String(d.getUTCMonth()+1).padStart(2,'0') + '/' +
+         d.getUTCFullYear();
+}
+function ukLong(s) {
+  if (!s) return "—";
+  const d = new Date(s);
+  if (isNaN(d)) return s;
+  return String(d.getUTCDate()).padStart(2,'0') + ' ' + MONTHS[d.getUTCMonth()] + ' ' + d.getUTCFullYear();
+}
+function ukDateTime(iso) {
+  if (!iso) return "—";
+  const d = new Date(iso);
+  if (isNaN(d)) return iso;
+  return ukLong(iso) + ', ' + String(d.getUTCHours()).padStart(2,'0') + ':' +
+         String(d.getUTCMinutes()).padStart(2,'0') + ' UTC';
+}
 function fmtDate(s) {
   if (!s) return "—";
-  const days = Math.floor((today - new Date(s)) / 86400000);
+  const d = new Date(s);
+  const days = Math.floor((today - d) / 86400000);
   const stale = days > FRESH_DAYS;
-  return `<span title="${days} days ago" class="${stale ? 'stale' : ''}">${s}${stale ? ' ⚠' : ''}</span>`;
+  return `<span title="${days} day${days===1?'':'s'} ago" class="${stale ? 'stale' : ''}">${ukShort(s)}${stale ? ' ⚠' : ''}</span>`;
 }
 
 function buildHeader() {
@@ -512,7 +537,7 @@ function openDetail(playerKey) {
   const matches = DATA.matches.filter(m => m.player_key === playerKey);
   document.getElementById("d-name").textContent = s.player_name;
   document.getElementById("d-meta").textContent =
-    `${s.country || ""} · Season rank #${s.season_rank ?? "—"} · Season avg ${s.season_avg?.toFixed(2) ?? "—"} · Last played ${s.last_match_date ?? "—"}`;
+    `${s.country || ""} · Season rank #${s.season_rank ?? "—"} · Season avg ${s.season_avg?.toFixed(2) ?? "—"} · Last played ${ukShort(s.last_match_date)}`;
   document.getElementById("d-summary").innerHTML = `
     <div>Avg last 10<b>${s.avg_last10 ?? "—"}</b></div>
     <div>Trend (L5−P5)<b>${s.trend == null ? "—" : (s.trend > 0 ? "+" : "") + s.trend.toFixed(2)}</b></div>
@@ -523,7 +548,7 @@ function openDetail(playerKey) {
   `;
   document.getElementById("d-matches").innerHTML = matches.map(m => `
     <tr>
-      <td>${m.match_idx}</td><td>${m.match_date}</td>
+      <td>${m.match_idx}</td><td>${ukShort(m.match_date)}</td>
       <td>${m.tournament || ""}</td><td>${m.round || ""}</td>
       <td class="result-${m.result === "Won" ? "W" : "L"}">${m.result === "Won" ? "W" : "L"}</td>
       <td>${m.score || ""}</td><td>${m.opponent || ""}</td>
@@ -543,7 +568,7 @@ function closeDetail() {
 }
 
 document.getElementById("filter-desc").textContent = DATA.filter;
-document.getElementById("fetched").textContent = DATA.fetched_at_utc.replace("T"," ").replace("Z"," UTC");
+document.getElementById("fetched").textContent = ukDateTime(DATA.fetched_at_utc);
 document.getElementById("search").oninput = renderForm;
 document.getElementById("minmatches").onchange = renderForm;
 document.getElementById("freshonly").onchange = renderForm;
@@ -626,7 +651,7 @@ function renderCard(elId, summary, ms, mine, other) {
       <thead><tr><th>Date</th><th>Event</th><th>Round</th><th>Res</th><th>Score</th><th>Opponent</th><th class="num">Avg</th><th class="num">Opp</th></tr></thead>
       <tbody>
         ${ms.map(m => `<tr>
-          <td>${m.d}</td><td>${m.t || ""}</td><td>${m.r || ""}</td>
+          <td>${ukShort(m.d)}</td><td>${m.t || ""}</td><td>${m.r || ""}</td>
           <td class="result-${m.w ? 'W' : 'L'}">${m.w ? 'W' : 'L'}</td>
           <td>${m.s || ""}</td><td>${m.op || ""}</td>
           <td class="num">${m.a == null ? '—' : m.a.toFixed(2)}</td>
@@ -690,7 +715,7 @@ function renderCompare() {
           afterLabel: function(ctx) {
             const player = ctx.datasetIndex === 0 ? ma : mb;
             const m = player[ctx.dataIndex];
-            return m ? [`${m.d} · ${m.r || ""} vs ${m.op || ""}`, `Result: ${m.w ? "W" : "L"} ${m.s || ""}`] : "";
+            return m ? [`${ukShort(m.d)} · ${m.r || ""} vs ${m.op || ""}`, `Result: ${m.w ? "W" : "L"} ${m.s || ""}`] : "";
           }
         }
       }}
@@ -747,7 +772,7 @@ function renderCompare() {
         <thead><tr><th>Date</th><th>Event</th><th>Round</th><th>Result</th><th>Score</th><th class="num">${sa.player_name} avg</th></tr></thead>
         <tbody>
           ${direct.map(m => `<tr>
-            <td>${m.d}</td><td>${m.t || ""}</td><td>${m.r || ""}</td>
+            <td>${ukShort(m.d)}</td><td>${m.t || ""}</td><td>${m.r || ""}</td>
             <td class="result-${m.w ? 'W' : 'L'}">${m.w ? sa.player_name + " won" : sb.player_name + " won"}</td>
             <td>${m.s || ""}</td>
             <td class="num">${m.a == null ? '—' : m.a.toFixed(2)}</td>
