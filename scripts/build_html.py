@@ -251,15 +251,39 @@ table.main tbody tr.selected td { background:var(--selected); }
   .compare-controls select { width:100%; }
   .compare-controls .swap { width:100%; }
   .compare-grid { grid-template-columns:1fr; gap:12px; }
-  .player-card { padding:14px; }
-  .player-card .pa-stats { grid-template-columns:repeat(3,1fr); padding:8px; }
+  .player-card { padding:14px; min-width:0; overflow:hidden; }
+  .player-card .pa-stats { grid-template-columns:repeat(3,1fr); padding:0; }
+  .player-card .pa-stats > div { padding:8px; }
   .player-card .pa-stats b { font-size:13px; }
-  .player-card table { font-size:11px; }
-  .player-card table td, .player-card table th { padding:5px 4px; }
-  .chart-card, .h2h-card { padding:12px; }
+
+  /* Player-card match tables: hide Round (3), Score (5), Opponent (6).
+     Keep Date | Event | Res | Avg | Opp avg = 5 cols. */
+  .player-card table { font-size:11px; table-layout:fixed; width:100%; }
+  .player-card table th:nth-child(3), .player-card table td:nth-child(3),
+  .player-card table th:nth-child(5), .player-card table td:nth-child(5),
+  .player-card table th:nth-child(6), .player-card table td:nth-child(6) { display:none; }
+  .player-card table td, .player-card table th { padding:6px 4px;
+    overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  /* Truncate long tournament names */
+  .player-card table td:nth-child(2) { max-width:100px; }
+
+  .chart-card, .h2h-card { padding:12px; min-width:0; overflow:hidden; }
   .chart-wrap { height:240px; }
-  .common-table { font-size:11px; }
-  .common-table th, .common-table td { padding:6px 4px; }
+
+  /* Common-opponents (#commonOpponents): cols are Opponent | A games | A avg | A wins | B games | B avg | B wins | Edge.
+     Hide 2, 4, 5, 7 → keep Opponent | A avg | B avg | Edge. */
+  .common-table { font-size:11px; table-layout:fixed; width:100%; }
+  .common-table th, .common-table td { padding:6px 4px;
+    overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  #commonOpponents .common-table th:nth-child(2), #commonOpponents .common-table td:nth-child(2),
+  #commonOpponents .common-table th:nth-child(4), #commonOpponents .common-table td:nth-child(4),
+  #commonOpponents .common-table th:nth-child(5), #commonOpponents .common-table td:nth-child(5),
+  #commonOpponents .common-table th:nth-child(7), #commonOpponents .common-table td:nth-child(7) { display:none; }
+
+  /* Direct H2H (#directH2H): cols are Date | Event | Round | Result | Score | A's avg.
+     Hide 3 (Round) and 5 (Score) → keep Date | Event | Result | Avg. */
+  #directH2H .common-table th:nth-child(3), #directH2H .common-table td:nth-child(3),
+  #directH2H .common-table th:nth-child(5), #directH2H .common-table td:nth-child(5) { display:none; }
 }
 
 /* Very small phones — drop the rank column too to save width */
