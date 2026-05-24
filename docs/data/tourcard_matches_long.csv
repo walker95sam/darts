@@ -39,66 +39,66 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 10,Gary Anderson,8,2026-04-27,Players Championship,PT,Semi Final,Lost,1 V 7,Beau Greaves,138,96.11,105.56,-9.45,3428,107
 10,Gary Anderson,9,2026-04-27,Players Championship,PT,Quarter Final,Won,6 V 3,Wessel Nijman,130,108.1,105.57,2.53,4324,120
 10,Gary Anderson,10,2026-04-27,Players Championship,PT,Last 16,Won,6 V 1,Alexander Merkx,2223,110.55,94.94,15.61,3427,93
-3,Michael van Gerwen,1,2026-05-21,Premier League,U,Weekly Quarter Final,Lost,5 V 6,Luke Humphries,34,100.66,105.24,-4.58,4966,148
-3,Michael van Gerwen,2,2026-05-14,Premier League,U,Weekly Quarter Final,Lost,4 V 6,Gerwyn Price,2,87.96,101.32,-13.36,4310,147
-3,Michael van Gerwen,3,2026-05-13,Players Championship,PT,Last 128,Lost,3 V 6,Joe Hunt,14283,92.95,94.27,-1.32,3966,128
-3,Michael van Gerwen,4,2026-05-12,Players Championship,PT,Final,Won,8 V 5,Dirk van Duijvenbode,14,106.57,101.86,4.71,6252,176
-3,Michael van Gerwen,5,2026-05-12,Players Championship,PT,Semi Final,Won,7 V 0,Martin Schindler,82,122.34,108.78,13.56,3507,86
-3,Michael van Gerwen,6,2026-05-12,Players Championship,PT,Quarter Final,Won,6 V 2,Beau Greaves,138,102.47,97.02,5.45,3928,115
-3,Michael van Gerwen,7,2026-05-12,Players Championship,PT,Last 16,Won,6 V 4,Gian van Veen,2641,101.92,86.36,15.56,4960,146
-3,Michael van Gerwen,8,2026-05-12,Players Championship,PT,Last 32,Won,6 V 4,Ross Smith,26,96.97,90.21,6.76,4687,145
-3,Michael van Gerwen,9,2026-05-12,Players Championship,PT,Last 64,Won,6 V 4,Adam Lipscombe,14385,89.68,88.22,1.46,4783,160
-3,Michael van Gerwen,10,2026-05-12,Players Championship,PT,Last 128,Won,6 V 4,Dennie Olde Kalter,5162,93.87,89.26,4.61,4756,152
-2641,Gian van Veen,1,2026-05-21,Premier League,U,Weekly Quarter Final,Lost,2 V 6,Gerwyn Price,2,95.38,105.97,-10.59,3370,106
-2641,Gian van Veen,2,2026-05-19,Players Championship,PT,Last 128,Lost,1 V 6,Joe Hunt,14283,87.45,87.98,-0.53,3323,114
-2641,Gian van Veen,3,2026-05-18,Players Championship,PT,Last 32,Lost,0 V 6,Andrew Gilding,2088,90.67,95.94,-5.27,2720,90
-2641,Gian van Veen,4,2026-05-18,Players Championship,PT,Last 64,Won,6 V 2,Max Hopp,59,87.22,79.39,7.83,3954,136
-2641,Gian van Veen,5,2026-05-18,Players Championship,PT,Last 128,Won,6 V 4,Mike De Decker,66,97.62,101.2,-3.58,4588,141
-2641,Gian van Veen,6,2026-05-14,Premier League,U,Weekly Semi Final,Lost,4 V 6,Gerwyn Price,2,98.07,96.38,1.69,4544,139
-2641,Gian van Veen,7,2026-05-14,Premier League,U,Weekly Quarter Final,Won,6 V 3,Josh Rock,20114,102.14,92.3,9.84,4324,127
-2641,Gian van Veen,8,2026-05-13,Players Championship,PT,Last 128,Lost,4 V 6,Rhys Griffin,271,85.41,80.5,4.91,4897,172
-2641,Gian van Veen,9,2026-05-12,Players Championship,PT,Last 16,Lost,4 V 6,Michael van Gerwen,3,86.36,101.92,-15.56,4174,145
-2641,Gian van Veen,10,2026-05-12,Players Championship,PT,Last 32,Won,6 V 3,Mickey Mansell,65,93.17,91.62,1.55,4441,143
-39,Chris Dobey,1,2026-05-19,Players Championship,PT,Last 128,Lost,2 V 6,Robert Owen,51308,95.44,95.87,-0.43,3595,113
-39,Chris Dobey,2,2026-05-18,Players Championship,PT,Last 64,Lost,3 V 6,Sebastian Bialecki,3038,90.38,91.51,-1.13,4097,136
-39,Chris Dobey,3,2026-05-18,Players Championship,PT,Last 128,Won,6 V 1,Carl Sneyd,23238,98.55,85.47,13.08,3482,106
-39,Chris Dobey,4,2026-05-12,Players Championship,PT,Last 16,Lost,4 V 6,Dirk van Duijvenbode,14,104.43,103.58,0.85,4595,132
-39,Chris Dobey,5,2026-05-12,Players Championship,PT,Last 32,Won,6 V 2,Richard Veenstra,5145,110.44,110.43,0.01,3755,102
-39,Chris Dobey,6,2026-05-12,Players Championship,PT,Last 64,Won,6 V 3,Owen Bates,14661,108.72,96.76,11.96,4385,121
-39,Chris Dobey,7,2026-05-12,Players Championship,PT,Last 128,Won,6 V 2,Benjamin Pratnemer,2278,89.5,83.79,5.71,3908,131
-39,Chris Dobey,8,2026-05-09,European Tour,ET,Last 32,Lost,5 V 6,Kim Huybrechts,51,99.97,98.94,1.03,5132,154
-39,Chris Dobey,9,2026-05-05,Players Championship,PT,Last 64,Lost,5 V 6,Tom Bissell,46158,94.29,94.83,-0.54,5029,160
-39,Chris Dobey,10,2026-05-05,Players Championship,PT,Last 128,Won,6 V 0,Danny Trueman,18990,106.09,86.65,19.44,3006,85
-36,Stephen Bunting,1,2026-05-21,Premier League,U,Weekly Final,Won,6 V 3,Luke Humphries,34,106.37,102.23,4.14,4184,118
-36,Stephen Bunting,2,2026-05-21,Premier League,U,Weekly Semi Final,Won,6 V 3,Gerwyn Price,2,98.98,93.43,5.55,4355,132
-36,Stephen Bunting,3,2026-05-21,Premier League,U,Weekly Quarter Final,Won,6 V 3,Jonny Clayton,20,102.22,104.9,-2.68,4123,121
-36,Stephen Bunting,4,2026-05-19,Players Championship,PT,Last 128,Lost,3 V 6,Tom Bissell,46158,93.69,94.01,-0.32,4216,135
-36,Stephen Bunting,5,2026-05-18,Players Championship,PT,Quarter Final,Lost,3 V 6,Jermaine Wattimena,18,92.82,99.89,-7.07,4053,131
-36,Stephen Bunting,6,2026-05-18,Players Championship,PT,Last 16,Won,6 V 5,Damon Heta,13,100.43,92.1,8.33,5423,162
-36,Stephen Bunting,7,2026-05-18,Players Championship,PT,Last 32,Won,6 V 5,Mensur Suljović,9,101.68,94.03,7.65,5321,157
-36,Stephen Bunting,8,2026-05-18,Players Championship,PT,Last 64,Won,6 V 5,Cristo Reyes,63,96.94,102.75,-5.81,5041,156
-36,Stephen Bunting,9,2026-05-18,Players Championship,PT,Last 128,Won,6 V 0,Ricky Evans,45,89.29,77.26,12.03,3006,101
-36,Stephen Bunting,10,2026-05-14,Premier League,U,Weekly Quarter Final,Lost,0 V 6,Luke Humphries,34,92.46,107.36,-14.9,2589,84
-130,Wessel Nijman,1,2026-05-19,Players Championship,PT,Last 128,Lost,2 V 6,Mario Vandenbogaerde,2363,90.28,100.75,-10.47,3521,117
-130,Wessel Nijman,2,2026-05-18,Players Championship,PT,Quarter Final,Lost,3 V 6,Luke Humphries,34,97.99,94.67,3.32,4181,128
-130,Wessel Nijman,3,2026-05-18,Players Championship,PT,Last 16,Won,6 V 5,Andrew Gilding,2088,94.17,97.37,-3.2,5054,161
-130,Wessel Nijman,4,2026-05-18,Players Championship,PT,Last 32,Won,6 V 2,Mickey Mansell,65,99.79,86.44,13.35,3925,118
-130,Wessel Nijman,5,2026-05-18,Players Championship,PT,Last 64,Won,6 V 4,Darryl Pilgrim,5185,100.57,94.04,6.53,4626,138
-130,Wessel Nijman,6,2026-05-18,Players Championship,PT,Last 128,Won,6 V 3,Daniel Ayres,1975,100.81,96.07,4.74,4234,126
-130,Wessel Nijman,7,2026-05-13,Players Championship,PT,Last 32,Lost,5 V 6,Darius Labanauskas,57,96.17,93.68,2.49,5129,160
-130,Wessel Nijman,8,2026-05-13,Players Championship,PT,Last 64,Won,6 V 2,Niall Culleton,2034,98.28,86.67,11.61,3964,121
-130,Wessel Nijman,9,2026-05-13,Players Championship,PT,Last 128,Won,6 V 2,Lukas Wenig,148,103.76,102.91,0.85,3839,111
-130,Wessel Nijman,10,2026-05-12,Players Championship,PT,Last 16,Lost,5 V 6,Martin Schindler,82,100.81,105.9,-5.09,4671,139
-20114,Josh Rock,1,2026-05-21,Premier League,U,Weekly Quarter Final,Lost,5 V 6,Luke Littler,5403,89.43,87.89,1.54,4978,167
-20114,Josh Rock,2,2026-05-19,Players Championship,PT,Last 32,Lost,3 V 6,Ryan Joyce,28,91.36,95.33,-3.97,3837,126
-20114,Josh Rock,3,2026-05-19,Players Championship,PT,Last 64,Won,6 V 5,Ritchie Edhouse,2062,95.6,98.84,-3.24,5067,159
-20114,Josh Rock,4,2026-05-19,Players Championship,PT,Last 128,Won,6 V 3,Ian White,17,84.02,83.8,0.22,4285,153
-20114,Josh Rock,5,2026-05-18,Players Championship,PT,Last 128,Lost,5 V 6,Sam Price,22829,90.97,94.48,-3.51,4882,161
-20114,Josh Rock,6,2026-05-14,Premier League,U,Weekly Quarter Final,Lost,3 V 6,Gian van Veen,2641,92.3,102.14,-9.84,3815,124
-20114,Josh Rock,7,2026-05-13,Players Championship,PT,Last 128,Lost,2 V 6,Brendan Dolan,23,77.33,98.9,-21.57,2990,116
-20114,Josh Rock,8,2026-05-12,Players Championship,PT,Quarter Final,Lost,3 V 6,Dirk van Duijvenbode,14,95.93,97.95,-2.02,4189,131
-20114,Josh Rock,9,2026-05-12,Players Championship,PT,Last 16,Won,6 V 5,Derek Coulson,5415,89.88,89.78,0.1,5213,174
-20114,Josh Rock,10,2026-05-12,Players Championship,PT,Last 32,Won,6 V 2,Tommy Morris,20140,94.3,90.55,3.75,3835,122
+3,Michael van Gerwen,1,2026-05-23,European Tour,ET,Last 32,Won,6 V 5,Madars Razma,42,89.54,88.79,0.75,5104,171
+3,Michael van Gerwen,2,2026-05-21,Premier League,U,Weekly Quarter Final,Lost,5 V 6,Luke Humphries,34,100.66,105.24,-4.58,4966,148
+3,Michael van Gerwen,3,2026-05-14,Premier League,U,Weekly Quarter Final,Lost,4 V 6,Gerwyn Price,2,87.96,101.32,-13.36,4310,147
+3,Michael van Gerwen,4,2026-05-13,Players Championship,PT,Last 128,Lost,3 V 6,Joe Hunt,14283,92.95,94.27,-1.32,3966,128
+3,Michael van Gerwen,5,2026-05-12,Players Championship,PT,Final,Won,8 V 5,Dirk van Duijvenbode,14,106.57,101.86,4.71,6252,176
+3,Michael van Gerwen,6,2026-05-12,Players Championship,PT,Semi Final,Won,7 V 0,Martin Schindler,82,122.34,108.78,13.56,3507,86
+3,Michael van Gerwen,7,2026-05-12,Players Championship,PT,Quarter Final,Won,6 V 2,Beau Greaves,138,102.47,97.02,5.45,3928,115
+3,Michael van Gerwen,8,2026-05-12,Players Championship,PT,Last 16,Won,6 V 4,Gian van Veen,2641,101.92,86.36,15.56,4960,146
+3,Michael van Gerwen,9,2026-05-12,Players Championship,PT,Last 32,Won,6 V 4,Ross Smith,26,96.97,90.21,6.76,4687,145
+3,Michael van Gerwen,10,2026-05-12,Players Championship,PT,Last 64,Won,6 V 4,Adam Lipscombe,14385,89.68,88.22,1.46,4783,160
+2641,Gian van Veen,1,2026-05-23,European Tour,ET,Last 32,Won,6 V 3,Connor Scutt,2317,96.88,89.95,6.93,4295,133
+2641,Gian van Veen,2,2026-05-21,Premier League,U,Weekly Quarter Final,Lost,2 V 6,Gerwyn Price,2,95.38,105.97,-10.59,3370,106
+2641,Gian van Veen,3,2026-05-19,Players Championship,PT,Last 128,Lost,1 V 6,Joe Hunt,14283,87.45,87.98,-0.53,3323,114
+2641,Gian van Veen,4,2026-05-18,Players Championship,PT,Last 32,Lost,0 V 6,Andrew Gilding,2088,90.67,95.94,-5.27,2720,90
+2641,Gian van Veen,5,2026-05-18,Players Championship,PT,Last 64,Won,6 V 2,Max Hopp,59,87.22,79.39,7.83,3954,136
+2641,Gian van Veen,6,2026-05-18,Players Championship,PT,Last 128,Won,6 V 4,Mike De Decker,66,97.62,101.2,-3.58,4588,141
+2641,Gian van Veen,7,2026-05-14,Premier League,U,Weekly Semi Final,Lost,4 V 6,Gerwyn Price,2,98.07,96.38,1.69,4544,139
+2641,Gian van Veen,8,2026-05-14,Premier League,U,Weekly Quarter Final,Won,6 V 3,Josh Rock,20114,102.14,92.3,9.84,4324,127
+2641,Gian van Veen,9,2026-05-13,Players Championship,PT,Last 128,Lost,4 V 6,Rhys Griffin,271,85.41,80.5,4.91,4897,172
+2641,Gian van Veen,10,2026-05-12,Players Championship,PT,Last 16,Lost,4 V 6,Michael van Gerwen,3,86.36,101.92,-15.56,4174,145
+36,Stephen Bunting,1,2026-05-23,European Tour,ET,Last 32,Won,6 V 2,Krzysztof Ratajski,12,102.54,95.38,7.16,3794,111
+36,Stephen Bunting,2,2026-05-21,Premier League,U,Weekly Final,Won,6 V 3,Luke Humphries,34,106.37,102.23,4.14,4184,118
+36,Stephen Bunting,3,2026-05-21,Premier League,U,Weekly Semi Final,Won,6 V 3,Gerwyn Price,2,98.98,93.43,5.55,4355,132
+36,Stephen Bunting,4,2026-05-21,Premier League,U,Weekly Quarter Final,Won,6 V 3,Jonny Clayton,20,102.22,104.9,-2.68,4123,121
+36,Stephen Bunting,5,2026-05-19,Players Championship,PT,Last 128,Lost,3 V 6,Tom Bissell,46158,93.69,94.01,-0.32,4216,135
+36,Stephen Bunting,6,2026-05-18,Players Championship,PT,Quarter Final,Lost,3 V 6,Jermaine Wattimena,18,92.82,99.89,-7.07,4053,131
+36,Stephen Bunting,7,2026-05-18,Players Championship,PT,Last 16,Won,6 V 5,Damon Heta,13,100.43,92.1,8.33,5423,162
+36,Stephen Bunting,8,2026-05-18,Players Championship,PT,Last 32,Won,6 V 5,Mensur Suljović,9,101.68,94.03,7.65,5321,157
+36,Stephen Bunting,9,2026-05-18,Players Championship,PT,Last 64,Won,6 V 5,Cristo Reyes,63,96.94,102.75,-5.81,5041,156
+36,Stephen Bunting,10,2026-05-18,Players Championship,PT,Last 128,Won,6 V 0,Ricky Evans,45,89.29,77.26,12.03,3006,101
+39,Chris Dobey,1,2026-05-23,European Tour,ET,Last 32,Lost,5 V 6,Kim Huybrechts,51,98.8,104.66,-5.86,5039,153
+39,Chris Dobey,2,2026-05-19,Players Championship,PT,Last 128,Lost,2 V 6,Robert Owen,51308,95.44,95.87,-0.43,3595,113
+39,Chris Dobey,3,2026-05-18,Players Championship,PT,Last 64,Lost,3 V 6,Sebastian Bialecki,3038,90.38,91.51,-1.13,4097,136
+39,Chris Dobey,4,2026-05-18,Players Championship,PT,Last 128,Won,6 V 1,Carl Sneyd,23238,98.55,85.47,13.08,3482,106
+39,Chris Dobey,5,2026-05-12,Players Championship,PT,Last 16,Lost,4 V 6,Dirk van Duijvenbode,14,104.43,103.58,0.85,4595,132
+39,Chris Dobey,6,2026-05-12,Players Championship,PT,Last 32,Won,6 V 2,Richard Veenstra,5145,110.44,110.43,0.01,3755,102
+39,Chris Dobey,7,2026-05-12,Players Championship,PT,Last 64,Won,6 V 3,Owen Bates,14661,108.72,96.76,11.96,4385,121
+39,Chris Dobey,8,2026-05-12,Players Championship,PT,Last 128,Won,6 V 2,Benjamin Pratnemer,2278,89.5,83.79,5.71,3908,131
+39,Chris Dobey,9,2026-05-09,European Tour,ET,Last 32,Lost,5 V 6,Kim Huybrechts,51,99.97,98.94,1.03,5132,154
+39,Chris Dobey,10,2026-05-05,Players Championship,PT,Last 64,Lost,5 V 6,Tom Bissell,46158,94.29,94.83,-0.54,5029,160
+130,Wessel Nijman,1,2026-05-23,European Tour,ET,Last 32,Won,6 V 5,William O&#039;Connor,30,97.16,92.35,4.81,5214,161
+130,Wessel Nijman,2,2026-05-19,Players Championship,PT,Last 128,Lost,2 V 6,Mario Vandenbogaerde,2363,90.28,100.75,-10.47,3521,117
+130,Wessel Nijman,3,2026-05-18,Players Championship,PT,Quarter Final,Lost,3 V 6,Luke Humphries,34,97.99,94.67,3.32,4181,128
+130,Wessel Nijman,4,2026-05-18,Players Championship,PT,Last 16,Won,6 V 5,Andrew Gilding,2088,94.17,97.37,-3.2,5054,161
+130,Wessel Nijman,5,2026-05-18,Players Championship,PT,Last 32,Won,6 V 2,Mickey Mansell,65,99.79,86.44,13.35,3925,118
+130,Wessel Nijman,6,2026-05-18,Players Championship,PT,Last 64,Won,6 V 4,Darryl Pilgrim,5185,100.57,94.04,6.53,4626,138
+130,Wessel Nijman,7,2026-05-18,Players Championship,PT,Last 128,Won,6 V 3,Daniel Ayres,1975,100.81,96.07,4.74,4234,126
+130,Wessel Nijman,8,2026-05-13,Players Championship,PT,Last 32,Lost,5 V 6,Darius Labanauskas,57,96.17,93.68,2.49,5129,160
+130,Wessel Nijman,9,2026-05-13,Players Championship,PT,Last 64,Won,6 V 2,Niall Culleton,2034,98.28,86.67,11.61,3964,121
+130,Wessel Nijman,10,2026-05-13,Players Championship,PT,Last 128,Won,6 V 2,Lukas Wenig,148,103.76,102.91,0.85,3839,111
+20114,Josh Rock,1,2026-05-23,European Tour,ET,Last 32,Lost,4 V 6,Cameron Menzies,2221,99.17,97.26,1.91,4628,140
+20114,Josh Rock,2,2026-05-21,Premier League,U,Weekly Quarter Final,Lost,5 V 6,Luke Littler,5403,89.43,87.89,1.54,4978,167
+20114,Josh Rock,3,2026-05-19,Players Championship,PT,Last 32,Lost,3 V 6,Ryan Joyce,28,91.36,95.33,-3.97,3837,126
+20114,Josh Rock,4,2026-05-19,Players Championship,PT,Last 64,Won,6 V 5,Ritchie Edhouse,2062,95.6,98.84,-3.24,5067,159
+20114,Josh Rock,5,2026-05-19,Players Championship,PT,Last 128,Won,6 V 3,Ian White,17,84.02,83.8,0.22,4285,153
+20114,Josh Rock,6,2026-05-18,Players Championship,PT,Last 128,Lost,5 V 6,Sam Price,22829,90.97,94.48,-3.51,4882,161
+20114,Josh Rock,7,2026-05-14,Premier League,U,Weekly Quarter Final,Lost,3 V 6,Gian van Veen,2641,92.3,102.14,-9.84,3815,124
+20114,Josh Rock,8,2026-05-13,Players Championship,PT,Last 128,Lost,2 V 6,Brendan Dolan,23,77.33,98.9,-21.57,2990,116
+20114,Josh Rock,9,2026-05-12,Players Championship,PT,Quarter Final,Lost,3 V 6,Dirk van Duijvenbode,14,95.93,97.95,-2.02,4189,131
+20114,Josh Rock,10,2026-05-12,Players Championship,PT,Last 16,Won,6 V 5,Derek Coulson,5415,89.88,89.78,0.1,5213,174
 20,Jonny Clayton,1,2026-05-21,Premier League,U,Weekly Quarter Final,Lost,3 V 6,Stephen Bunting,36,104.9,102.22,2.68,4301,123
 20,Jonny Clayton,2,2026-05-19,Players Championship,PT,Quarter Final,Lost,2 V 6,Luke Woodhouse,70,88.49,96.0,-7.51,3628,123
 20,Jonny Clayton,3,2026-05-19,Players Championship,PT,Last 16,Won,6 V 0,Chris Landman,5183,106.09,88.33,17.76,3006,85
@@ -109,26 +109,26 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 20,Jonny Clayton,8,2026-05-18,Players Championship,PT,Last 128,Won,6 V 1,Adam Gawlas,134,96.3,84.22,12.08,3499,109
 20,Jonny Clayton,9,2026-05-14,Premier League,U,Weekly Quarter Final,Lost,0 V 6,Luke Littler,5403,93.07,100.2,-7.13,2606,84
 20,Jonny Clayton,10,2026-05-13,Players Championship,PT,Final,Lost,3 V 8,Andrew Gilding,2088,95.24,99.78,-4.54,4984,157
-14,Dirk van Duijvenbode,1,2026-05-19,Players Championship,PT,Last 128,Lost,3 V 6,Connor Scutt,2317,98.09,98.58,-0.49,4185,128
-14,Dirk van Duijvenbode,2,2026-05-18,Players Championship,PT,Quarter Final,Lost,4 V 6,Kevin Doets,2052,99.11,107.53,-8.42,4394,133
-14,Dirk van Duijvenbode,3,2026-05-18,Players Championship,PT,Last 16,Won,6 V 4,Keane Barry,129,100.45,100.5,-0.05,4788,143
-14,Dirk van Duijvenbode,4,2026-05-18,Players Championship,PT,Last 32,Won,6 V 4,Jeffrey de Graaf,2092,99.41,96.58,2.83,4639,140
-14,Dirk van Duijvenbode,5,2026-05-18,Players Championship,PT,Last 64,Won,6 V 1,Viktor Tingstrom,3094,98.35,90.0,8.35,3475,106
-14,Dirk van Duijvenbode,6,2026-05-18,Players Championship,PT,Last 128,Won,6 V 3,Ricardo Pietreczko,153,83.2,80.18,3.02,4271,154
-14,Dirk van Duijvenbode,7,2026-05-13,Players Championship,PT,Last 32,Lost,4 V 6,Andrew Gilding,2088,96.82,102.36,-5.54,4583,142
-14,Dirk van Duijvenbode,8,2026-05-13,Players Championship,PT,Last 64,Won,6 V 2,Tyler Thorpe,27176,105.21,99.71,5.5,3928,112
-14,Dirk van Duijvenbode,9,2026-05-13,Players Championship,PT,Last 128,Won,6 V 3,Tommy Morris,20140,95.39,85.02,10.37,4229,133
-14,Dirk van Duijvenbode,10,2026-05-12,Players Championship,PT,Final,Lost,5 V 8,Michael van Gerwen,3,101.86,106.57,-4.71,5806,171
-26,Ross Smith,1,2026-05-19,Players Championship,PT,Last 16,Lost,3 V 6,Niko Springer,196,88.89,92.3,-3.41,3911,132
-26,Ross Smith,2,2026-05-19,Players Championship,PT,Last 32,Won,6 V 5,Kai Gotthardt,158,94.76,86.11,8.65,5338,169
-26,Ross Smith,3,2026-05-19,Players Championship,PT,Last 64,Won,6 V 1,David Sharp,6682,99.39,105.64,-6.25,3313,100
-26,Ross Smith,4,2026-05-19,Players Championship,PT,Last 128,Won,6 V 3,Ricky Evans,45,90.71,77.47,13.24,4445,147
-26,Ross Smith,5,2026-05-18,Players Championship,PT,Last 16,Lost,2 V 6,Kevin Doets,2052,88.96,106.55,-17.59,3351,113
-26,Ross Smith,6,2026-05-18,Players Championship,PT,Last 32,Won,6 V 3,Tavis Dudeney,3059,90.35,82.93,7.42,4427,147
-26,Ross Smith,7,2026-05-18,Players Championship,PT,Last 64,Won,6 V 1,Jim Long,5147,90.18,83.14,7.04,3487,116
-26,Ross Smith,8,2026-05-18,Players Championship,PT,Last 128,Won,6 V 1,Tyler Thorpe,27176,106.04,78.76,27.28,3464,98
-26,Ross Smith,9,2026-05-13,Players Championship,PT,Last 128,Lost,5 V 6,Robert Owen,51308,95.04,92.4,2.64,4942,156
-26,Ross Smith,10,2026-05-12,Players Championship,PT,Last 32,Lost,4 V 6,Michael van Gerwen,3,90.21,96.97,-6.76,4240,141
+14,Dirk van Duijvenbode,1,2026-05-22,European Tour,ET,Last 48 (Premier),Lost,5 V 6,Rob Cross,29,99.18,95.13,4.05,5058,153
+14,Dirk van Duijvenbode,2,2026-05-19,Players Championship,PT,Last 128,Lost,3 V 6,Connor Scutt,2317,98.09,98.58,-0.49,4185,128
+14,Dirk van Duijvenbode,3,2026-05-18,Players Championship,PT,Quarter Final,Lost,4 V 6,Kevin Doets,2052,99.11,107.53,-8.42,4394,133
+14,Dirk van Duijvenbode,4,2026-05-18,Players Championship,PT,Last 16,Won,6 V 4,Keane Barry,129,100.45,100.5,-0.05,4788,143
+14,Dirk van Duijvenbode,5,2026-05-18,Players Championship,PT,Last 32,Won,6 V 4,Jeffrey de Graaf,2092,99.41,96.58,2.83,4639,140
+14,Dirk van Duijvenbode,6,2026-05-18,Players Championship,PT,Last 64,Won,6 V 1,Viktor Tingstrom,3094,98.35,90.0,8.35,3475,106
+14,Dirk van Duijvenbode,7,2026-05-18,Players Championship,PT,Last 128,Won,6 V 3,Ricardo Pietreczko,153,83.2,80.18,3.02,4271,154
+14,Dirk van Duijvenbode,8,2026-05-13,Players Championship,PT,Last 32,Lost,4 V 6,Andrew Gilding,2088,96.82,102.36,-5.54,4583,142
+14,Dirk van Duijvenbode,9,2026-05-13,Players Championship,PT,Last 64,Won,6 V 2,Tyler Thorpe,27176,105.21,99.71,5.5,3928,112
+14,Dirk van Duijvenbode,10,2026-05-13,Players Championship,PT,Last 128,Won,6 V 3,Tommy Morris,20140,95.39,85.02,10.37,4229,133
+26,Ross Smith,1,2026-05-23,European Tour,ET,Last 32,Won,6 V 3,Joe Cullen,6,102.17,98.61,3.56,4223,124
+26,Ross Smith,2,2026-05-19,Players Championship,PT,Last 16,Lost,3 V 6,Niko Springer,196,88.89,92.3,-3.41,3911,132
+26,Ross Smith,3,2026-05-19,Players Championship,PT,Last 32,Won,6 V 5,Kai Gotthardt,158,94.76,86.11,8.65,5338,169
+26,Ross Smith,4,2026-05-19,Players Championship,PT,Last 64,Won,6 V 1,David Sharp,6682,99.39,105.64,-6.25,3313,100
+26,Ross Smith,5,2026-05-19,Players Championship,PT,Last 128,Won,6 V 3,Ricky Evans,45,90.71,77.47,13.24,4445,147
+26,Ross Smith,6,2026-05-18,Players Championship,PT,Last 16,Lost,2 V 6,Kevin Doets,2052,88.96,106.55,-17.59,3351,113
+26,Ross Smith,7,2026-05-18,Players Championship,PT,Last 32,Won,6 V 3,Tavis Dudeney,3059,90.35,82.93,7.42,4427,147
+26,Ross Smith,8,2026-05-18,Players Championship,PT,Last 64,Won,6 V 1,Jim Long,5147,90.18,83.14,7.04,3487,116
+26,Ross Smith,9,2026-05-18,Players Championship,PT,Last 128,Won,6 V 1,Tyler Thorpe,27176,106.04,78.76,27.28,3464,98
+26,Ross Smith,10,2026-05-13,Players Championship,PT,Last 128,Lost,5 V 6,Robert Owen,51308,95.04,92.4,2.64,4942,156
 8,Nathan Aspinall,1,2026-04-19,European Tour,ET,Quarter Final,Lost,4 V 6,Ross Smith,26,90.24,93.44,-3.2,4422,147
 8,Nathan Aspinall,2,2026-04-19,European Tour,ET,Last 16,Won,6 V 3,James Wade,7,106.2,103.08,3.12,4354,123
 8,Nathan Aspinall,3,2026-04-18,European Tour,ET,Last 32,Won,6 V 1,Jeffrey de Zwaan,48,92.01,84.35,7.66,3343,109
@@ -139,146 +139,146 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 8,Nathan Aspinall,8,2026-04-05,European Tour,ET,Last 32,Won,6 V 5,Ricardo Pietreczko,153,99.5,91.31,8.19,5207,157
 8,Nathan Aspinall,9,2026-03-31,Players Championship,PT,Last 32,Lost,3 V 6,Leon Weber,32046,81.58,89.42,-7.84,3916,144
 8,Nathan Aspinall,10,2026-03-31,Players Championship,PT,Last 64,Won,6 V 3,Adam Gawlas,134,93.78,81.13,12.65,4439,142
-2052,Kevin Doets,1,2026-05-19,Players Championship,PT,Quarter Final,Lost,5 V 6,Harry Ward,103,91.3,86.13,5.17,4991,164
-2052,Kevin Doets,2,2026-05-19,Players Championship,PT,Last 16,Won,6 V 2,Ryan Joyce,28,107.5,90.52,16.98,3906,109
-2052,Kevin Doets,3,2026-05-19,Players Championship,PT,Last 32,Won,6 V 1,Stefan Bellmont,1989,99.3,94.21,5.09,3343,101
-2052,Kevin Doets,4,2026-05-19,Players Championship,PT,Last 64,Won,6 V 3,Nick Kenny,84,92.03,85.98,6.05,4387,143
-2052,Kevin Doets,5,2026-05-19,Players Championship,PT,Last 128,Won,6 V 2,Niall Culleton,2034,110.21,88.0,22.21,3931,107
-2052,Kevin Doets,6,2026-05-18,Players Championship,PT,Semi Final,Lost,2 V 7,Jermaine Wattimena,18,102.65,111.05,-8.4,3935,115
-2052,Kevin Doets,7,2026-05-18,Players Championship,PT,Quarter Final,Won,6 V 4,Dirk van Duijvenbode,14,107.53,99.11,8.42,4803,134
-2052,Kevin Doets,8,2026-05-18,Players Championship,PT,Last 16,Won,6 V 2,Ross Smith,26,106.55,88.96,17.59,3978,112
-2052,Kevin Doets,9,2026-05-18,Players Championship,PT,Last 32,Won,6 V 1,Adam Leek,20494,95.52,87.03,8.49,3375,106
-2052,Kevin Doets,10,2026-05-18,Players Championship,PT,Last 64,Won,6 V 5,Leon Weber,32046,97.39,91.51,5.88,5129,158
-7,James Wade,1,2026-05-19,Players Championship,PT,Semi Final,Lost,6 V 7,Andrew Gilding,2088,94.58,96.03,-1.45,5927,188
-7,James Wade,2,2026-05-19,Players Championship,PT,Quarter Final,Won,6 V 5,Sebastian Bialecki,3038,100.55,95.31,5.24,5195,155
-7,James Wade,3,2026-05-19,Players Championship,PT,Last 16,Won,6 V 5,Tommy Morris,20140,90.67,91.19,-0.52,5168,171
-7,James Wade,4,2026-05-19,Players Championship,PT,Last 32,Won,6 V 2,Niels Zonneveld,55,101.97,79.83,22.14,3943,116
-7,James Wade,5,2026-05-19,Players Championship,PT,Last 64,Won,6 V 4,Benjamin Pratnemer,2278,91.35,86.69,4.66,4750,156
-7,James Wade,6,2026-05-19,Players Championship,PT,Last 128,Won,6 V 1,Scott Williams,5137,98.05,80.83,17.22,3497,107
-7,James Wade,7,2026-05-18,Players Championship,PT,Last 128,Lost,5 V 6,Dimitri Van den Bergh,25,92.18,90.95,1.23,5193,169
-7,James Wade,8,2026-05-13,Players Championship,PT,Last 64,Lost,3 V 6,Justin Hood,2138,95.33,103.63,-8.3,4131,130
-7,James Wade,9,2026-05-13,Players Championship,PT,Last 128,Won,6 V 1,Greg Ritchie,2295,102.18,92.12,10.06,3338,98
-7,James Wade,10,2026-05-12,Players Championship,PT,Last 128,Lost,3 V 6,Cristo Reyes,63,98.28,105.74,-7.46,4095,125
-31,Ryan Searle,1,2026-05-19,Players Championship,PT,Last 64,Lost,3 V 6,Jeffrey Sparidaans,5172,95.48,93.05,2.43,4042,127
-31,Ryan Searle,2,2026-05-19,Players Championship,PT,Last 128,Won,6 V 2,Dennie Olde Kalter,5162,103.46,94.66,8.8,3828,111
-31,Ryan Searle,3,2026-05-18,Players Championship,PT,Last 16,Lost,3 V 6,Danny Noppert,22,94.06,102.07,-8.01,3982,127
-31,Ryan Searle,4,2026-05-18,Players Championship,PT,Last 32,Won,6 V 1,Derek Coulson,5415,103.12,101.32,1.8,3403,99
-31,Ryan Searle,5,2026-05-18,Players Championship,PT,Last 64,Won,6 V 4,Pascal Rupprecht,24822,95.44,91.23,4.21,4613,145
-31,Ryan Searle,6,2026-05-18,Players Championship,PT,Last 128,Won,6 V 0,Pero Ljubić,2192,107.36,57.78,49.58,3006,84
-31,Ryan Searle,7,2026-05-13,Players Championship,PT,Last 128,Lost,4 V 6,Callum Goffin,2490,92.73,94.09,-1.36,4482,145
-31,Ryan Searle,8,2026-05-12,Players Championship,PT,Last 64,Lost,5 V 6,Darius Labanauskas,57,99.41,103.29,-3.88,4805,145
-31,Ryan Searle,9,2026-05-12,Players Championship,PT,Last 128,Won,6 V 3,Marvin Kraft,24609,93.89,88.51,5.38,4319,138
-31,Ryan Searle,10,2026-05-09,European Tour,ET,Last 32,Lost,2 V 6,Kevin Doets,2052,88.95,91.55,-2.6,3558,120
-22,Danny Noppert,1,2026-05-19,Players Championship,PT,Last 32,Lost,4 V 6,Charlie Manby,5636,86.98,91.03,-4.05,4436,153
-22,Danny Noppert,2,2026-05-19,Players Championship,PT,Last 64,Won,6 V 4,Beau Greaves,138,93.75,91.16,2.59,4844,155
-22,Danny Noppert,3,2026-05-19,Players Championship,PT,Last 128,Won,6 V 1,Filip Bereza,46130,84.56,77.87,6.69,3467,123
-22,Danny Noppert,4,2026-05-18,Players Championship,PT,Semi Final,Lost,3 V 7,Luke Humphries,34,97.89,102.88,-4.99,4503,138
-22,Danny Noppert,5,2026-05-18,Players Championship,PT,Quarter Final,Won,6 V 5,Robert Owen,51308,90.18,91.62,-1.44,5050,168
-22,Danny Noppert,6,2026-05-18,Players Championship,PT,Last 16,Won,6 V 3,Ryan Searle,31,102.07,94.06,8.01,4287,126
-22,Danny Noppert,7,2026-05-18,Players Championship,PT,Last 32,Won,6 V 3,Callan Rydz,35,102.32,98.31,4.01,4161,122
-22,Danny Noppert,8,2026-05-18,Players Championship,PT,Last 64,Won,6 V 3,Charlie Manby,5636,105.0,103.22,1.78,4375,125
-22,Danny Noppert,9,2026-05-18,Players Championship,PT,Last 128,Won,6 V 3,Stefaan Henderyck,20186,100.06,95.86,4.2,4436,133
-22,Danny Noppert,10,2026-05-10,European Tour,ET,Last 16,Lost,3 V 6,Cristo Reyes,63,90.51,92.24,-1.73,4224,140
-29,Rob Cross,1,2026-05-19,Players Championship,PT,Last 128,Lost,1 V 6,Stephen Rosney,3057,87.46,97.77,-10.31,3061,105
-29,Rob Cross,2,2026-05-18,Players Championship,PT,Last 128,Lost,5 V 6,Connor Scutt,2317,96.94,93.52,3.42,5073,157
-29,Rob Cross,3,2026-05-13,Players Championship,PT,Last 32,Lost,5 V 6,Justin Hood,2138,105.97,98.64,7.33,5157,146
-29,Rob Cross,4,2026-05-13,Players Championship,PT,Last 64,Won,6 V 4,Kai Gotthardt,158,98.43,98.52,-0.09,4692,143
-29,Rob Cross,5,2026-05-13,Players Championship,PT,Last 128,Won,6 V 3,Jeffrey de Graaf,2092,100.02,92.54,7.48,4301,129
-29,Rob Cross,6,2026-05-12,Players Championship,PT,Last 128,Lost,4 V 6,Ryan Meikle,47,89.32,92.92,-3.6,4436,149
-29,Rob Cross,7,2026-05-10,European Tour,ET,Semi Final,Lost,3 V 7,Kevin Doets,2052,96.9,96.2,0.7,4716,146
-29,Rob Cross,8,2026-05-10,European Tour,ET,Quarter Final,Won,6 V 1,Andrew Gilding,2088,93.92,88.57,5.35,3475,111
-29,Rob Cross,9,2026-05-10,European Tour,ET,Last 16,Won,6 V 4,Michael van Gerwen,3,93.38,94.02,-0.64,4700,151
-29,Rob Cross,10,2026-05-09,European Tour,ET,Last 32,Won,6 V 3,William O&#039;Connor,30,97.49,99.73,-2.24,4257,131
-18,Jermaine Wattimena,1,2026-05-19,Players Championship,PT,Last 128,Lost,3 V 6,Gabriel Clemens,38,89.33,82.86,6.47,4258,143
-18,Jermaine Wattimena,2,2026-05-18,Players Championship,PT,Final,Lost,4 V 8,Luke Humphries,34,97.16,104.89,-7.73,5214,161
-18,Jermaine Wattimena,3,2026-05-18,Players Championship,PT,Semi Final,Won,7 V 2,Kevin Doets,2052,111.05,102.65,8.4,4479,121
-18,Jermaine Wattimena,4,2026-05-18,Players Championship,PT,Quarter Final,Won,6 V 3,Stephen Bunting,36,99.89,92.82,7.07,4395,132
-18,Jermaine Wattimena,5,2026-05-18,Players Championship,PT,Last 16,Won,6 V 2,Dimitri Van den Bergh,25,85.31,78.6,6.71,3640,128
-18,Jermaine Wattimena,6,2026-05-18,Players Championship,PT,Last 32,Won,6 V 2,Stephen Burton,2014,96.71,88.57,8.14,3836,119
-18,Jermaine Wattimena,7,2026-05-18,Players Championship,PT,Last 64,Won,6 V 4,Jeffrey Sparidaans,5172,93.23,85.73,7.5,4910,158
-18,Jermaine Wattimena,8,2026-05-18,Players Championship,PT,Last 128,Won,6 V 2,Alexander Merkx,2223,95.9,93.0,2.9,3772,118
-18,Jermaine Wattimena,9,2026-05-13,Players Championship,PT,Last 16,Lost,0 V 6,Andrew Gilding,2088,81.45,93.94,-12.49,2525,93
-18,Jermaine Wattimena,10,2026-05-13,Players Championship,PT,Last 32,Won,6 V 1,Martijn Dragt,7302,96.31,90.49,5.82,3435,107
-13,Damon Heta,1,2026-05-19,Players Championship,PT,Last 128,Lost,3 V 6,Marvin Kraft,24609,96.27,87.18,9.09,4268,133
-13,Damon Heta,2,2026-05-18,Players Championship,PT,Last 16,Lost,5 V 6,Stephen Bunting,36,92.1,100.43,-8.33,5096,166
-13,Damon Heta,3,2026-05-18,Players Championship,PT,Last 32,Won,6 V 1,Tommy Morris,20140,98.49,92.08,6.41,3447,105
-13,Damon Heta,4,2026-05-18,Players Championship,PT,Last 64,Won,6 V 2,Beau Greaves,138,107.48,91.57,15.91,3726,104
-13,Damon Heta,5,2026-05-18,Players Championship,PT,Last 128,Won,6 V 4,Adam Paxton,2417,91.36,84.7,6.66,4842,159
-13,Damon Heta,6,2026-05-13,Players Championship,PT,Last 16,Lost,4 V 6,Gabriel Clemens,38,86.25,94.22,-7.97,4341,151
-13,Damon Heta,7,2026-05-13,Players Championship,PT,Last 32,Won,6 V 3,Cameron Menzies,2221,93.74,86.08,7.66,4437,142
-13,Damon Heta,8,2026-05-13,Players Championship,PT,Last 64,Won,6 V 4,Charlie Manby,5636,95.94,92.24,3.7,4765,149
-13,Damon Heta,9,2026-05-13,Players Championship,PT,Last 128,Won,6 V 2,Yorick Hofkens,25319,94.48,84.51,9.97,3842,122
-13,Damon Heta,10,2026-05-12,Players Championship,PT,Last 128,Lost,2 V 6,Beau Greaves,138,82.11,91.02,-8.91,3394,124
-12,Krzysztof Ratajski,1,2026-05-19,Players Championship,PT,Last 128,Lost,1 V 6,Tom Sykes,50760,87.28,104.46,-17.18,2793,96
-12,Krzysztof Ratajski,2,2026-05-18,Players Championship,PT,Last 64,Lost,5 V 6,Jeffrey de Graaf,2092,87.99,83.9,4.09,5133,175
-12,Krzysztof Ratajski,3,2026-05-18,Players Championship,PT,Last 128,Won,6 V 1,Nick Kenny,84,99.63,87.36,12.27,3487,105
-12,Krzysztof Ratajski,4,2026-05-13,Players Championship,PT,Last 16,Lost,3 V 6,Stephen Bunting,36,101.28,102.13,-0.85,3950,117
-12,Krzysztof Ratajski,5,2026-05-13,Players Championship,PT,Last 32,Won,6 V 2,Martin Lukeman,2201,93.2,81.58,11.62,3790,122
-12,Krzysztof Ratajski,6,2026-05-13,Players Championship,PT,Last 64,Won,6 V 2,Maik Kuivenhoven,91,90.24,83.2,7.04,3820,127
-12,Krzysztof Ratajski,7,2026-05-13,Players Championship,PT,Last 128,Won,6 V 5,Peter Wright,1,91.65,86.59,5.06,5224,171
-12,Krzysztof Ratajski,8,2026-05-12,Players Championship,PT,Last 128,Lost,4 V 6,Ian White,17,92.21,93.97,-1.76,4641,151
-12,Krzysztof Ratajski,9,2026-05-09,European Tour,ET,Last 32,Lost,3 V 6,Michael van Gerwen,3,99.07,103.41,-4.34,4062,123
-12,Krzysztof Ratajski,10,2026-05-08,European Tour,ET,Last 48 (Premier),Won,6 V 3,Aaron Hardy,2112,91.31,81.99,9.32,4322,142
-70,Luke Woodhouse,1,2026-05-19,Players Championship,PT,Final,Won,8 V 4,Andrew Gilding,2088,102.04,96.96,5.08,5612,165
-70,Luke Woodhouse,2,2026-05-19,Players Championship,PT,Semi Final,Won,7 V 3,Harry Ward,103,99.14,92.05,7.09,4792,145
-70,Luke Woodhouse,3,2026-05-19,Players Championship,PT,Quarter Final,Won,6 V 2,Jonny Clayton,20,96.0,88.49,7.51,3936,123
-70,Luke Woodhouse,4,2026-05-19,Players Championship,PT,Last 16,Won,6 V 5,Charlie Manby,5636,97.84,92.59,5.25,5316,163
-70,Luke Woodhouse,5,2026-05-19,Players Championship,PT,Last 32,Won,6 V 3,William O&#039;Connor,30,100.52,98.8,1.72,4088,122
-70,Luke Woodhouse,6,2026-05-19,Players Championship,PT,Last 64,Won,6 V 4,Jimmy van Schie,10123,95.27,90.99,4.28,4859,153
-70,Luke Woodhouse,7,2026-05-19,Players Championship,PT,Last 128,Won,6 V 2,Greg Ritchie,2295,98.2,85.1,13.1,3928,120
-70,Luke Woodhouse,8,2026-05-18,Players Championship,PT,Last 128,Lost,3 V 6,Gabriel Clemens,38,92.04,99.55,-7.51,3743,122
-70,Luke Woodhouse,9,2026-05-13,Players Championship,PT,Last 32,Lost,4 V 6,Ian White,17,83.98,84.07,-0.09,4731,169
-70,Luke Woodhouse,10,2026-05-13,Players Championship,PT,Last 64,Won,6 V 2,Daniel Ayres,1975,99.26,88.76,10.5,3772,114
-82,Martin Schindler,1,2026-05-19,Players Championship,PT,Last 64,Lost,2 V 6,Jack Tweddell,2672,93.23,90.19,3.04,3698,119
-82,Martin Schindler,2,2026-05-19,Players Championship,PT,Last 128,Won,6 V 1,Cor Dekker,2046,98.12,84.97,13.15,3467,106
-82,Martin Schindler,3,2026-05-18,Players Championship,PT,Last 128,Lost,3 V 6,Tom Bissell,46158,92.26,97.25,-4.99,3967,129
-82,Martin Schindler,4,2026-05-13,Players Championship,PT,Last 128,Lost,5 V 6,Nick Kenny,84,96.76,95.09,1.67,5193,161
-82,Martin Schindler,5,2026-05-12,Players Championship,PT,Semi Final,Lost,0 V 7,Michael van Gerwen,3,108.78,122.34,-13.56,2937,81
-82,Martin Schindler,6,2026-05-12,Players Championship,PT,Quarter Final,Won,6 V 2,Ritchie Edhouse,2062,97.92,88.5,9.42,3884,119
-82,Martin Schindler,7,2026-05-12,Players Championship,PT,Last 16,Won,6 V 5,Wessel Nijman,130,105.9,100.81,5.09,5083,144
-82,Martin Schindler,8,2026-05-12,Players Championship,PT,Last 32,Won,6 V 2,Darius Labanauskas,57,113.79,98.16,15.63,3831,101
-82,Martin Schindler,9,2026-05-12,Players Championship,PT,Last 64,Won,6 V 3,Rhys Griffin,271,99.0,103.01,-4.01,4257,129
-82,Martin Schindler,10,2026-05-12,Players Championship,PT,Last 128,Won,6 V 2,Bradley Brooks,74,97.09,92.52,4.57,3916,121
-30,William O&#039;Connor,1,2026-05-19,Players Championship,PT,Last 32,Lost,3 V 6,Luke Woodhouse,70,98.8,100.52,-1.72,3919,119
-30,William O&#039;Connor,2,2026-05-19,Players Championship,PT,Last 64,Won,6 V 2,Maik Kuivenhoven,91,90.62,81.14,9.48,3957,131
-30,William O&#039;Connor,3,2026-05-19,Players Championship,PT,Last 128,Won,6 V 5,Mickey Mansell,65,94.72,91.58,3.14,5178,164
-30,William O&#039;Connor,4,2026-05-18,Players Championship,PT,Last 64,Lost,5 V 6,Adam Leek,20494,100.36,93.61,6.75,5252,157
-30,William O&#039;Connor,5,2026-05-18,Players Championship,PT,Last 128,Won,6 V 4,Dennie Olde Kalter,5162,100.29,82.33,17.96,4914,147
-30,William O&#039;Connor,6,2026-05-13,Players Championship,PT,Last 64,Lost,5 V 6,Andy Boulton,33,91.38,94.32,-2.94,5117,168
-30,William O&#039;Connor,7,2026-05-13,Players Championship,PT,Last 128,Won,6 V 4,Chris Landman,5183,91.01,81.64,9.37,4854,160
-30,William O&#039;Connor,8,2026-05-12,Players Championship,PT,Last 64,Lost,3 V 6,Mickey Mansell,65,91.6,98.04,-6.44,3786,124
-30,William O&#039;Connor,9,2026-05-12,Players Championship,PT,Last 128,Won,6 V 3,Ricky Evans,45,95.65,94.86,0.79,4113,129
-30,William O&#039;Connor,10,2026-05-09,European Tour,ET,Last 32,Lost,3 V 6,Rob Cross,29,99.73,97.49,2.24,4222,127
-2088,Andrew Gilding,1,2026-05-19,Players Championship,PT,Final,Lost,4 V 8,Luke Woodhouse,70,96.96,102.04,-5.08,5236,162
-2088,Andrew Gilding,2,2026-05-19,Players Championship,PT,Semi Final,Won,7 V 6,James Wade,7,96.03,94.58,1.45,5986,187
-2088,Andrew Gilding,3,2026-05-19,Players Championship,PT,Quarter Final,Won,6 V 2,Niko Springer,196,95.68,92.72,2.96,3827,120
-2088,Andrew Gilding,4,2026-05-19,Players Championship,PT,Last 16,Won,6 V 5,Darius Labanauskas,57,92.93,92.8,0.13,5235,169
-2088,Andrew Gilding,5,2026-05-19,Players Championship,PT,Last 32,Won,6 V 4,Jack Tweddell,2672,101.46,87.49,13.97,4870,144
-2088,Andrew Gilding,6,2026-05-19,Players Championship,PT,Last 64,Won,6 V 4,Brendan Dolan,23,97.56,83.38,14.18,4878,150
-2088,Andrew Gilding,7,2026-05-19,Players Championship,PT,Last 128,Won,6 V 4,Leon Weber,32046,96.47,88.98,7.49,4920,153
-2088,Andrew Gilding,8,2026-05-18,Players Championship,PT,Last 16,Lost,5 V 6,Wessel Nijman,130,97.37,94.17,3.2,5128,158
-2088,Andrew Gilding,9,2026-05-18,Players Championship,PT,Last 32,Won,6 V 0,Gian van Veen,2641,95.94,90.67,5.27,3006,94
-2088,Andrew Gilding,10,2026-05-18,Players Championship,PT,Last 64,Won,6 V 4,Sietse Lap,24689,91.81,89.19,2.62,4713,154
-55,Niels Zonneveld,1,2026-05-19,Players Championship,PT,Last 32,Lost,2 V 6,James Wade,7,79.83,101.97,-22.14,3007,113
-55,Niels Zonneveld,2,2026-05-19,Players Championship,PT,Last 64,Won,6 V 4,Mensur Suljović,9,93.04,100.64,-7.6,4714,152
-55,Niels Zonneveld,3,2026-05-19,Players Championship,PT,Last 128,Won,6 V 2,Oskar Lukasiak,5178,96.78,93.1,3.68,3968,123
-55,Niels Zonneveld,4,2026-05-18,Players Championship,PT,Last 128,Lost,3 V 6,Lukas Wenig,148,98.27,98.47,-0.2,4160,127
-55,Niels Zonneveld,5,2026-05-13,Players Championship,PT,Last 128,Lost,5 V 6,Tom Sykes,50760,92.03,89.01,3.02,4939,161
-55,Niels Zonneveld,6,2026-05-12,Players Championship,PT,Last 128,Lost,5 V 6,Mario Vandenbogaerde,2363,102.23,93.73,8.5,5316,156
-55,Niels Zonneveld,7,2026-05-09,European Tour,ET,Last 32,Lost,3 V 6,Ross Smith,26,96.57,102.02,-5.45,4088,127
-55,Niels Zonneveld,8,2026-05-08,European Tour,ET,Last 48 (Premier),Won,6 V 5,James Hurrell,5190,93.7,94.08,-0.38,5122,164
-55,Niels Zonneveld,9,2026-05-05,Players Championship,PT,Last 128,Lost,4 V 6,Oliver Mitchell,40163,85.45,94.95,-9.5,4301,151
-55,Niels Zonneveld,10,2026-05-04,Players Championship,PT,Last 64,Lost,5 V 6,Mensur Suljović,9,92.38,90.53,1.85,5081,165
-63,Cristo Reyes,1,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Won,6 V 2,Mickey Mansell,65,93.33,89.23,4.1,3951,127
-63,Cristo Reyes,2,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 2,Thomas Lovely,2199,91.12,83.81,7.31,3979,131
-63,Cristo Reyes,3,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 3,Cam Crabtree,33021,99.73,87.66,12.07,4355,131
-63,Cristo Reyes,4,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,3 V 6,Charlie Manby,5636,88.47,92.52,-4.05,4217,143
-63,Cristo Reyes,5,2026-05-19,Players Championship,PT,Last 128,Lost,2 V 6,David Sharp,6682,89.59,91.67,-2.08,3673,123
-63,Cristo Reyes,6,2026-05-18,Players Championship,PT,Last 64,Lost,5 V 6,Stephen Bunting,36,102.75,96.94,5.81,5240,153
-63,Cristo Reyes,7,2026-05-18,Players Championship,PT,Last 128,Won,6 V 3,Bradley Brooks,74,89.54,82.12,7.42,4089,137
-63,Cristo Reyes,8,2026-05-13,Players Championship,PT,Last 64,Lost,4 V 6,Darius Labanauskas,57,95.67,90.94,4.73,4624,145
-63,Cristo Reyes,9,2026-05-13,Players Championship,PT,Last 128,Won,6 V 3,Ritchie Edhouse,2062,84.1,88.18,-4.08,4009,143
-63,Cristo Reyes,10,2026-05-12,Players Championship,PT,Last 64,Lost,5 V 6,Mervyn King,19,92.74,94.22,-1.48,4915,159
+2052,Kevin Doets,1,2026-05-23,European Tour,ET,Last 32,Won,6 V 5,Luke Woodhouse,70,89.38,90.76,-1.38,5065,170
+2052,Kevin Doets,2,2026-05-22,European Tour,ET,Last 48 (Premier),Won,6 V 0,Tom Bissell,46158,102.48,89.32,13.16,3006,88
+2052,Kevin Doets,3,2026-05-19,Players Championship,PT,Quarter Final,Lost,5 V 6,Harry Ward,103,91.3,86.13,5.17,4991,164
+2052,Kevin Doets,4,2026-05-19,Players Championship,PT,Last 16,Won,6 V 2,Ryan Joyce,28,107.5,90.52,16.98,3906,109
+2052,Kevin Doets,5,2026-05-19,Players Championship,PT,Last 32,Won,6 V 1,Stefan Bellmont,1989,99.3,94.21,5.09,3343,101
+2052,Kevin Doets,6,2026-05-19,Players Championship,PT,Last 64,Won,6 V 3,Nick Kenny,84,92.03,85.98,6.05,4387,143
+2052,Kevin Doets,7,2026-05-19,Players Championship,PT,Last 128,Won,6 V 2,Niall Culleton,2034,110.21,88.0,22.21,3931,107
+2052,Kevin Doets,8,2026-05-18,Players Championship,PT,Semi Final,Lost,2 V 7,Jermaine Wattimena,18,102.65,111.05,-8.4,3935,115
+2052,Kevin Doets,9,2026-05-18,Players Championship,PT,Quarter Final,Won,6 V 4,Dirk van Duijvenbode,14,107.53,99.11,8.42,4803,134
+2052,Kevin Doets,10,2026-05-18,Players Championship,PT,Last 16,Won,6 V 2,Ross Smith,26,106.55,88.96,17.59,3978,112
+7,James Wade,1,2026-05-23,European Tour,ET,Last 32,Won,6 V 0,Dave Chisnall,21,98.02,82.53,15.49,3006,92
+7,James Wade,2,2026-05-19,Players Championship,PT,Semi Final,Lost,6 V 7,Andrew Gilding,2088,94.58,96.03,-1.45,5927,188
+7,James Wade,3,2026-05-19,Players Championship,PT,Quarter Final,Won,6 V 5,Sebastian Bialecki,3038,100.55,95.31,5.24,5195,155
+7,James Wade,4,2026-05-19,Players Championship,PT,Last 16,Won,6 V 5,Tommy Morris,20140,90.67,91.19,-0.52,5168,171
+7,James Wade,5,2026-05-19,Players Championship,PT,Last 32,Won,6 V 2,Niels Zonneveld,55,101.97,79.83,22.14,3943,116
+7,James Wade,6,2026-05-19,Players Championship,PT,Last 64,Won,6 V 4,Benjamin Pratnemer,2278,91.35,86.69,4.66,4750,156
+7,James Wade,7,2026-05-19,Players Championship,PT,Last 128,Won,6 V 1,Scott Williams,5137,98.05,80.83,17.22,3497,107
+7,James Wade,8,2026-05-18,Players Championship,PT,Last 128,Lost,5 V 6,Dimitri Van den Bergh,25,92.18,90.95,1.23,5193,169
+7,James Wade,9,2026-05-13,Players Championship,PT,Last 64,Lost,3 V 6,Justin Hood,2138,95.33,103.63,-8.3,4131,130
+7,James Wade,10,2026-05-13,Players Championship,PT,Last 128,Won,6 V 1,Greg Ritchie,2295,102.18,92.12,10.06,3338,98
+31,Ryan Searle,1,2026-05-23,European Tour,ET,Last 32,Won,6 V 3,Charlie Manby,5636,92.44,91.89,0.55,4129,134
+31,Ryan Searle,2,2026-05-19,Players Championship,PT,Last 64,Lost,3 V 6,Jeffrey Sparidaans,5172,95.48,93.05,2.43,4042,127
+31,Ryan Searle,3,2026-05-19,Players Championship,PT,Last 128,Won,6 V 2,Dennie Olde Kalter,5162,103.46,94.66,8.8,3828,111
+31,Ryan Searle,4,2026-05-18,Players Championship,PT,Last 16,Lost,3 V 6,Danny Noppert,22,94.06,102.07,-8.01,3982,127
+31,Ryan Searle,5,2026-05-18,Players Championship,PT,Last 32,Won,6 V 1,Derek Coulson,5415,103.12,101.32,1.8,3403,99
+31,Ryan Searle,6,2026-05-18,Players Championship,PT,Last 64,Won,6 V 4,Pascal Rupprecht,24822,95.44,91.23,4.21,4613,145
+31,Ryan Searle,7,2026-05-18,Players Championship,PT,Last 128,Won,6 V 0,Pero Ljubić,2192,107.36,57.78,49.58,3006,84
+31,Ryan Searle,8,2026-05-13,Players Championship,PT,Last 128,Lost,4 V 6,Callum Goffin,2490,92.73,94.09,-1.36,4482,145
+31,Ryan Searle,9,2026-05-12,Players Championship,PT,Last 64,Lost,5 V 6,Darius Labanauskas,57,99.41,103.29,-3.88,4805,145
+31,Ryan Searle,10,2026-05-12,Players Championship,PT,Last 128,Won,6 V 3,Marvin Kraft,24609,93.89,88.51,5.38,4319,138
+29,Rob Cross,1,2026-05-23,European Tour,ET,Last 32,Won,6 V 2,Mike De Decker,66,99.15,90.86,8.29,3966,120
+29,Rob Cross,2,2026-05-22,European Tour,ET,Last 48 (Premier),Won,6 V 5,Dirk van Duijvenbode,14,95.13,99.18,-4.05,4788,151
+29,Rob Cross,3,2026-05-19,Players Championship,PT,Last 128,Lost,1 V 6,Stephen Rosney,3057,87.46,97.77,-10.31,3061,105
+29,Rob Cross,4,2026-05-18,Players Championship,PT,Last 128,Lost,5 V 6,Connor Scutt,2317,96.94,93.52,3.42,5073,157
+29,Rob Cross,5,2026-05-13,Players Championship,PT,Last 32,Lost,5 V 6,Justin Hood,2138,105.97,98.64,7.33,5157,146
+29,Rob Cross,6,2026-05-13,Players Championship,PT,Last 64,Won,6 V 4,Kai Gotthardt,158,98.43,98.52,-0.09,4692,143
+29,Rob Cross,7,2026-05-13,Players Championship,PT,Last 128,Won,6 V 3,Jeffrey de Graaf,2092,100.02,92.54,7.48,4301,129
+29,Rob Cross,8,2026-05-12,Players Championship,PT,Last 128,Lost,4 V 6,Ryan Meikle,47,89.32,92.92,-3.6,4436,149
+29,Rob Cross,9,2026-05-10,European Tour,ET,Semi Final,Lost,3 V 7,Kevin Doets,2052,96.9,96.2,0.7,4716,146
+29,Rob Cross,10,2026-05-10,European Tour,ET,Quarter Final,Won,6 V 1,Andrew Gilding,2088,93.92,88.57,5.35,3475,111
+22,Danny Noppert,1,2026-05-23,European Tour,ET,Last 32,Lost,5 V 6,Ricardo Pietreczko,153,91.81,86.79,5.02,5264,172
+22,Danny Noppert,2,2026-05-19,Players Championship,PT,Last 32,Lost,4 V 6,Charlie Manby,5636,86.98,91.03,-4.05,4436,153
+22,Danny Noppert,3,2026-05-19,Players Championship,PT,Last 64,Won,6 V 4,Beau Greaves,138,93.75,91.16,2.59,4844,155
+22,Danny Noppert,4,2026-05-19,Players Championship,PT,Last 128,Won,6 V 1,Filip Bereza,46130,84.56,77.87,6.69,3467,123
+22,Danny Noppert,5,2026-05-18,Players Championship,PT,Semi Final,Lost,3 V 7,Luke Humphries,34,97.89,102.88,-4.99,4503,138
+22,Danny Noppert,6,2026-05-18,Players Championship,PT,Quarter Final,Won,6 V 5,Robert Owen,51308,90.18,91.62,-1.44,5050,168
+22,Danny Noppert,7,2026-05-18,Players Championship,PT,Last 16,Won,6 V 3,Ryan Searle,31,102.07,94.06,8.01,4287,126
+22,Danny Noppert,8,2026-05-18,Players Championship,PT,Last 32,Won,6 V 3,Callan Rydz,35,102.32,98.31,4.01,4161,122
+22,Danny Noppert,9,2026-05-18,Players Championship,PT,Last 64,Won,6 V 3,Charlie Manby,5636,105.0,103.22,1.78,4375,125
+22,Danny Noppert,10,2026-05-18,Players Championship,PT,Last 128,Won,6 V 3,Stefaan Henderyck,20186,100.06,95.86,4.2,4436,133
+18,Jermaine Wattimena,1,2026-05-23,European Tour,ET,Last 32,Won,6 V 5,Bradley Brooks,74,87.53,87.19,0.34,5281,181
+18,Jermaine Wattimena,2,2026-05-19,Players Championship,PT,Last 128,Lost,3 V 6,Gabriel Clemens,38,89.33,82.86,6.47,4258,143
+18,Jermaine Wattimena,3,2026-05-18,Players Championship,PT,Final,Lost,4 V 8,Luke Humphries,34,97.16,104.89,-7.73,5214,161
+18,Jermaine Wattimena,4,2026-05-18,Players Championship,PT,Semi Final,Won,7 V 2,Kevin Doets,2052,111.05,102.65,8.4,4479,121
+18,Jermaine Wattimena,5,2026-05-18,Players Championship,PT,Quarter Final,Won,6 V 3,Stephen Bunting,36,99.89,92.82,7.07,4395,132
+18,Jermaine Wattimena,6,2026-05-18,Players Championship,PT,Last 16,Won,6 V 2,Dimitri Van den Bergh,25,85.31,78.6,6.71,3640,128
+18,Jermaine Wattimena,7,2026-05-18,Players Championship,PT,Last 32,Won,6 V 2,Stephen Burton,2014,96.71,88.57,8.14,3836,119
+18,Jermaine Wattimena,8,2026-05-18,Players Championship,PT,Last 64,Won,6 V 4,Jeffrey Sparidaans,5172,93.23,85.73,7.5,4910,158
+18,Jermaine Wattimena,9,2026-05-18,Players Championship,PT,Last 128,Won,6 V 2,Alexander Merkx,2223,95.9,93.0,2.9,3772,118
+18,Jermaine Wattimena,10,2026-05-13,Players Championship,PT,Last 16,Lost,0 V 6,Andrew Gilding,2088,81.45,93.94,-12.49,2525,93
+13,Damon Heta,1,2026-05-23,European Tour,ET,Last 32,Won,6 V 2,Niels Zonneveld,55,95.75,98.06,-2.31,3766,118
+13,Damon Heta,2,2026-05-19,Players Championship,PT,Last 128,Lost,3 V 6,Marvin Kraft,24609,96.27,87.18,9.09,4268,133
+13,Damon Heta,3,2026-05-18,Players Championship,PT,Last 16,Lost,5 V 6,Stephen Bunting,36,92.1,100.43,-8.33,5096,166
+13,Damon Heta,4,2026-05-18,Players Championship,PT,Last 32,Won,6 V 1,Tommy Morris,20140,98.49,92.08,6.41,3447,105
+13,Damon Heta,5,2026-05-18,Players Championship,PT,Last 64,Won,6 V 2,Beau Greaves,138,107.48,91.57,15.91,3726,104
+13,Damon Heta,6,2026-05-18,Players Championship,PT,Last 128,Won,6 V 4,Adam Paxton,2417,91.36,84.7,6.66,4842,159
+13,Damon Heta,7,2026-05-13,Players Championship,PT,Last 16,Lost,4 V 6,Gabriel Clemens,38,86.25,94.22,-7.97,4341,151
+13,Damon Heta,8,2026-05-13,Players Championship,PT,Last 32,Won,6 V 3,Cameron Menzies,2221,93.74,86.08,7.66,4437,142
+13,Damon Heta,9,2026-05-13,Players Championship,PT,Last 64,Won,6 V 4,Charlie Manby,5636,95.94,92.24,3.7,4765,149
+13,Damon Heta,10,2026-05-13,Players Championship,PT,Last 128,Won,6 V 2,Yorick Hofkens,25319,94.48,84.51,9.97,3842,122
+12,Krzysztof Ratajski,1,2026-05-23,European Tour,ET,Last 32,Lost,2 V 6,Stephen Bunting,36,95.38,102.54,-7.16,3402,107
+12,Krzysztof Ratajski,2,2026-05-22,European Tour,ET,Last 48 (Premier),Won,6 V 4,Cristo Reyes,63,86.6,87.22,-0.62,4734,164
+12,Krzysztof Ratajski,3,2026-05-19,Players Championship,PT,Last 128,Lost,1 V 6,Tom Sykes,50760,87.28,104.46,-17.18,2793,96
+12,Krzysztof Ratajski,4,2026-05-18,Players Championship,PT,Last 64,Lost,5 V 6,Jeffrey de Graaf,2092,87.99,83.9,4.09,5133,175
+12,Krzysztof Ratajski,5,2026-05-18,Players Championship,PT,Last 128,Won,6 V 1,Nick Kenny,84,99.63,87.36,12.27,3487,105
+12,Krzysztof Ratajski,6,2026-05-13,Players Championship,PT,Last 16,Lost,3 V 6,Stephen Bunting,36,101.28,102.13,-0.85,3950,117
+12,Krzysztof Ratajski,7,2026-05-13,Players Championship,PT,Last 32,Won,6 V 2,Martin Lukeman,2201,93.2,81.58,11.62,3790,122
+12,Krzysztof Ratajski,8,2026-05-13,Players Championship,PT,Last 64,Won,6 V 2,Maik Kuivenhoven,91,90.24,83.2,7.04,3820,127
+12,Krzysztof Ratajski,9,2026-05-13,Players Championship,PT,Last 128,Won,6 V 5,Peter Wright,1,91.65,86.59,5.06,5224,171
+12,Krzysztof Ratajski,10,2026-05-12,Players Championship,PT,Last 128,Lost,4 V 6,Ian White,17,92.21,93.97,-1.76,4641,151
+70,Luke Woodhouse,1,2026-05-23,European Tour,ET,Last 32,Lost,5 V 6,Kevin Doets,2052,90.76,89.38,1.38,4901,162
+70,Luke Woodhouse,2,2026-05-19,Players Championship,PT,Final,Won,8 V 4,Andrew Gilding,2088,102.04,96.96,5.08,5612,165
+70,Luke Woodhouse,3,2026-05-19,Players Championship,PT,Semi Final,Won,7 V 3,Harry Ward,103,99.14,92.05,7.09,4792,145
+70,Luke Woodhouse,4,2026-05-19,Players Championship,PT,Quarter Final,Won,6 V 2,Jonny Clayton,20,96.0,88.49,7.51,3936,123
+70,Luke Woodhouse,5,2026-05-19,Players Championship,PT,Last 16,Won,6 V 5,Charlie Manby,5636,97.84,92.59,5.25,5316,163
+70,Luke Woodhouse,6,2026-05-19,Players Championship,PT,Last 32,Won,6 V 3,William O&#039;Connor,30,100.52,98.8,1.72,4088,122
+70,Luke Woodhouse,7,2026-05-19,Players Championship,PT,Last 64,Won,6 V 4,Jimmy van Schie,10123,95.27,90.99,4.28,4859,153
+70,Luke Woodhouse,8,2026-05-19,Players Championship,PT,Last 128,Won,6 V 2,Greg Ritchie,2295,98.2,85.1,13.1,3928,120
+70,Luke Woodhouse,9,2026-05-18,Players Championship,PT,Last 128,Lost,3 V 6,Gabriel Clemens,38,92.04,99.55,-7.51,3743,122
+70,Luke Woodhouse,10,2026-05-13,Players Championship,PT,Last 32,Lost,4 V 6,Ian White,17,83.98,84.07,-0.09,4731,169
+30,William O&#039;Connor,1,2026-05-23,European Tour,ET,Last 32,Lost,5 V 6,Wessel Nijman,130,92.35,97.16,-4.81,4864,158
+30,William O&#039;Connor,2,2026-05-22,European Tour,ET,Last 48 (Premier),Won,6 V 2,Paul Krohne,27987,95.71,86.18,9.53,3924,123
+30,William O&#039;Connor,3,2026-05-19,Players Championship,PT,Last 32,Lost,3 V 6,Luke Woodhouse,70,98.8,100.52,-1.72,3919,119
+30,William O&#039;Connor,4,2026-05-19,Players Championship,PT,Last 64,Won,6 V 2,Maik Kuivenhoven,91,90.62,81.14,9.48,3957,131
+30,William O&#039;Connor,5,2026-05-19,Players Championship,PT,Last 128,Won,6 V 5,Mickey Mansell,65,94.72,91.58,3.14,5178,164
+30,William O&#039;Connor,6,2026-05-18,Players Championship,PT,Last 64,Lost,5 V 6,Adam Leek,20494,100.36,93.61,6.75,5252,157
+30,William O&#039;Connor,7,2026-05-18,Players Championship,PT,Last 128,Won,6 V 4,Dennie Olde Kalter,5162,100.29,82.33,17.96,4914,147
+30,William O&#039;Connor,8,2026-05-13,Players Championship,PT,Last 64,Lost,5 V 6,Andy Boulton,33,91.38,94.32,-2.94,5117,168
+30,William O&#039;Connor,9,2026-05-13,Players Championship,PT,Last 128,Won,6 V 4,Chris Landman,5183,91.01,81.64,9.37,4854,160
+30,William O&#039;Connor,10,2026-05-12,Players Championship,PT,Last 64,Lost,3 V 6,Mickey Mansell,65,91.6,98.04,-6.44,3786,124
+2088,Andrew Gilding,1,2026-05-22,European Tour,ET,Last 48 (Premier),Lost,4 V 6,Bradley Brooks,74,93.7,91.65,2.05,4654,149
+2088,Andrew Gilding,2,2026-05-19,Players Championship,PT,Final,Lost,4 V 8,Luke Woodhouse,70,96.96,102.04,-5.08,5236,162
+2088,Andrew Gilding,3,2026-05-19,Players Championship,PT,Semi Final,Won,7 V 6,James Wade,7,96.03,94.58,1.45,5986,187
+2088,Andrew Gilding,4,2026-05-19,Players Championship,PT,Quarter Final,Won,6 V 2,Niko Springer,196,95.68,92.72,2.96,3827,120
+2088,Andrew Gilding,5,2026-05-19,Players Championship,PT,Last 16,Won,6 V 5,Darius Labanauskas,57,92.93,92.8,0.13,5235,169
+2088,Andrew Gilding,6,2026-05-19,Players Championship,PT,Last 32,Won,6 V 4,Jack Tweddell,2672,101.46,87.49,13.97,4870,144
+2088,Andrew Gilding,7,2026-05-19,Players Championship,PT,Last 64,Won,6 V 4,Brendan Dolan,23,97.56,83.38,14.18,4878,150
+2088,Andrew Gilding,8,2026-05-19,Players Championship,PT,Last 128,Won,6 V 4,Leon Weber,32046,96.47,88.98,7.49,4920,153
+2088,Andrew Gilding,9,2026-05-18,Players Championship,PT,Last 16,Lost,5 V 6,Wessel Nijman,130,97.37,94.17,3.2,5128,158
+2088,Andrew Gilding,10,2026-05-18,Players Championship,PT,Last 32,Won,6 V 0,Gian van Veen,2641,95.94,90.67,5.27,3006,94
+82,Martin Schindler,1,2026-05-23,European Tour,ET,Last 32,Won,6 V 5,Karel Sedláček,44,84.26,81.74,2.52,5280,188
+82,Martin Schindler,2,2026-05-19,Players Championship,PT,Last 64,Lost,2 V 6,Jack Tweddell,2672,93.23,90.19,3.04,3698,119
+82,Martin Schindler,3,2026-05-19,Players Championship,PT,Last 128,Won,6 V 1,Cor Dekker,2046,98.12,84.97,13.15,3467,106
+82,Martin Schindler,4,2026-05-18,Players Championship,PT,Last 128,Lost,3 V 6,Tom Bissell,46158,92.26,97.25,-4.99,3967,129
+82,Martin Schindler,5,2026-05-13,Players Championship,PT,Last 128,Lost,5 V 6,Nick Kenny,84,96.76,95.09,1.67,5193,161
+82,Martin Schindler,6,2026-05-12,Players Championship,PT,Semi Final,Lost,0 V 7,Michael van Gerwen,3,108.78,122.34,-13.56,2937,81
+82,Martin Schindler,7,2026-05-12,Players Championship,PT,Quarter Final,Won,6 V 2,Ritchie Edhouse,2062,97.92,88.5,9.42,3884,119
+82,Martin Schindler,8,2026-05-12,Players Championship,PT,Last 16,Won,6 V 5,Wessel Nijman,130,105.9,100.81,5.09,5083,144
+82,Martin Schindler,9,2026-05-12,Players Championship,PT,Last 32,Won,6 V 2,Darius Labanauskas,57,113.79,98.16,15.63,3831,101
+82,Martin Schindler,10,2026-05-12,Players Championship,PT,Last 64,Won,6 V 3,Rhys Griffin,271,99.0,103.01,-4.01,4257,129
+55,Niels Zonneveld,1,2026-05-23,European Tour,ET,Last 32,Lost,2 V 6,Damon Heta,13,98.06,95.75,2.31,3759,115
+55,Niels Zonneveld,2,2026-05-22,European Tour,ET,Last 48 (Premier),Won,6 V 2,Keane Barry,129,96.47,89.14,7.33,3891,121
+55,Niels Zonneveld,3,2026-05-19,Players Championship,PT,Last 32,Lost,2 V 6,James Wade,7,79.83,101.97,-22.14,3007,113
+55,Niels Zonneveld,4,2026-05-19,Players Championship,PT,Last 64,Won,6 V 4,Mensur Suljović,9,93.04,100.64,-7.6,4714,152
+55,Niels Zonneveld,5,2026-05-19,Players Championship,PT,Last 128,Won,6 V 2,Oskar Lukasiak,5178,96.78,93.1,3.68,3968,123
+55,Niels Zonneveld,6,2026-05-18,Players Championship,PT,Last 128,Lost,3 V 6,Lukas Wenig,148,98.27,98.47,-0.2,4160,127
+55,Niels Zonneveld,7,2026-05-13,Players Championship,PT,Last 128,Lost,5 V 6,Tom Sykes,50760,92.03,89.01,3.02,4939,161
+55,Niels Zonneveld,8,2026-05-12,Players Championship,PT,Last 128,Lost,5 V 6,Mario Vandenbogaerde,2363,102.23,93.73,8.5,5316,156
+55,Niels Zonneveld,9,2026-05-09,European Tour,ET,Last 32,Lost,3 V 6,Ross Smith,26,96.57,102.02,-5.45,4088,127
+55,Niels Zonneveld,10,2026-05-08,European Tour,ET,Last 48 (Premier),Won,6 V 5,James Hurrell,5190,93.7,94.08,-0.38,5122,164
+63,Cristo Reyes,1,2026-05-22,European Tour,ET,Last 48 (Premier),Lost,4 V 6,Krzysztof Ratajski,12,87.22,86.6,0.62,4739,163
+63,Cristo Reyes,2,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Won,6 V 2,Mickey Mansell,65,93.33,89.23,4.1,3951,127
+63,Cristo Reyes,3,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 2,Thomas Lovely,2199,91.12,83.81,7.31,3979,131
+63,Cristo Reyes,4,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 3,Cam Crabtree,33021,99.73,87.66,12.07,4355,131
+63,Cristo Reyes,5,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,3 V 6,Charlie Manby,5636,88.47,92.52,-4.05,4217,143
+63,Cristo Reyes,6,2026-05-19,Players Championship,PT,Last 128,Lost,2 V 6,David Sharp,6682,89.59,91.67,-2.08,3673,123
+63,Cristo Reyes,7,2026-05-18,Players Championship,PT,Last 64,Lost,5 V 6,Stephen Bunting,36,102.75,96.94,5.81,5240,153
+63,Cristo Reyes,8,2026-05-18,Players Championship,PT,Last 128,Won,6 V 3,Bradley Brooks,74,89.54,82.12,7.42,4089,137
+63,Cristo Reyes,9,2026-05-13,Players Championship,PT,Last 64,Lost,4 V 6,Darius Labanauskas,57,95.67,90.94,4.73,4624,145
+63,Cristo Reyes,10,2026-05-13,Players Championship,PT,Last 128,Won,6 V 3,Ritchie Edhouse,2062,84.1,88.18,-4.08,4009,143
 2138,Justin Hood,1,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Won,6 V 5,Stephen Rosney,3057,102.86,99.58,3.28,5246,153
 2138,Justin Hood,2,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 0,Lukas Wenig,148,101.33,90.11,11.22,3006,89
 2138,Justin Hood,3,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 0,Callan Rydz,35,96.97,81.6,15.37,3006,93
@@ -289,16 +289,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 2138,Justin Hood,8,2026-05-18,Players Championship,PT,Last 32,Lost,2 V 6,Luke Humphries,34,95.39,109.11,-13.72,3307,104
 2138,Justin Hood,9,2026-05-18,Players Championship,PT,Last 64,Won,6 V 5,Madars Razma,42,99.9,88.48,11.42,5095,153
 2138,Justin Hood,10,2026-05-18,Players Championship,PT,Last 128,Won,6 V 2,Tytus Kanik,2167,96.1,81.87,14.23,3972,124
-44,Karel Sedláček,1,2026-05-19,Players Championship,PT,Last 64,Lost,2 V 6,Kai Gotthardt,158,91.82,96.15,-4.33,3734,122
-44,Karel Sedláček,2,2026-05-19,Players Championship,PT,Last 128,Won,6 V 2,Marvin van Velzen,2895,99.03,91.61,7.42,3895,118
-44,Karel Sedláček,3,2026-05-18,Players Championship,PT,Last 128,Lost,5 V 6,Stephen Burton,2014,103.18,98.3,4.88,5228,152
-44,Karel Sedláček,4,2026-05-13,Players Championship,PT,Last 64,Lost,3 V 6,Ian White,17,92.02,86.23,5.79,4233,138
-44,Karel Sedláček,5,2026-05-13,Players Championship,PT,Last 128,Won,6 V 0,Raymond van Barneveld,1982,95.94,77.66,18.28,3006,94
-44,Karel Sedláček,6,2026-05-12,Players Championship,PT,Last 64,Lost,5 V 6,Ritchie Edhouse,2062,94.38,90.99,3.39,5065,161
-44,Karel Sedláček,7,2026-05-12,Players Championship,PT,Last 128,Won,6 V 2,Stefaan Henderyck,20186,99.45,87.87,11.58,3779,114
-44,Karel Sedláček,8,2026-05-08,European Tour,ET,Last 48 (Premier),Lost,3 V 6,Kim Huybrechts,51,92.07,94.09,-2.02,4143,135
-44,Karel Sedláček,9,2026-05-05,Players Championship,PT,Last 128,Lost,1 V 6,Tom Sykes,50760,92.91,97.13,-4.22,3221,104
-44,Karel Sedláček,10,2026-05-04,Players Championship,PT,Last 64,Lost,1 V 6,Derek Coulson,5415,92.06,87.8,4.26,3345,109
 5190,James Hurrell,1,2026-05-08,European Tour,ET,Last 48 (Premier),Lost,5 V 6,Niels Zonneveld,55,94.08,93.7,0.38,5206,166
 5190,James Hurrell,2,2026-05-05,Players Championship,PT,Last 16,Lost,1 V 6,Krzysztof Ratajski,12,86.21,95.48,-9.27,2960,103
 5190,James Hurrell,3,2026-05-05,Players Championship,PT,Last 32,Won,6 V 5,Cristo Reyes,63,88.14,89.53,-1.39,5083,173
@@ -309,26 +299,36 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 5190,James Hurrell,8,2026-04-28,Players Championship,PT,Last 128,Lost,5 V 6,Jurjen van der Velde,2784,80.09,82.26,-2.17,4992,187
 5190,James Hurrell,9,2026-04-27,Players Championship,PT,Last 128,Lost,5 V 6,Stephen Rosney,3057,95.23,91.93,3.3,5079,160
 5190,James Hurrell,10,2026-04-15,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,4 V 6,Robert Owen,51308,95.54,98.7,-3.16,4586,144
-66,Mike De Decker,1,2026-05-19,Players Championship,PT,Last 128,Lost,5 V 6,Joe Cullen,6,95.08,95.4,-0.32,4944,156
-66,Mike De Decker,2,2026-05-18,Players Championship,PT,Last 128,Lost,4 V 6,Gian van Veen,2641,101.2,97.62,3.58,4790,142
-66,Mike De Decker,3,2026-05-09,European Tour,ET,Last 32,Lost,3 V 6,Ryan Joyce,28,90.91,92.85,-1.94,4182,138
-66,Mike De Decker,4,2026-05-05,Players Championship,PT,Last 128,Lost,4 V 6,Arno Merk,9975,87.0,81.41,5.59,4727,163
-66,Mike De Decker,5,2026-05-04,Players Championship,PT,Last 32,Lost,2 V 6,Luke Woodhouse,70,89.93,100.03,-10.1,3597,120
-66,Mike De Decker,6,2026-05-04,Players Championship,PT,Last 64,Won,6 V 3,Tommy Morris,20140,96.9,89.49,7.41,4328,134
-66,Mike De Decker,7,2026-05-04,Players Championship,PT,Last 128,Won,6 V 4,Sietse Lap,24689,91.11,89.51,1.6,4829,159
-66,Mike De Decker,8,2026-04-28,Players Championship,PT,Last 16,Lost,5 V 6,Kevin Doets,2052,91.54,97.3,-5.76,5157,169
-66,Mike De Decker,9,2026-04-28,Players Championship,PT,Last 32,Won,6 V 3,Stephen Bunting,36,94.27,95.82,-1.55,4242,135
-66,Mike De Decker,10,2026-04-28,Players Championship,PT,Last 64,Won,6 V 1,Mario Vandenbogaerde,2363,95.01,94.74,0.27,3357,106
-24,Daryl Gurney,1,2026-05-19,Players Championship,PT,Last 32,Lost,4 V 6,Chris Landman,5183,87.53,88.21,-0.68,4639,159
-24,Daryl Gurney,2,2026-05-19,Players Championship,PT,Last 64,Won,6 V 3,Owen Bates,14661,97.26,93.15,4.11,4182,129
-24,Daryl Gurney,3,2026-05-19,Players Championship,PT,Last 128,Won,6 V 1,Arno Merk,9975,89.87,82.16,7.71,3475,116
-24,Daryl Gurney,4,2026-05-18,Players Championship,PT,Last 32,Lost,5 V 6,Dimitri Van den Bergh,25,90.28,85.77,4.51,5176,172
-24,Daryl Gurney,5,2026-05-18,Players Championship,PT,Last 64,Won,6 V 5,Cam Crabtree,33021,95.77,94.17,1.6,4980,156
-24,Daryl Gurney,6,2026-05-18,Players Championship,PT,Last 128,Won,6 V 3,Niall Culleton,2034,95.35,88.76,6.59,4386,138
-24,Daryl Gurney,7,2026-05-13,Players Championship,PT,Last 128,Lost,5 V 6,Thibault Tricole,5193,91.42,86.03,5.39,5089,167
-24,Daryl Gurney,8,2026-05-12,Players Championship,PT,Last 64,Lost,0 V 6,Andy Boulton,33,76.88,89.29,-12.41,2460,96
-24,Daryl Gurney,9,2026-05-12,Players Championship,PT,Last 128,Won,6 V 2,Martin Lukeman,2201,90.38,85.03,5.35,3856,128
-24,Daryl Gurney,10,2026-05-10,European Tour,ET,Semi Final,Lost,3 V 7,Josh Rock,20114,85.97,100.15,-14.18,4098,143
+44,Karel Sedláček,1,2026-05-23,European Tour,ET,Last 32,Lost,5 V 6,Martin Schindler,82,81.74,84.26,-2.52,4986,183
+44,Karel Sedláček,2,2026-05-22,European Tour,ET,Last 48 (Premier),Won,6 V 0,Johan Engstrom,5163,89.29,80.44,8.85,3006,101
+44,Karel Sedláček,3,2026-05-19,Players Championship,PT,Last 64,Lost,2 V 6,Kai Gotthardt,158,91.82,96.15,-4.33,3734,122
+44,Karel Sedláček,4,2026-05-19,Players Championship,PT,Last 128,Won,6 V 2,Marvin van Velzen,2895,99.03,91.61,7.42,3895,118
+44,Karel Sedláček,5,2026-05-18,Players Championship,PT,Last 128,Lost,5 V 6,Stephen Burton,2014,103.18,98.3,4.88,5228,152
+44,Karel Sedláček,6,2026-05-13,Players Championship,PT,Last 64,Lost,3 V 6,Ian White,17,92.02,86.23,5.79,4233,138
+44,Karel Sedláček,7,2026-05-13,Players Championship,PT,Last 128,Won,6 V 0,Raymond van Barneveld,1982,95.94,77.66,18.28,3006,94
+44,Karel Sedláček,8,2026-05-12,Players Championship,PT,Last 64,Lost,5 V 6,Ritchie Edhouse,2062,94.38,90.99,3.39,5065,161
+44,Karel Sedláček,9,2026-05-12,Players Championship,PT,Last 128,Won,6 V 2,Stefaan Henderyck,20186,99.45,87.87,11.58,3779,114
+44,Karel Sedláček,10,2026-05-08,European Tour,ET,Last 48 (Premier),Lost,3 V 6,Kim Huybrechts,51,92.07,94.09,-2.02,4143,135
+66,Mike De Decker,1,2026-05-23,European Tour,ET,Last 32,Lost,2 V 6,Rob Cross,29,90.86,99.15,-8.29,3604,119
+66,Mike De Decker,2,2026-05-19,Players Championship,PT,Last 128,Lost,5 V 6,Joe Cullen,6,95.08,95.4,-0.32,4944,156
+66,Mike De Decker,3,2026-05-18,Players Championship,PT,Last 128,Lost,4 V 6,Gian van Veen,2641,101.2,97.62,3.58,4790,142
+66,Mike De Decker,4,2026-05-09,European Tour,ET,Last 32,Lost,3 V 6,Ryan Joyce,28,90.91,92.85,-1.94,4182,138
+66,Mike De Decker,5,2026-05-05,Players Championship,PT,Last 128,Lost,4 V 6,Arno Merk,9975,87.0,81.41,5.59,4727,163
+66,Mike De Decker,6,2026-05-04,Players Championship,PT,Last 32,Lost,2 V 6,Luke Woodhouse,70,89.93,100.03,-10.1,3597,120
+66,Mike De Decker,7,2026-05-04,Players Championship,PT,Last 64,Won,6 V 3,Tommy Morris,20140,96.9,89.49,7.41,4328,134
+66,Mike De Decker,8,2026-05-04,Players Championship,PT,Last 128,Won,6 V 4,Sietse Lap,24689,91.11,89.51,1.6,4829,159
+66,Mike De Decker,9,2026-04-28,Players Championship,PT,Last 16,Lost,5 V 6,Kevin Doets,2052,91.54,97.3,-5.76,5157,169
+66,Mike De Decker,10,2026-04-28,Players Championship,PT,Last 32,Won,6 V 3,Stephen Bunting,36,94.27,95.82,-1.55,4242,135
+24,Daryl Gurney,1,2026-05-22,European Tour,ET,Last 48 (Premier),Lost,2 V 6,Kim Huybrechts,51,83.56,85.23,-1.67,3760,135
+24,Daryl Gurney,2,2026-05-19,Players Championship,PT,Last 32,Lost,4 V 6,Chris Landman,5183,87.53,88.21,-0.68,4639,159
+24,Daryl Gurney,3,2026-05-19,Players Championship,PT,Last 64,Won,6 V 3,Owen Bates,14661,97.26,93.15,4.11,4182,129
+24,Daryl Gurney,4,2026-05-19,Players Championship,PT,Last 128,Won,6 V 1,Arno Merk,9975,89.87,82.16,7.71,3475,116
+24,Daryl Gurney,5,2026-05-18,Players Championship,PT,Last 32,Lost,5 V 6,Dimitri Van den Bergh,25,90.28,85.77,4.51,5176,172
+24,Daryl Gurney,6,2026-05-18,Players Championship,PT,Last 64,Won,6 V 5,Cam Crabtree,33021,95.77,94.17,1.6,4980,156
+24,Daryl Gurney,7,2026-05-18,Players Championship,PT,Last 128,Won,6 V 3,Niall Culleton,2034,95.35,88.76,6.59,4386,138
+24,Daryl Gurney,8,2026-05-13,Players Championship,PT,Last 128,Lost,5 V 6,Thibault Tricole,5193,91.42,86.03,5.39,5089,167
+24,Daryl Gurney,9,2026-05-12,Players Championship,PT,Last 64,Lost,0 V 6,Andy Boulton,33,76.88,89.29,-12.41,2460,96
+24,Daryl Gurney,10,2026-05-12,Players Championship,PT,Last 128,Won,6 V 2,Martin Lukeman,2201,90.38,85.03,5.35,3856,128
 5145,Richard Veenstra,1,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Lost,2 V 6,Owen Bates,14661,94.65,96.79,-2.14,3565,113
 5145,Richard Veenstra,2,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 1,Tom Bissell,46158,95.1,81.89,13.21,3487,110
 5145,Richard Veenstra,3,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 4,Robert Owen,51308,99.21,92.31,6.9,4795,145
@@ -349,36 +349,46 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 35,Callan Rydz,8,2026-05-05,Players Championship,PT,Last 128,Lost,3 V 6,Andy Boulton,33,76.9,89.14,-12.24,3717,145
 35,Callan Rydz,9,2026-05-04,Players Championship,PT,Last 128,Lost,4 V 6,Christian Kist,2171,83.88,86.04,-2.16,4334,155
 35,Callan Rydz,10,2026-04-28,Players Championship,PT,Last 128,Lost,3 V 6,Alexander Merkx,2223,76.42,86.05,-9.63,3770,148
-6,Joe Cullen,1,2026-05-19,Players Championship,PT,Last 32,Lost,3 V 6,Niko Springer,196,90.21,87.71,2.5,4210,140
-6,Joe Cullen,2,2026-05-19,Players Championship,PT,Last 64,Won,6 V 0,Peter Wright,1,92.02,85.03,6.99,3006,98
-6,Joe Cullen,3,2026-05-19,Players Championship,PT,Last 128,Won,6 V 5,Mike De Decker,66,95.4,95.08,0.32,4961,156
-6,Joe Cullen,4,2026-05-18,Players Championship,PT,Last 128,Lost,5 V 6,Madars Razma,42,90.26,89.01,1.25,5175,172
-6,Joe Cullen,5,2026-05-12,Players Championship,PT,Quarter Final,Lost,3 V 6,Stephen Bunting,36,91.0,94.39,-3.39,4004,132
-6,Joe Cullen,6,2026-05-12,Players Championship,PT,Last 16,Won,6 V 2,Kim Huybrechts,51,89.15,88.21,0.94,3982,134
-6,Joe Cullen,7,2026-05-12,Players Championship,PT,Last 32,Won,6 V 1,Niko Springer,196,107.11,97.3,9.81,3499,98
-6,Joe Cullen,8,2026-05-12,Players Championship,PT,Last 64,Won,6 V 4,Alan Soutar,5138,98.38,91.66,6.72,4722,144
-6,Joe Cullen,9,2026-05-12,Players Championship,PT,Last 128,Won,6 V 0,Lukas Wenig,148,92.02,83.44,8.58,3006,98
-6,Joe Cullen,10,2026-05-08,European Tour,ET,Last 48 (Premier),Lost,5 V 6,Robert Owen,51308,91.25,93.57,-2.32,4745,156
-196,Niko Springer,1,2026-05-19,Players Championship,PT,Quarter Final,Lost,2 V 6,Andrew Gilding,2088,92.72,95.68,-2.96,3616,117
-196,Niko Springer,2,2026-05-19,Players Championship,PT,Last 16,Won,6 V 3,Ross Smith,26,92.3,88.89,3.41,4092,133
-196,Niko Springer,3,2026-05-19,Players Championship,PT,Last 32,Won,6 V 3,Joe Cullen,6,87.71,90.21,-2.5,4181,143
-196,Niko Springer,4,2026-05-19,Players Championship,PT,Last 64,Won,6 V 5,Jeffrey de Zwaan,48,93.79,93.91,-0.12,5127,164
-196,Niko Springer,5,2026-05-19,Players Championship,PT,Last 128,Won,6 V 0,Shane McGuirk,3043,98.02,90.2,7.82,3006,92
-196,Niko Springer,6,2026-05-18,Players Championship,PT,Last 64,Lost,1 V 6,Derek Coulson,5415,88.19,98.39,-10.2,2969,101
-196,Niko Springer,7,2026-05-18,Players Championship,PT,Last 128,Won,6 V 5,Owen Bates,14661,96.63,93.71,2.92,5025,156
-196,Niko Springer,8,2026-05-13,Players Championship,PT,Semi Final,Lost,6 V 7,Jonny Clayton,20,93.53,94.25,-0.72,6173,198
-196,Niko Springer,9,2026-05-13,Players Championship,PT,Quarter Final,Won,6 V 2,Stephen Bunting,36,95.42,84.54,10.88,3976,125
-196,Niko Springer,10,2026-05-13,Players Championship,PT,Last 16,Won,6 V 2,Kevin Doets,2052,97.68,84.7,12.98,3842,118
-74,Bradley Brooks,1,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Peter Wright,1,80.42,84.0,-3.58,4959,185
-74,Bradley Brooks,2,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Won,6 V 4,Michael Smith,5,94.39,87.28,7.11,4814,153
-74,Bradley Brooks,3,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 4,Ian White,17,86.35,86.94,-0.59,4548,158
-74,Bradley Brooks,4,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 4,David Sharp,6682,78.66,79.1,-0.44,4536,173
-74,Bradley Brooks,5,2026-05-19,Players Championship,PT,Last 128,Lost,3 V 6,Beau Greaves,138,86.4,88.77,-2.37,4147,144
-74,Bradley Brooks,6,2026-05-18,Players Championship,PT,Last 128,Lost,3 V 6,Cristo Reyes,63,82.12,89.54,-7.42,3750,137
-74,Bradley Brooks,7,2026-05-13,Players Championship,PT,Last 128,Lost,1 V 6,Arno Merk,9975,86.89,94.53,-7.64,3041,105
-74,Bradley Brooks,8,2026-05-12,Players Championship,PT,Last 128,Lost,2 V 6,Martin Schindler,82,92.52,97.09,-4.57,3670,119
-74,Bradley Brooks,9,2026-04-28,Players Championship,PT,Last 64,Lost,0 V 6,Gary Anderson,10,85.77,96.97,-11.2,2573,90
-74,Bradley Brooks,10,2026-04-28,Players Championship,PT,Last 128,Won,6 V 5,Connor Scutt,2317,83.92,86.0,-2.08,5147,184
+6,Joe Cullen,1,2026-05-23,European Tour,ET,Last 32,Lost,3 V 6,Ross Smith,26,98.61,102.17,-3.56,4010,122
+6,Joe Cullen,2,2026-05-22,European Tour,ET,Last 48 (Premier),Won,6 V 5,Chris Landman,5183,91.87,86.81,5.06,5298,173
+6,Joe Cullen,3,2026-05-19,Players Championship,PT,Last 32,Lost,3 V 6,Niko Springer,196,90.21,87.71,2.5,4210,140
+6,Joe Cullen,4,2026-05-19,Players Championship,PT,Last 64,Won,6 V 0,Peter Wright,1,92.02,85.03,6.99,3006,98
+6,Joe Cullen,5,2026-05-19,Players Championship,PT,Last 128,Won,6 V 5,Mike De Decker,66,95.4,95.08,0.32,4961,156
+6,Joe Cullen,6,2026-05-18,Players Championship,PT,Last 128,Lost,5 V 6,Madars Razma,42,90.26,89.01,1.25,5175,172
+6,Joe Cullen,7,2026-05-12,Players Championship,PT,Quarter Final,Lost,3 V 6,Stephen Bunting,36,91.0,94.39,-3.39,4004,132
+6,Joe Cullen,8,2026-05-12,Players Championship,PT,Last 16,Won,6 V 2,Kim Huybrechts,51,89.15,88.21,0.94,3982,134
+6,Joe Cullen,9,2026-05-12,Players Championship,PT,Last 32,Won,6 V 1,Niko Springer,196,107.11,97.3,9.81,3499,98
+6,Joe Cullen,10,2026-05-12,Players Championship,PT,Last 64,Won,6 V 4,Alan Soutar,5138,98.38,91.66,6.72,4722,144
+196,Niko Springer,1,2026-05-22,European Tour,ET,Last 48 (Premier),Lost,3 V 6,Charlie Manby,5636,82.27,94.94,-12.67,3702,135
+196,Niko Springer,2,2026-05-19,Players Championship,PT,Quarter Final,Lost,2 V 6,Andrew Gilding,2088,92.72,95.68,-2.96,3616,117
+196,Niko Springer,3,2026-05-19,Players Championship,PT,Last 16,Won,6 V 3,Ross Smith,26,92.3,88.89,3.41,4092,133
+196,Niko Springer,4,2026-05-19,Players Championship,PT,Last 32,Won,6 V 3,Joe Cullen,6,87.71,90.21,-2.5,4181,143
+196,Niko Springer,5,2026-05-19,Players Championship,PT,Last 64,Won,6 V 5,Jeffrey de Zwaan,48,93.79,93.91,-0.12,5127,164
+196,Niko Springer,6,2026-05-19,Players Championship,PT,Last 128,Won,6 V 0,Shane McGuirk,3043,98.02,90.2,7.82,3006,92
+196,Niko Springer,7,2026-05-18,Players Championship,PT,Last 64,Lost,1 V 6,Derek Coulson,5415,88.19,98.39,-10.2,2969,101
+196,Niko Springer,8,2026-05-18,Players Championship,PT,Last 128,Won,6 V 5,Owen Bates,14661,96.63,93.71,2.92,5025,156
+196,Niko Springer,9,2026-05-13,Players Championship,PT,Semi Final,Lost,6 V 7,Jonny Clayton,20,93.53,94.25,-0.72,6173,198
+196,Niko Springer,10,2026-05-13,Players Championship,PT,Quarter Final,Won,6 V 2,Stephen Bunting,36,95.42,84.54,10.88,3976,125
+51,Kim Huybrechts,1,2026-05-23,European Tour,ET,Last 32,Won,6 V 5,Chris Dobey,39,104.66,98.8,5.86,5303,152
+51,Kim Huybrechts,2,2026-05-22,European Tour,ET,Last 48 (Premier),Won,6 V 2,Daryl Gurney,24,85.23,83.56,1.67,3892,137
+51,Kim Huybrechts,3,2026-05-19,Players Championship,PT,Last 32,Lost,3 V 6,Tommy Morris,20140,95.47,97.27,-1.8,4137,130
+51,Kim Huybrechts,4,2026-05-19,Players Championship,PT,Last 64,Won,6 V 0,Thibault Tricole,5193,106.09,89.07,17.02,3006,85
+51,Kim Huybrechts,5,2026-05-19,Players Championship,PT,Last 128,Won,6 V 4,Sam Price,22829,96.49,91.46,5.03,4760,148
+51,Kim Huybrechts,6,2026-05-18,Players Championship,PT,Last 32,Lost,5 V 6,Maik Kuivenhoven,91,94.72,85.27,9.45,5273,167
+51,Kim Huybrechts,7,2026-05-18,Players Championship,PT,Last 64,Won,6 V 2,Marvin Kraft,24609,86.98,79.95,7.03,3914,135
+51,Kim Huybrechts,8,2026-05-18,Players Championship,PT,Last 128,Won,6 V 3,Greg Ritchie,2295,92.72,85.15,7.57,4265,138
+51,Kim Huybrechts,9,2026-05-13,Players Championship,PT,Last 32,Lost,2 V 6,Kevin Doets,2052,93.17,106.97,-13.8,3354,108
+51,Kim Huybrechts,10,2026-05-13,Players Championship,PT,Last 64,Won,6 V 1,Tavis Dudeney,3059,108.81,88.19,20.62,3482,96
+74,Bradley Brooks,1,2026-05-23,European Tour,ET,Last 32,Lost,5 V 6,Jermaine Wattimena,18,87.19,87.53,-0.34,5377,185
+74,Bradley Brooks,2,2026-05-22,European Tour,ET,Last 48 (Premier),Won,6 V 4,Andrew Gilding,2088,91.65,93.7,-2.05,4674,153
+74,Bradley Brooks,3,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Peter Wright,1,80.42,84.0,-3.58,4959,185
+74,Bradley Brooks,4,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Won,6 V 4,Michael Smith,5,94.39,87.28,7.11,4814,153
+74,Bradley Brooks,5,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 4,Ian White,17,86.35,86.94,-0.59,4548,158
+74,Bradley Brooks,6,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 4,David Sharp,6682,78.66,79.1,-0.44,4536,173
+74,Bradley Brooks,7,2026-05-19,Players Championship,PT,Last 128,Lost,3 V 6,Beau Greaves,138,86.4,88.77,-2.37,4147,144
+74,Bradley Brooks,8,2026-05-18,Players Championship,PT,Last 128,Lost,3 V 6,Cristo Reyes,63,82.12,89.54,-7.42,3750,137
+74,Bradley Brooks,9,2026-05-13,Players Championship,PT,Last 128,Lost,1 V 6,Arno Merk,9975,86.89,94.53,-7.64,3041,105
+74,Bradley Brooks,10,2026-05-12,Players Championship,PT,Last 128,Lost,2 V 6,Martin Schindler,82,92.52,97.09,-4.57,3670,119
 5138,Alan Soutar,1,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Tom Bissell,46158,78.25,85.01,-6.76,3469,133
 5138,Alan Soutar,2,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Justin Hood,2138,78.88,89.64,-10.76,3497,133
 5138,Alan Soutar,3,2026-05-19,Players Championship,PT,Last 128,Lost,0 V 6,Darius Labanauskas,57,80.58,92.97,-12.39,2498,93
@@ -399,16 +409,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 2092,Jeffrey de Graaf,8,2026-05-18,Players Championship,PT,Last 32,Lost,4 V 6,Dirk van Duijvenbode,14,96.58,99.41,-2.83,4636,144
 2092,Jeffrey de Graaf,9,2026-05-18,Players Championship,PT,Last 64,Won,6 V 5,Krzysztof Ratajski,12,83.9,87.99,-4.09,4866,174
 2092,Jeffrey de Graaf,10,2026-05-18,Players Championship,PT,Last 128,Won,6 V 1,Jurjen van der Velde,2784,100.7,89.06,11.64,3491,104
-51,Kim Huybrechts,1,2026-05-19,Players Championship,PT,Last 32,Lost,3 V 6,Tommy Morris,20140,95.47,97.27,-1.8,4137,130
-51,Kim Huybrechts,2,2026-05-19,Players Championship,PT,Last 64,Won,6 V 0,Thibault Tricole,5193,106.09,89.07,17.02,3006,85
-51,Kim Huybrechts,3,2026-05-19,Players Championship,PT,Last 128,Won,6 V 4,Sam Price,22829,96.49,91.46,5.03,4760,148
-51,Kim Huybrechts,4,2026-05-18,Players Championship,PT,Last 32,Lost,5 V 6,Maik Kuivenhoven,91,94.72,85.27,9.45,5273,167
-51,Kim Huybrechts,5,2026-05-18,Players Championship,PT,Last 64,Won,6 V 2,Marvin Kraft,24609,86.98,79.95,7.03,3914,135
-51,Kim Huybrechts,6,2026-05-18,Players Championship,PT,Last 128,Won,6 V 3,Greg Ritchie,2295,92.72,85.15,7.57,4265,138
-51,Kim Huybrechts,7,2026-05-13,Players Championship,PT,Last 32,Lost,2 V 6,Kevin Doets,2052,93.17,106.97,-13.8,3354,108
-51,Kim Huybrechts,8,2026-05-13,Players Championship,PT,Last 64,Won,6 V 1,Tavis Dudeney,3059,108.81,88.19,20.62,3482,96
-51,Kim Huybrechts,9,2026-05-13,Players Championship,PT,Last 128,Won,6 V 0,Jimmy van Schie,10123,106.09,95.5,10.59,3006,85
-51,Kim Huybrechts,10,2026-05-12,Players Championship,PT,Last 16,Lost,2 V 6,Joe Cullen,6,88.21,89.15,-0.94,3852,131
+2221,Cameron Menzies,1,2026-05-23,European Tour,ET,Last 32,Won,6 V 4,Josh Rock,20114,97.26,99.17,-1.91,4539,140
+2221,Cameron Menzies,2,2026-05-22,European Tour,ET,Last 48 (Premier),Won,6 V 5,Michael Unterbuchner,143,90.57,91.74,-1.17,5374,178
+2221,Cameron Menzies,3,2026-05-19,Players Championship,PT,Last 128,Lost,3 V 6,Stefan Bellmont,1989,87.11,87.83,-0.72,4036,139
+2221,Cameron Menzies,4,2026-05-18,Players Championship,PT,Last 64,Lost,3 V 6,Jimmy van Schie,10123,88.86,88.25,0.61,4147,140
+2221,Cameron Menzies,5,2026-05-18,Players Championship,PT,Last 128,Won,6 V 2,Mario Vandenbogaerde,2363,97.88,87.2,10.68,3948,121
+2221,Cameron Menzies,6,2026-05-13,Players Championship,PT,Last 32,Lost,3 V 6,Damon Heta,13,86.08,93.74,-7.66,3931,137
+2221,Cameron Menzies,7,2026-05-13,Players Championship,PT,Last 64,Won,6 V 1,Madars Razma,42,103.69,90.0,13.69,3491,101
+2221,Cameron Menzies,8,2026-05-13,Players Championship,PT,Last 128,Won,6 V 2,Dimitri Van den Bergh,25,96.24,84.1,12.14,3978,124
+2221,Cameron Menzies,9,2026-05-12,Players Championship,PT,Last 32,Lost,2 V 6,Keane Barry,129,99.33,100.13,-0.8,3609,109
+2221,Cameron Menzies,10,2026-05-12,Players Championship,PT,Last 64,Won,6 V 2,Stephen Rosney,3057,96.82,85.25,11.57,3905,121
 59,Max Hopp,1,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Lost,4 V 6,Jim Long,5147,92.3,90.56,1.74,4646,151
 59,Max Hopp,2,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 3,Marvin van Velzen,2895,96.81,91.23,5.58,4195,130
 59,Max Hopp,3,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 4,Marvin Kraft,24609,94.47,89.63,4.84,4692,149
@@ -419,36 +429,26 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 59,Max Hopp,8,2026-05-18,Players Championship,PT,Last 64,Lost,2 V 6,Gian van Veen,2641,79.39,87.22,-7.83,3546,134
 59,Max Hopp,9,2026-05-18,Players Championship,PT,Last 128,Won,6 V 3,Ian White,17,99.86,86.2,13.66,4427,133
 59,Max Hopp,10,2026-05-13,Players Championship,PT,Last 128,Lost,4 V 6,Sebastian Bialecki,3038,87.56,86.71,0.85,4728,162
-2221,Cameron Menzies,1,2026-05-19,Players Championship,PT,Last 128,Lost,3 V 6,Stefan Bellmont,1989,87.11,87.83,-0.72,4036,139
-2221,Cameron Menzies,2,2026-05-18,Players Championship,PT,Last 64,Lost,3 V 6,Jimmy van Schie,10123,88.86,88.25,0.61,4147,140
-2221,Cameron Menzies,3,2026-05-18,Players Championship,PT,Last 128,Won,6 V 2,Mario Vandenbogaerde,2363,97.88,87.2,10.68,3948,121
-2221,Cameron Menzies,4,2026-05-13,Players Championship,PT,Last 32,Lost,3 V 6,Damon Heta,13,86.08,93.74,-7.66,3931,137
-2221,Cameron Menzies,5,2026-05-13,Players Championship,PT,Last 64,Won,6 V 1,Madars Razma,42,103.69,90.0,13.69,3491,101
-2221,Cameron Menzies,6,2026-05-13,Players Championship,PT,Last 128,Won,6 V 2,Dimitri Van den Bergh,25,96.24,84.1,12.14,3978,124
-2221,Cameron Menzies,7,2026-05-12,Players Championship,PT,Last 32,Lost,2 V 6,Keane Barry,129,99.33,100.13,-0.8,3609,109
-2221,Cameron Menzies,8,2026-05-12,Players Championship,PT,Last 64,Won,6 V 2,Stephen Rosney,3057,96.82,85.25,11.57,3905,121
-2221,Cameron Menzies,9,2026-05-12,Players Championship,PT,Last 128,Won,6 V 3,Adam Leek,20494,99.48,86.13,13.35,4311,130
-2221,Cameron Menzies,10,2026-05-08,European Tour,ET,Last 48 (Premier),Lost,2 V 6,Mensur Suljović,9,90.21,94.19,-3.98,3458,115
-2317,Connor Scutt,1,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Lost,2 V 6,Sam Price,22829,87.74,91.48,-3.74,3802,130
-2317,Connor Scutt,2,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 5,Darryl Pilgrim,5185,88.8,95.53,-6.73,4884,165
-2317,Connor Scutt,3,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Lost,3 V 6,Dominik Gruellich,254,85.66,87.56,-1.9,4140,145
-2317,Connor Scutt,4,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 4,Jeffrey de Graaf,2092,94.35,91.3,3.05,4875,155
-2317,Connor Scutt,5,2026-05-19,Players Championship,PT,Last 64,Lost,5 V 6,Yorick Hofkens,25319,85.28,83.43,1.85,5117,180
-2317,Connor Scutt,6,2026-05-19,Players Championship,PT,Last 128,Won,6 V 3,Dirk van Duijvenbode,14,98.58,98.09,0.49,4239,129
-2317,Connor Scutt,7,2026-05-18,Players Championship,PT,Last 64,Lost,3 V 6,Callan Rydz,35,94.93,97.48,-2.55,3987,126
-2317,Connor Scutt,8,2026-05-18,Players Championship,PT,Last 128,Won,6 V 5,Rob Cross,29,93.52,96.94,-3.42,5050,162
-2317,Connor Scutt,9,2026-05-13,Players Championship,PT,Last 32,Lost,5 V 6,Robert Owen,51308,93.79,94.27,-0.48,5127,164
-2317,Connor Scutt,10,2026-05-13,Players Championship,PT,Last 64,Won,6 V 3,Jack Tweddell,2672,96.81,85.86,10.95,4292,133
-129,Keane Barry,1,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Won,6 V 5,Charlie Manby,5636,93.73,93.4,0.33,5155,165
-129,Keane Barry,2,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 3,Dimitri Van den Bergh,25,93.05,90.73,2.32,4125,133
-129,Keane Barry,3,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Chris Landman,5183,92.81,86.42,6.39,3898,126
-129,Keane Barry,4,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Adam Paxton,2417,84.42,88.65,-4.23,3602,128
-129,Keane Barry,5,2026-05-19,Players Championship,PT,Last 128,Lost,5 V 6,Jimmy van Schie,10123,92.05,89.73,2.32,5155,168
-129,Keane Barry,6,2026-05-18,Players Championship,PT,Last 16,Lost,4 V 6,Dirk van Duijvenbode,14,100.5,100.45,0.05,4623,138
-129,Keane Barry,7,2026-05-18,Players Championship,PT,Last 32,Won,6 V 4,Sebastian Bialecki,3038,96.41,93.51,2.9,4756,148
-129,Keane Barry,8,2026-05-18,Players Championship,PT,Last 64,Won,6 V 3,Stephen Rosney,3057,94.65,91.3,3.35,4354,138
-129,Keane Barry,9,2026-05-18,Players Championship,PT,Last 128,Won,6 V 4,Mervyn King,19,100.58,97.79,2.79,4761,142
-129,Keane Barry,10,2026-05-13,Players Championship,PT,Last 128,Lost,3 V 6,Daniel Ayres,1975,80.52,86.57,-6.05,4026,150
+2317,Connor Scutt,1,2026-05-23,European Tour,ET,Last 32,Lost,3 V 6,Gian van Veen,2641,89.95,96.88,-6.93,3958,132
+2317,Connor Scutt,2,2026-05-22,European Tour,ET,Last 48 (Premier),Won,6 V 1,Finn Behrens,34352,91.76,72.58,19.18,3487,114
+2317,Connor Scutt,3,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Lost,2 V 6,Sam Price,22829,87.74,91.48,-3.74,3802,130
+2317,Connor Scutt,4,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 5,Darryl Pilgrim,5185,88.8,95.53,-6.73,4884,165
+2317,Connor Scutt,5,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Lost,3 V 6,Dominik Gruellich,254,85.66,87.56,-1.9,4140,145
+2317,Connor Scutt,6,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 4,Jeffrey de Graaf,2092,94.35,91.3,3.05,4875,155
+2317,Connor Scutt,7,2026-05-19,Players Championship,PT,Last 64,Lost,5 V 6,Yorick Hofkens,25319,85.28,83.43,1.85,5117,180
+2317,Connor Scutt,8,2026-05-19,Players Championship,PT,Last 128,Won,6 V 3,Dirk van Duijvenbode,14,98.58,98.09,0.49,4239,129
+2317,Connor Scutt,9,2026-05-18,Players Championship,PT,Last 64,Lost,3 V 6,Callan Rydz,35,94.93,97.48,-2.55,3987,126
+2317,Connor Scutt,10,2026-05-18,Players Championship,PT,Last 128,Won,6 V 5,Rob Cross,29,93.52,96.94,-3.42,5050,162
+129,Keane Barry,1,2026-05-22,European Tour,ET,Last 48 (Premier),Lost,2 V 6,Niels Zonneveld,55,89.14,96.47,-7.33,3536,119
+129,Keane Barry,2,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Won,6 V 5,Charlie Manby,5636,93.73,93.4,0.33,5155,165
+129,Keane Barry,3,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 3,Dimitri Van den Bergh,25,93.05,90.73,2.32,4125,133
+129,Keane Barry,4,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Chris Landman,5183,92.81,86.42,6.39,3898,126
+129,Keane Barry,5,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Adam Paxton,2417,84.42,88.65,-4.23,3602,128
+129,Keane Barry,6,2026-05-19,Players Championship,PT,Last 128,Lost,5 V 6,Jimmy van Schie,10123,92.05,89.73,2.32,5155,168
+129,Keane Barry,7,2026-05-18,Players Championship,PT,Last 16,Lost,4 V 6,Dirk van Duijvenbode,14,100.5,100.45,0.05,4623,138
+129,Keane Barry,8,2026-05-18,Players Championship,PT,Last 32,Won,6 V 4,Sebastian Bialecki,3038,96.41,93.51,2.9,4756,148
+129,Keane Barry,9,2026-05-18,Players Championship,PT,Last 64,Won,6 V 3,Stephen Rosney,3057,94.65,91.3,3.35,4354,138
+129,Keane Barry,10,2026-05-18,Players Championship,PT,Last 128,Won,6 V 4,Mervyn King,19,100.58,97.79,2.79,4761,142
 2273,Wesley Plaisier,1,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,4 V 6,Stephen Rosney,3057,86.01,89.77,-3.76,4358,152
 2273,Wesley Plaisier,2,2026-05-20,European Tour Card Holder Qualifier,Q,Last 16,Won,6 V 3,Dennie Olde Kalter,5162,90.52,88.46,2.06,4345,144
 2273,Wesley Plaisier,3,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,0 V 6,Carl Sneyd,23238,69.56,79.81,-10.25,2504,108
@@ -509,26 +509,26 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 138,Beau Greaves,8,2026-05-17,Women&#039;s Series,0,Last 64,Won,4 V 0,Jennifer Doyle,45732,79.11,56.92,22.19,2004,76
 138,Beau Greaves,9,2026-05-17,Women&#039;s Series,0,Quarter Final,Lost,4 V 5,Gemma Hayter,36864,83.03,85.38,-2.35,4124,149
 138,Beau Greaves,10,2026-05-17,Women&#039;s Series,0,Last 16,Won,4 V 1,Lisa Ashton,95,79.04,74.59,4.45,2503,95
-46158,Tom Bissell,1,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Lost,1 V 6,Richard Veenstra,5145,81.89,95.1,-13.21,3030,111
-46158,Tom Bissell,2,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Alan Soutar,5138,85.01,78.25,6.76,3882,137
-46158,Tom Bissell,3,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,3 V 6,Richard Veenstra,5145,90.65,92.87,-2.22,4019,133
-46158,Tom Bissell,4,2026-05-19,Players Championship,PT,Last 64,Lost,4 V 6,Dimitri Van den Bergh,25,85.89,91.31,-5.42,4323,151
-46158,Tom Bissell,5,2026-05-19,Players Championship,PT,Last 128,Won,6 V 3,Stephen Bunting,36,94.01,93.69,0.32,4293,137
-46158,Tom Bissell,6,2026-05-18,Players Championship,PT,Last 64,Lost,5 V 6,Tommy Morris,20140,91.61,87.99,3.62,5344,175
-46158,Tom Bissell,7,2026-05-18,Players Championship,PT,Last 128,Won,6 V 3,Martin Schindler,82,97.25,92.26,4.99,4214,130
-46158,Tom Bissell,8,2026-05-13,Players Championship,PT,Last 128,Lost,4 V 6,Thomas Lovely,2199,97.88,94.83,3.05,4470,137
-46158,Tom Bissell,9,2026-05-12,Players Championship,PT,Last 128,Lost,2 V 6,Nick Kenny,84,77.17,86.15,-8.98,3524,137
-46158,Tom Bissell,10,2026-05-05,Players Championship,PT,Semi Final,Lost,3 V 7,Max Hopp,59,89.55,89.83,-0.28,4597,154
-28,Ryan Joyce,1,2026-05-19,Players Championship,PT,Last 16,Lost,2 V 6,Kevin Doets,2052,90.52,107.5,-16.98,3289,109
-28,Ryan Joyce,2,2026-05-19,Players Championship,PT,Last 32,Won,6 V 3,Josh Rock,20114,95.33,91.36,3.97,4099,129
-28,Ryan Joyce,3,2026-05-19,Players Championship,PT,Last 64,Won,6 V 3,Mervyn King,19,90.49,87.08,3.41,4223,140
-28,Ryan Joyce,4,2026-05-19,Players Championship,PT,Last 128,Won,6 V 5,Dominik Gruellich,254,90.52,86.73,3.79,5220,173
-28,Ryan Joyce,5,2026-05-18,Players Championship,PT,Last 128,Lost,2 V 6,Thomas Lovely,2199,93.86,89.28,4.58,3692,118
-28,Ryan Joyce,6,2026-05-13,Players Championship,PT,Last 64,Lost,0 V 6,Mensur Suljović,9,78.88,90.18,-11.3,2524,96
-28,Ryan Joyce,7,2026-05-13,Players Championship,PT,Last 128,Won,6 V 3,Jeffrey Sparidaans,5172,97.58,96.71,0.87,4326,133
-28,Ryan Joyce,8,2026-05-12,Players Championship,PT,Last 64,Lost,4 V 6,Derek Coulson,5415,92.98,97.52,-4.54,4339,140
-28,Ryan Joyce,9,2026-05-12,Players Championship,PT,Last 128,Won,6 V 1,Filip Bereza,46130,100.64,83.73,16.91,3489,104
-28,Ryan Joyce,10,2026-05-10,European Tour,ET,Last 16,Lost,2 V 6,Kevin Doets,2052,81.67,94.66,-12.99,3294,121
+46158,Tom Bissell,1,2026-05-22,European Tour,ET,Last 48 (Premier),Lost,0 V 6,Kevin Doets,2052,89.32,102.48,-13.16,2501,84
+46158,Tom Bissell,2,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Lost,1 V 6,Richard Veenstra,5145,81.89,95.1,-13.21,3030,111
+46158,Tom Bissell,3,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Alan Soutar,5138,85.01,78.25,6.76,3882,137
+46158,Tom Bissell,4,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,3 V 6,Richard Veenstra,5145,90.65,92.87,-2.22,4019,133
+46158,Tom Bissell,5,2026-05-19,Players Championship,PT,Last 64,Lost,4 V 6,Dimitri Van den Bergh,25,85.89,91.31,-5.42,4323,151
+46158,Tom Bissell,6,2026-05-19,Players Championship,PT,Last 128,Won,6 V 3,Stephen Bunting,36,94.01,93.69,0.32,4293,137
+46158,Tom Bissell,7,2026-05-18,Players Championship,PT,Last 64,Lost,5 V 6,Tommy Morris,20140,91.61,87.99,3.62,5344,175
+46158,Tom Bissell,8,2026-05-18,Players Championship,PT,Last 128,Won,6 V 3,Martin Schindler,82,97.25,92.26,4.99,4214,130
+46158,Tom Bissell,9,2026-05-13,Players Championship,PT,Last 128,Lost,4 V 6,Thomas Lovely,2199,97.88,94.83,3.05,4470,137
+46158,Tom Bissell,10,2026-05-12,Players Championship,PT,Last 128,Lost,2 V 6,Nick Kenny,84,77.17,86.15,-8.98,3524,137
+28,Ryan Joyce,1,2026-05-23,European Tour,ET,Last 32,Won,6 V 2,Christian Kist,2171,89.12,87.48,1.64,3832,129
+28,Ryan Joyce,2,2026-05-22,European Tour,ET,Last 48 (Premier),Won,6 V 2,Jeffrey Sparidaans,5172,99.58,90.05,9.53,3983,120
+28,Ryan Joyce,3,2026-05-19,Players Championship,PT,Last 16,Lost,2 V 6,Kevin Doets,2052,90.52,107.5,-16.98,3289,109
+28,Ryan Joyce,4,2026-05-19,Players Championship,PT,Last 32,Won,6 V 3,Josh Rock,20114,95.33,91.36,3.97,4099,129
+28,Ryan Joyce,5,2026-05-19,Players Championship,PT,Last 64,Won,6 V 3,Mervyn King,19,90.49,87.08,3.41,4223,140
+28,Ryan Joyce,6,2026-05-19,Players Championship,PT,Last 128,Won,6 V 5,Dominik Gruellich,254,90.52,86.73,3.79,5220,173
+28,Ryan Joyce,7,2026-05-18,Players Championship,PT,Last 128,Lost,2 V 6,Thomas Lovely,2199,93.86,89.28,4.58,3692,118
+28,Ryan Joyce,8,2026-05-13,Players Championship,PT,Last 64,Lost,0 V 6,Mensur Suljović,9,78.88,90.18,-11.3,2524,96
+28,Ryan Joyce,9,2026-05-13,Players Championship,PT,Last 128,Won,6 V 3,Jeffrey Sparidaans,5172,97.58,96.71,0.87,4326,133
+28,Ryan Joyce,10,2026-05-12,Players Championship,PT,Last 64,Lost,4 V 6,Derek Coulson,5415,92.98,97.52,-4.54,4339,140
 50760,Tom Sykes,1,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Won,6 V 3,Madars Razma,42,93.44,85.75,7.69,4267,137
 50760,Tom Sykes,2,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 3,Niall Culleton,2034,87.99,86.2,1.79,4341,148
 50760,Tom Sykes,3,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 4,Scott Williams,5137,97.67,91.97,5.7,4688,144
@@ -549,16 +549,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 65,Mickey Mansell,8,2026-05-18,Players Championship,PT,Last 32,Lost,2 V 6,Wessel Nijman,130,86.44,99.79,-13.35,3371,117
 65,Mickey Mansell,9,2026-05-18,Players Championship,PT,Last 64,Won,6 V 2,Nathan Potter,2931,93.79,83.16,10.63,3908,125
 65,Mickey Mansell,10,2026-05-18,Players Championship,PT,Last 128,Won,6 V 4,Richard Veenstra,5145,93.95,96.2,-2.25,4572,146
-21,Dave Chisnall,1,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Mario Vandenbogaerde,2363,88.74,91.79,-3.05,4940,167
-21,Dave Chisnall,2,2026-05-19,Players Championship,PT,Last 128,Lost,1 V 6,Jurjen van der Velde,2784,96.09,101.29,-5.2,3075,96
-21,Dave Chisnall,3,2026-05-18,Players Championship,PT,Last 128,Lost,1 V 6,Mensur Suljović,9,83.72,98.62,-14.9,2679,96
-21,Dave Chisnall,4,2026-05-13,Players Championship,PT,Last 128,Lost,5 V 6,Dennie Olde Kalter,5162,77.92,84.77,-6.85,4779,184
-21,Dave Chisnall,5,2026-05-12,Players Championship,PT,Last 16,Lost,3 V 6,Beau Greaves,138,88.32,87.72,0.6,4210,143
-21,Dave Chisnall,6,2026-05-12,Players Championship,PT,Last 32,Won,6 V 5,Jonny Clayton,20,100.48,99.2,1.28,5158,154
-21,Dave Chisnall,7,2026-05-12,Players Championship,PT,Last 64,Won,6 V 2,Jurjen van der Velde,2784,94.76,85.11,9.65,3885,123
-21,Dave Chisnall,8,2026-05-12,Players Championship,PT,Last 128,Won,6 V 5,Levy Frauenfelder,2834,93.0,85.97,7.03,5239,169
-21,Dave Chisnall,9,2026-05-08,European Tour,ET,Last 48 (Premier),Lost,3 V 6,Cristo Reyes,63,86.88,85.01,1.87,4228,146
-21,Dave Chisnall,10,2026-05-05,Players Championship,PT,Last 128,Lost,3 V 6,Sietse Lap,24689,85.11,89.75,-4.64,4057,143
+21,Dave Chisnall,1,2026-05-23,European Tour,ET,Last 32,Lost,0 V 6,James Wade,7,82.53,98.02,-15.49,2476,90
+21,Dave Chisnall,2,2026-05-22,European Tour,ET,Last 48 (Premier),Won,6 V 3,Liam Maendl-Lawrance,24708,85.87,75.95,9.92,4465,156
+21,Dave Chisnall,3,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Mario Vandenbogaerde,2363,88.74,91.79,-3.05,4940,167
+21,Dave Chisnall,4,2026-05-19,Players Championship,PT,Last 128,Lost,1 V 6,Jurjen van der Velde,2784,96.09,101.29,-5.2,3075,96
+21,Dave Chisnall,5,2026-05-18,Players Championship,PT,Last 128,Lost,1 V 6,Mensur Suljović,9,83.72,98.62,-14.9,2679,96
+21,Dave Chisnall,6,2026-05-13,Players Championship,PT,Last 128,Lost,5 V 6,Dennie Olde Kalter,5162,77.92,84.77,-6.85,4779,184
+21,Dave Chisnall,7,2026-05-12,Players Championship,PT,Last 16,Lost,3 V 6,Beau Greaves,138,88.32,87.72,0.6,4210,143
+21,Dave Chisnall,8,2026-05-12,Players Championship,PT,Last 32,Won,6 V 5,Jonny Clayton,20,100.48,99.2,1.28,5158,154
+21,Dave Chisnall,9,2026-05-12,Players Championship,PT,Last 64,Won,6 V 2,Jurjen van der Velde,2784,94.76,85.11,9.65,3885,123
+21,Dave Chisnall,10,2026-05-12,Players Championship,PT,Last 128,Won,6 V 5,Levy Frauenfelder,2834,93.0,85.97,7.03,5239,169
 5,Michael Smith,1,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,4 V 6,Owen Bates,14661,87.85,84.37,3.48,4744,162
 5,Michael Smith,2,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Lost,4 V 6,Bradley Brooks,74,87.28,94.39,-7.11,4422,152
 5,Michael Smith,3,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 2,Mervyn King,19,92.83,86.06,6.77,3899,126
@@ -579,16 +579,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 3043,Shane McGuirk,8,2026-05-13,Players Championship,PT,Last 64,Lost,2 V 6,Joe Hunt,14283,90.36,93.63,-3.27,3494,116
 3043,Shane McGuirk,9,2026-05-13,Players Championship,PT,Last 128,Won,6 V 5,Benjamin Pratnemer,2278,90.85,84.98,5.87,5360,177
 3043,Shane McGuirk,10,2026-05-12,Players Championship,PT,Last 128,Lost,5 V 6,Dimitri Van den Bergh,25,88.88,88.19,0.69,5096,172
-5636,Charlie Manby,1,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Lost,5 V 6,Keane Barry,129,93.4,93.73,-0.33,5075,163
-5636,Charlie Manby,2,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 2,Ian White,17,92.12,84.85,7.27,3869,126
-5636,Charlie Manby,3,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Filip Bereza,46130,98.44,87.1,11.34,3872,118
-5636,Charlie Manby,4,2026-05-20,European Tour Card Holder Qualifier,Q,Last 16,Won,6 V 1,Ricky Evans,45,86.95,89.16,-2.21,3246,112
-5636,Charlie Manby,5,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Won,6 V 4,Dominik Gruellich,254,87.59,83.08,4.51,4876,167
-5636,Charlie Manby,6,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 4,Stephen Burton,2014,88.84,87.4,1.44,4738,160
-5636,Charlie Manby,7,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 3,Cristo Reyes,63,92.52,88.47,4.05,4441,144
-5636,Charlie Manby,8,2026-05-19,Players Championship,PT,Last 16,Lost,5 V 6,Luke Woodhouse,70,92.59,97.84,-5.25,4969,161
-5636,Charlie Manby,9,2026-05-19,Players Championship,PT,Last 32,Won,6 V 4,Danny Noppert,22,91.03,86.98,4.05,4794,158
-5636,Charlie Manby,10,2026-05-19,Players Championship,PT,Last 64,Won,6 V 5,Stephen Rosney,3057,88.76,88.02,0.74,5089,172
+5636,Charlie Manby,1,2026-05-23,European Tour,ET,Last 32,Lost,3 V 6,Ryan Searle,31,91.89,92.44,-0.55,4135,135
+5636,Charlie Manby,2,2026-05-22,European Tour,ET,Last 48 (Premier),Won,6 V 3,Niko Springer,196,94.94,82.27,12.67,4304,136
+5636,Charlie Manby,3,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Lost,5 V 6,Keane Barry,129,93.4,93.73,-0.33,5075,163
+5636,Charlie Manby,4,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 2,Ian White,17,92.12,84.85,7.27,3869,126
+5636,Charlie Manby,5,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Filip Bereza,46130,98.44,87.1,11.34,3872,118
+5636,Charlie Manby,6,2026-05-20,European Tour Card Holder Qualifier,Q,Last 16,Won,6 V 1,Ricky Evans,45,86.95,89.16,-2.21,3246,112
+5636,Charlie Manby,7,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Won,6 V 4,Dominik Gruellich,254,87.59,83.08,4.51,4876,167
+5636,Charlie Manby,8,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 4,Stephen Burton,2014,88.84,87.4,1.44,4738,160
+5636,Charlie Manby,9,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 3,Cristo Reyes,63,92.52,88.47,4.05,4441,144
+5636,Charlie Manby,10,2026-05-19,Players Championship,PT,Last 16,Lost,5 V 6,Luke Woodhouse,70,92.59,97.84,-5.25,4969,161
 38,Gabriel Clemens,1,2026-05-20,European Tour Card Holder Qualifier,Q,Last 16,Lost,5 V 6,Sebastian Bialecki,3038,103.05,103.27,-0.22,5015,146
 38,Gabriel Clemens,2,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Ricky Evans,45,91.41,90.71,0.7,3626,119
 38,Gabriel Clemens,3,2026-05-20,European Tour Card Holder Qualifier,Q,Last 16,Won,6 V 0,Rusty-Jake Rodriguez,131,85.89,73.53,12.36,3006,105
@@ -609,16 +609,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 3038,Sebastian Bialecki,8,2026-05-19,Players Championship,PT,Last 32,Won,6 V 1,Dimitri Van den Bergh,25,98.79,94.74,4.05,3260,99
 3038,Sebastian Bialecki,9,2026-05-19,Players Championship,PT,Last 64,Won,6 V 1,Tavis Dudeney,3059,93.75,90.3,3.45,3375,108
 3038,Sebastian Bialecki,10,2026-05-19,Players Championship,PT,Last 128,Won,6 V 3,Ryan Meikle,47,92.52,84.48,8.04,4441,144
-91,Maik Kuivenhoven,1,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,4 V 6,Niall Culleton,2034,85.16,84.81,0.35,4570,161
-91,Maik Kuivenhoven,2,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Won,6 V 3,Robert Owen,51308,100.71,95.62,5.09,4364,130
-91,Maik Kuivenhoven,3,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 5,Cor Dekker,2046,91.17,90.93,0.24,5227,172
-91,Maik Kuivenhoven,4,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Jeffrey Sparidaans,5172,96.03,82.26,13.77,3745,117
-91,Maik Kuivenhoven,5,2026-05-19,Players Championship,PT,Last 64,Lost,2 V 6,William O&#039;Connor,30,81.14,90.62,-9.48,3543,131
-91,Maik Kuivenhoven,6,2026-05-19,Players Championship,PT,Last 128,Won,6 V 1,Stefaan Henderyck,20186,93.59,86.94,6.65,3307,106
-91,Maik Kuivenhoven,7,2026-05-18,Players Championship,PT,Last 16,Lost,2 V 6,Robert Owen,51308,86.98,95.61,-8.63,3508,121
-91,Maik Kuivenhoven,8,2026-05-18,Players Championship,PT,Last 32,Won,6 V 5,Kim Huybrechts,51,85.27,94.72,-9.45,4775,168
-91,Maik Kuivenhoven,9,2026-05-18,Players Championship,PT,Last 64,Won,6 V 4,Jonny Clayton,20,90.79,88.25,2.54,4842,160
-91,Maik Kuivenhoven,10,2026-05-18,Players Championship,PT,Last 128,Won,6 V 3,Maximilian Czerwinski,23309,87.06,83.88,3.18,4179,144
+91,Maik Kuivenhoven,1,2026-05-22,European Tour,ET,Last 48 (Premier),Lost,2 V 6,Ricardo Pietreczko,153,84.47,85.63,-1.16,3801,135
+91,Maik Kuivenhoven,2,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,4 V 6,Niall Culleton,2034,85.16,84.81,0.35,4570,161
+91,Maik Kuivenhoven,3,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Won,6 V 3,Robert Owen,51308,100.71,95.62,5.09,4364,130
+91,Maik Kuivenhoven,4,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 5,Cor Dekker,2046,91.17,90.93,0.24,5227,172
+91,Maik Kuivenhoven,5,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Jeffrey Sparidaans,5172,96.03,82.26,13.77,3745,117
+91,Maik Kuivenhoven,6,2026-05-19,Players Championship,PT,Last 64,Lost,2 V 6,William O&#039;Connor,30,81.14,90.62,-9.48,3543,131
+91,Maik Kuivenhoven,7,2026-05-19,Players Championship,PT,Last 128,Won,6 V 1,Stefaan Henderyck,20186,93.59,86.94,6.65,3307,106
+91,Maik Kuivenhoven,8,2026-05-18,Players Championship,PT,Last 16,Lost,2 V 6,Robert Owen,51308,86.98,95.61,-8.63,3508,121
+91,Maik Kuivenhoven,9,2026-05-18,Players Championship,PT,Last 32,Won,6 V 5,Kim Huybrechts,51,85.27,94.72,-9.45,4775,168
+91,Maik Kuivenhoven,10,2026-05-18,Players Championship,PT,Last 64,Won,6 V 4,Jonny Clayton,20,90.79,88.25,2.54,4842,160
 5185,Darryl Pilgrim,1,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Connor Scutt,2317,95.53,88.8,6.73,5318,167
 5185,Darryl Pilgrim,2,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Mervyn King,19,84.58,83.19,1.39,5103,181
 5185,Darryl Pilgrim,3,2026-05-19,Players Championship,PT,Last 64,Lost,2 V 6,Stefan Bellmont,1989,94.07,92.72,1.35,3700,118
@@ -629,16 +629,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 5185,Darryl Pilgrim,8,2026-05-13,Players Championship,PT,Last 64,Won,6 V 2,Jim Long,5147,86.61,83.29,3.32,3811,132
 5185,Darryl Pilgrim,9,2026-05-13,Players Championship,PT,Last 128,Won,6 V 4,Alan Soutar,5138,92.21,86.1,6.11,4918,160
 5185,Darryl Pilgrim,10,2026-05-12,Players Championship,PT,Last 32,Lost,1 V 6,Dirk van Duijvenbode,14,84.71,100.64,-15.93,2852,101
-42,Madars Razma,1,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Lost,3 V 6,Tom Sykes,50760,85.75,93.44,-7.69,3973,139
-42,Madars Razma,2,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 5,Pascal Rupprecht,24822,84.91,86.64,-1.73,5208,184
-42,Madars Razma,3,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Kai Gotthardt,158,94.4,90.35,4.05,3776,120
-42,Madars Razma,4,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Cor Dekker,2046,95.5,99.26,-3.76,3470,109
-42,Madars Razma,5,2026-05-19,Players Championship,PT,Last 128,Lost,4 V 6,Darryl Pilgrim,5185,90.37,96.93,-6.56,4398,146
-42,Madars Razma,6,2026-05-18,Players Championship,PT,Last 64,Lost,5 V 6,Justin Hood,2138,88.48,99.9,-11.42,4601,156
-42,Madars Razma,7,2026-05-18,Players Championship,PT,Last 128,Won,6 V 5,Joe Cullen,6,89.01,90.26,-1.25,5044,170
-42,Madars Razma,8,2026-05-13,Players Championship,PT,Last 64,Lost,1 V 6,Cameron Menzies,2221,90.0,103.69,-13.69,2970,99
-42,Madars Razma,9,2026-05-13,Players Championship,PT,Last 128,Won,6 V 3,Owen Bates,14661,93.02,91.37,1.65,4279,138
-42,Madars Razma,10,2026-05-12,Players Championship,PT,Last 64,Lost,5 V 6,Niko Springer,196,95.2,91.47,3.73,5268,166
+42,Madars Razma,1,2026-05-23,European Tour,ET,Last 32,Lost,5 V 6,Michael van Gerwen,3,88.79,89.54,-0.75,5061,171
+42,Madars Razma,2,2026-05-22,European Tour,ET,Last 48 (Premier),Won,6 V 2,Gyorgy Jehirszki,17044,89.73,83.55,6.18,3948,132
+42,Madars Razma,3,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Lost,3 V 6,Tom Sykes,50760,85.75,93.44,-7.69,3973,139
+42,Madars Razma,4,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 5,Pascal Rupprecht,24822,84.91,86.64,-1.73,5208,184
+42,Madars Razma,5,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Kai Gotthardt,158,94.4,90.35,4.05,3776,120
+42,Madars Razma,6,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Cor Dekker,2046,95.5,99.26,-3.76,3470,109
+42,Madars Razma,7,2026-05-19,Players Championship,PT,Last 128,Lost,4 V 6,Darryl Pilgrim,5185,90.37,96.93,-6.56,4398,146
+42,Madars Razma,8,2026-05-18,Players Championship,PT,Last 64,Lost,5 V 6,Justin Hood,2138,88.48,99.9,-11.42,4601,156
+42,Madars Razma,9,2026-05-18,Players Championship,PT,Last 128,Won,6 V 5,Joe Cullen,6,89.01,90.26,-1.25,5044,170
+42,Madars Razma,10,2026-05-13,Players Championship,PT,Last 64,Lost,1 V 6,Cameron Menzies,2221,90.0,103.69,-13.69,2970,99
 2363,Mario Vandenbogaerde,1,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Maximilian Czerwinski,23309,88.28,88.19,0.09,3737,127
 2363,Mario Vandenbogaerde,2,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Won,6 V 5,Chris Landman,5183,88.29,87.31,0.98,5268,179
 2363,Mario Vandenbogaerde,3,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 4,Adam Paxton,2417,84.79,79.59,5.2,4918,174
@@ -669,16 +669,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 2014,Stephen Burton,8,2026-05-18,Players Championship,PT,Last 128,Won,6 V 5,Karel Sedláček,44,98.3,103.18,-4.88,5177,158
 2014,Stephen Burton,9,2026-05-13,Players Championship,PT,Last 64,Lost,2 V 6,Robert Owen,51308,88.42,91.57,-3.15,3743,127
 2014,Stephen Burton,10,2026-05-13,Players Championship,PT,Last 128,Won,6 V 1,Adam Leek,20494,95.05,91.6,3.45,3485,110
-2171,Christian Kist,1,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Lost,4 V 6,Tyler Thorpe,27176,84.07,84.46,-0.39,4764,170
-2171,Christian Kist,2,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 4,Viktor Tingstrom,3094,85.48,80.53,4.95,4787,168
-2171,Christian Kist,3,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Lost,2 V 6,Darius Labanauskas,57,81.72,87.99,-6.27,3732,137
-2171,Christian Kist,4,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 5,Thomas Lovely,2199,93.14,87.92,5.22,5340,172
-2171,Christian Kist,5,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Ryan Meikle,47,90.63,81.81,8.82,3897,129
-2171,Christian Kist,6,2026-05-19,Players Championship,PT,Last 128,Lost,2 V 6,Brendan Dolan,23,91.61,92.54,-0.93,3634,119
-2171,Christian Kist,7,2026-05-18,Players Championship,PT,Last 16,Lost,2 V 6,Luke Humphries,34,87.57,105.64,-18.07,3211,110
-2171,Christian Kist,8,2026-05-18,Players Championship,PT,Last 32,Won,6 V 4,Jimmy van Schie,10123,86.29,82.85,3.44,4602,160
-2171,Christian Kist,9,2026-05-18,Players Championship,PT,Last 64,Won,6 V 3,Sam Price,22829,92.3,84.93,7.37,4061,132
-2171,Christian Kist,10,2026-05-18,Players Championship,PT,Last 128,Won,6 V 5,Thibault Tricole,5193,89.61,87.41,2.2,5078,170
+2171,Christian Kist,1,2026-05-23,European Tour,ET,Last 32,Lost,2 V 6,Ryan Joyce,28,87.48,89.12,-1.64,3616,124
+2171,Christian Kist,2,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Lost,4 V 6,Tyler Thorpe,27176,84.07,84.46,-0.39,4764,170
+2171,Christian Kist,3,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 4,Viktor Tingstrom,3094,85.48,80.53,4.95,4787,168
+2171,Christian Kist,4,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Lost,2 V 6,Darius Labanauskas,57,81.72,87.99,-6.27,3732,137
+2171,Christian Kist,5,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 5,Thomas Lovely,2199,93.14,87.92,5.22,5340,172
+2171,Christian Kist,6,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Ryan Meikle,47,90.63,81.81,8.82,3897,129
+2171,Christian Kist,7,2026-05-19,Players Championship,PT,Last 128,Lost,2 V 6,Brendan Dolan,23,91.61,92.54,-0.93,3634,119
+2171,Christian Kist,8,2026-05-18,Players Championship,PT,Last 16,Lost,2 V 6,Luke Humphries,34,87.57,105.64,-18.07,3211,110
+2171,Christian Kist,9,2026-05-18,Players Championship,PT,Last 32,Won,6 V 4,Jimmy van Schie,10123,86.29,82.85,3.44,4602,160
+2171,Christian Kist,10,2026-05-18,Players Championship,PT,Last 64,Won,6 V 3,Sam Price,22829,92.3,84.93,7.37,4061,132
 14385,Adam Lipscombe,1,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,3 V 6,Jeffrey de Graaf,2092,94.08,89.93,4.15,4014,128
 14385,Adam Lipscombe,2,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Niall Culleton,2034,93.4,86.29,7.11,5137,165
 14385,Adam Lipscombe,3,2026-05-19,Players Championship,PT,Last 128,Lost,3 V 6,Benjamin Pratnemer,2278,99.56,99.54,0.02,4082,123
@@ -779,16 +779,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 1982,Raymond van Barneveld,8,2026-04-28,Players Championship,PT,Last 128,Lost,1 V 6,Krzysztof Ratajski,12,90.39,99.26,-8.87,3013,100
 1982,Raymond van Barneveld,9,2026-04-27,Players Championship,PT,Last 128,Lost,1 V 6,Tom Sykes,50760,83.38,101.38,-18.0,2807,101
 1982,Raymond van Barneveld,10,2026-04-17,European Tour,ET,Last 48 (Premier),Lost,3 V 6,Cameron Menzies,2221,96.05,104.5,-8.45,4066,127
-5183,Chris Landman,1,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Keane Barry,129,86.42,92.81,-6.39,3572,124
-5183,Chris Landman,2,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Lost,5 V 6,Mario Vandenbogaerde,2363,87.31,88.29,-0.98,5151,177
-5183,Chris Landman,3,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 5,Tyler Thorpe,27176,96.11,103.22,-7.11,5062,158
-5183,Chris Landman,4,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 4,Adam Gawlas,134,89.27,91.8,-2.53,4374,147
-5183,Chris Landman,5,2026-05-19,Players Championship,PT,Last 16,Lost,0 V 6,Jonny Clayton,20,88.33,106.09,-17.76,2385,81
-5183,Chris Landman,6,2026-05-19,Players Championship,PT,Last 32,Won,6 V 4,Daryl Gurney,24,88.21,87.53,0.68,4675,159
-5183,Chris Landman,7,2026-05-19,Players Championship,PT,Last 64,Won,6 V 2,Marvin Kraft,24609,92.66,87.46,5.2,3861,125
-5183,Chris Landman,8,2026-05-19,Players Championship,PT,Last 128,Won,6 V 1,Rusty-Jake Rodriguez,131,91.69,85.22,6.47,3423,112
-5183,Chris Landman,9,2026-05-18,Players Championship,PT,Last 64,Lost,3 V 6,Stephen Burton,2014,93.11,94.05,-0.94,4159,134
-5183,Chris Landman,10,2026-05-18,Players Championship,PT,Last 128,Won,6 V 2,Arno Merk,9975,91.67,84.93,6.74,3789,124
+5183,Chris Landman,1,2026-05-22,European Tour,ET,Last 48 (Premier),Lost,5 V 6,Joe Cullen,6,86.81,91.87,-5.06,5035,174
+5183,Chris Landman,2,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Keane Barry,129,86.42,92.81,-6.39,3572,124
+5183,Chris Landman,3,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Lost,5 V 6,Mario Vandenbogaerde,2363,87.31,88.29,-0.98,5151,177
+5183,Chris Landman,4,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 5,Tyler Thorpe,27176,96.11,103.22,-7.11,5062,158
+5183,Chris Landman,5,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 4,Adam Gawlas,134,89.27,91.8,-2.53,4374,147
+5183,Chris Landman,6,2026-05-19,Players Championship,PT,Last 16,Lost,0 V 6,Jonny Clayton,20,88.33,106.09,-17.76,2385,81
+5183,Chris Landman,7,2026-05-19,Players Championship,PT,Last 32,Won,6 V 4,Daryl Gurney,24,88.21,87.53,0.68,4675,159
+5183,Chris Landman,8,2026-05-19,Players Championship,PT,Last 64,Won,6 V 2,Marvin Kraft,24609,92.66,87.46,5.2,3861,125
+5183,Chris Landman,9,2026-05-19,Players Championship,PT,Last 128,Won,6 V 1,Rusty-Jake Rodriguez,131,91.69,85.22,6.47,3423,112
+5183,Chris Landman,10,2026-05-18,Players Championship,PT,Last 64,Lost,3 V 6,Stephen Burton,2014,93.11,94.05,-0.94,4159,134
 5193,Thibault Tricole,1,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Lost,2 V 6,Greg Ritchie,2295,91.73,94.81,-3.08,3669,120
 5193,Thibault Tricole,2,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 4,Oskar Lukasiak,5178,86.18,83.08,3.1,4912,171
 5193,Thibault Tricole,3,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Dominik Gruellich,254,89.25,88.91,0.34,5028,169
@@ -839,16 +839,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 2046,Cor Dekker,8,2026-05-16,Nordic Baltic Tour,0,Last 32,Lost,1 V 6,Jonas Masalin,7856,83.22,93.4,-10.18,3079,111
 2046,Cor Dekker,9,2026-05-13,Players Championship,PT,Last 64,Lost,5 V 6,Jermaine Wattimena,18,89.26,94.38,-5.12,5058,170
 2046,Cor Dekker,10,2026-05-13,Players Championship,PT,Last 128,Won,6 V 3,Adam Lipscombe,14385,84.23,77.54,6.69,4408,157
-153,Ricardo Pietreczko,1,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Marvin van Velzen,2895,85.78,90.69,-4.91,5004,175
-153,Ricardo Pietreczko,2,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,3 V 6,Thomas Lovely,2199,80.45,79.8,0.65,4103,153
-153,Ricardo Pietreczko,3,2026-05-19,Players Championship,PT,Last 128,Lost,1 V 6,Jeffrey Sparidaans,5172,77.14,84.56,-7.42,3034,118
-153,Ricardo Pietreczko,4,2026-05-18,Players Championship,PT,Last 128,Lost,3 V 6,Dirk van Duijvenbode,14,80.18,83.2,-3.02,4223,158
-153,Ricardo Pietreczko,5,2026-05-13,Players Championship,PT,Last 128,Lost,1 V 6,Jim Long,5147,66.58,78.37,-11.79,2863,129
-153,Ricardo Pietreczko,6,2026-05-12,Players Championship,PT,Last 128,Lost,0 V 6,Wessel Nijman,130,76.31,88.41,-12.1,2442,96
-153,Ricardo Pietreczko,7,2026-05-08,European Tour,ET,Last 48 (Premier),Lost,4 V 6,Patrik Kovacs,24378,83.58,81.53,2.05,4764,171
-153,Ricardo Pietreczko,8,2026-05-04,Players Championship,PT,Last 128,Lost,4 V 6,Kai Gotthardt,158,80.46,87.0,-6.54,4479,167
-153,Ricardo Pietreczko,9,2026-04-28,Players Championship,PT,Last 128,Lost,4 V 6,Ryan Searle,31,84.66,95.73,-11.07,4233,150
-153,Ricardo Pietreczko,10,2026-04-27,Players Championship,PT,Last 64,Lost,1 V 6,Jermaine Wattimena,18,86.49,95.42,-8.93,2883,100
+153,Ricardo Pietreczko,1,2026-05-23,European Tour,ET,Last 32,Won,6 V 5,Danny Noppert,22,86.79,91.81,-5.02,5005,173
+153,Ricardo Pietreczko,2,2026-05-22,European Tour,ET,Last 48 (Premier),Won,6 V 2,Maik Kuivenhoven,91,85.63,84.47,1.16,3825,134
+153,Ricardo Pietreczko,3,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Marvin van Velzen,2895,85.78,90.69,-4.91,5004,175
+153,Ricardo Pietreczko,4,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,3 V 6,Thomas Lovely,2199,80.45,79.8,0.65,4103,153
+153,Ricardo Pietreczko,5,2026-05-19,Players Championship,PT,Last 128,Lost,1 V 6,Jeffrey Sparidaans,5172,77.14,84.56,-7.42,3034,118
+153,Ricardo Pietreczko,6,2026-05-18,Players Championship,PT,Last 128,Lost,3 V 6,Dirk van Duijvenbode,14,80.18,83.2,-3.02,4223,158
+153,Ricardo Pietreczko,7,2026-05-13,Players Championship,PT,Last 128,Lost,1 V 6,Jim Long,5147,66.58,78.37,-11.79,2863,129
+153,Ricardo Pietreczko,8,2026-05-12,Players Championship,PT,Last 128,Lost,0 V 6,Wessel Nijman,130,76.31,88.41,-12.1,2442,96
+153,Ricardo Pietreczko,9,2026-05-08,European Tour,ET,Last 48 (Premier),Lost,4 V 6,Patrik Kovacs,24378,83.58,81.53,2.05,4764,171
+153,Ricardo Pietreczko,10,2026-05-04,Players Championship,PT,Last 128,Lost,4 V 6,Kai Gotthardt,158,80.46,87.0,-6.54,4479,167
 3057,Stephen Rosney,1,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Lost,5 V 6,Justin Hood,2138,99.58,102.86,-3.28,4946,149
 3057,Stephen Rosney,2,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 4,Maximilian Czerwinski,23309,83.72,82.77,0.95,4549,163
 3057,Stephen Rosney,3,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 4,Wesley Plaisier,2273,89.77,86.01,3.76,4698,157
@@ -1059,16 +1059,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 2295,Greg Ritchie,8,2026-05-13,Players Championship,PT,Last 128,Lost,1 V 6,James Wade,7,92.12,102.18,-10.06,2917,95
 2295,Greg Ritchie,9,2026-05-12,Players Championship,PT,Last 64,Lost,3 V 6,Keane Barry,129,78.19,94.18,-15.99,3649,140
 2295,Greg Ritchie,10,2026-05-12,Players Championship,PT,Last 128,Won,6 V 4,Rusty-Jake Rodriguez,131,80.35,79.34,1.01,4687,175
-5172,Jeffrey Sparidaans,1,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Lukas Wenig,148,84.6,90.65,-6.05,3553,126
-5172,Jeffrey Sparidaans,2,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Maik Kuivenhoven,91,82.26,96.03,-13.77,3208,117
-5172,Jeffrey Sparidaans,3,2026-05-19,Players Championship,PT,Last 16,Lost,4 V 6,Sebastian Bialecki,3038,88.29,87.37,0.92,4797,163
-5172,Jeffrey Sparidaans,4,2026-05-19,Players Championship,PT,Last 32,Won,6 V 2,Yorick Hofkens,25319,90.89,79.17,11.72,3999,132
-5172,Jeffrey Sparidaans,5,2026-05-19,Players Championship,PT,Last 64,Won,6 V 3,Ryan Searle,31,93.05,95.48,-2.43,4032,130
-5172,Jeffrey Sparidaans,6,2026-05-19,Players Championship,PT,Last 128,Won,6 V 1,Ricardo Pietreczko,153,84.56,77.14,7.42,3467,123
-5172,Jeffrey Sparidaans,7,2026-05-18,Players Championship,PT,Last 64,Lost,4 V 6,Jermaine Wattimena,18,85.73,93.23,-7.5,4401,154
-5172,Jeffrey Sparidaans,8,2026-05-18,Players Championship,PT,Last 128,Won,6 V 5,Cor Dekker,2046,88.47,94.45,-5.98,5043,171
-5172,Jeffrey Sparidaans,9,2026-05-13,Players Championship,PT,Last 128,Lost,3 V 6,Ryan Joyce,28,96.71,97.58,-0.87,4062,126
-5172,Jeffrey Sparidaans,10,2026-05-12,Players Championship,PT,Last 128,Lost,1 V 6,Alan Soutar,5138,86.06,93.57,-7.51,3012,105
+5172,Jeffrey Sparidaans,1,2026-05-22,European Tour,ET,Last 48 (Premier),Lost,2 V 6,Ryan Joyce,28,90.05,99.58,-9.53,3572,119
+5172,Jeffrey Sparidaans,2,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Lukas Wenig,148,84.6,90.65,-6.05,3553,126
+5172,Jeffrey Sparidaans,3,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Maik Kuivenhoven,91,82.26,96.03,-13.77,3208,117
+5172,Jeffrey Sparidaans,4,2026-05-19,Players Championship,PT,Last 16,Lost,4 V 6,Sebastian Bialecki,3038,88.29,87.37,0.92,4797,163
+5172,Jeffrey Sparidaans,5,2026-05-19,Players Championship,PT,Last 32,Won,6 V 2,Yorick Hofkens,25319,90.89,79.17,11.72,3999,132
+5172,Jeffrey Sparidaans,6,2026-05-19,Players Championship,PT,Last 64,Won,6 V 3,Ryan Searle,31,93.05,95.48,-2.43,4032,130
+5172,Jeffrey Sparidaans,7,2026-05-19,Players Championship,PT,Last 128,Won,6 V 1,Ricardo Pietreczko,153,84.56,77.14,7.42,3467,123
+5172,Jeffrey Sparidaans,8,2026-05-18,Players Championship,PT,Last 64,Lost,4 V 6,Jermaine Wattimena,18,85.73,93.23,-7.5,4401,154
+5172,Jeffrey Sparidaans,9,2026-05-18,Players Championship,PT,Last 128,Won,6 V 5,Cor Dekker,2046,88.47,94.45,-5.98,5043,171
+5172,Jeffrey Sparidaans,10,2026-05-13,Players Championship,PT,Last 128,Lost,3 V 6,Ryan Joyce,28,96.71,97.58,-0.87,4062,126
 32046,Leon Weber,1,2026-05-20,European Tour Card Holder Qualifier,Q,Last 16,Lost,4 V 6,Thomas Lovely,2199,79.09,82.82,-3.73,4429,168
 32046,Leon Weber,2,2026-05-19,Players Championship,PT,Last 128,Lost,4 V 6,Andrew Gilding,2088,88.98,96.47,-7.49,4449,150
 32046,Leon Weber,3,2026-05-18,Players Championship,PT,Last 64,Lost,5 V 6,Kevin Doets,2052,91.51,97.39,-5.88,4850,159
