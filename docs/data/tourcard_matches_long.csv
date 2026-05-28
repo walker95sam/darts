@@ -679,6 +679,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 2171,Christian Kist,8,2026-05-18,Players Championship,PT,Last 16,Lost,2 V 6,Luke Humphries,34,87.57,105.64,-18.07,3211,110
 2171,Christian Kist,9,2026-05-18,Players Championship,PT,Last 32,Won,6 V 4,Jimmy van Schie,10123,86.29,82.85,3.44,4602,160
 2171,Christian Kist,10,2026-05-18,Players Championship,PT,Last 64,Won,6 V 3,Sam Price,22829,92.3,84.93,7.37,4061,132
+2223,Alexander Merkx,1,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Adam Paxton,2417,85.66,90.34,-4.68,4997,175
+2223,Alexander Merkx,2,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Lost,4 V 6,Mickey Mansell,65,86.11,89.71,-3.6,4564,159
+2223,Alexander Merkx,3,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 5,Adam Leek,20494,89.9,84.2,5.7,5364,179
+2223,Alexander Merkx,4,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Benjamin Pratnemer,2278,87.16,79.97,7.19,3864,133
+2223,Alexander Merkx,5,2026-05-19,Players Championship,PT,Last 32,Lost,2 V 6,Darius Labanauskas,57,88.31,93.94,-5.63,3709,126
+2223,Alexander Merkx,6,2026-05-19,Players Championship,PT,Last 64,Won,6 V 5,Christopher Wickenden,7707,87.6,91.16,-3.56,5081,174
+2223,Alexander Merkx,7,2026-05-19,Players Championship,PT,Last 128,Won,6 V 5,Michael Smith,5,89.68,91.79,-2.11,5052,169
+2223,Alexander Merkx,8,2026-05-18,Players Championship,PT,Last 128,Lost,2 V 6,Jermaine Wattimena,18,93.0,95.9,-2.9,3565,115
+2223,Alexander Merkx,9,2026-05-13,Players Championship,PT,Last 128,Lost,2 V 6,David Sharp,6682,86.95,94.19,-7.24,3594,124
+2223,Alexander Merkx,10,2026-05-12,Players Championship,PT,Last 128,Lost,4 V 6,Ritchie Edhouse,2062,85.43,91.11,-5.68,4613,162
 14385,Adam Lipscombe,1,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,3 V 6,Jeffrey de Graaf,2092,94.08,89.93,4.15,4014,128
 14385,Adam Lipscombe,2,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Niall Culleton,2034,93.4,86.29,7.11,5137,165
 14385,Adam Lipscombe,3,2026-05-19,Players Championship,PT,Last 128,Lost,3 V 6,Benjamin Pratnemer,2278,99.56,99.54,0.02,4082,123
@@ -699,26 +709,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 48,Jeffrey de Zwaan,8,2026-05-18,Players Championship,PT,Last 128,Lost,4 V 6,Beau Greaves,138,82.78,88.57,-5.79,4470,162
 48,Jeffrey de Zwaan,9,2026-05-13,Players Championship,PT,Last 128,Lost,4 V 6,Michael Smith,5,81.88,87.09,-5.21,4449,163
 48,Jeffrey de Zwaan,10,2026-05-12,Players Championship,PT,Last 128,Lost,1 V 6,Tommy Lishman,3086,86.11,95.86,-9.75,3100,108
-2223,Alexander Merkx,1,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Adam Paxton,2417,85.66,90.34,-4.68,4997,175
-2223,Alexander Merkx,2,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Lost,4 V 6,Mickey Mansell,65,86.11,89.71,-3.6,4564,159
-2223,Alexander Merkx,3,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 5,Adam Leek,20494,89.9,84.2,5.7,5364,179
-2223,Alexander Merkx,4,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Benjamin Pratnemer,2278,87.16,79.97,7.19,3864,133
-2223,Alexander Merkx,5,2026-05-19,Players Championship,PT,Last 32,Lost,2 V 6,Darius Labanauskas,57,88.31,93.94,-5.63,3709,126
-2223,Alexander Merkx,6,2026-05-19,Players Championship,PT,Last 64,Won,6 V 5,Christopher Wickenden,7707,87.6,91.16,-3.56,5081,174
-2223,Alexander Merkx,7,2026-05-19,Players Championship,PT,Last 128,Won,6 V 5,Michael Smith,5,89.68,91.79,-2.11,5052,169
-2223,Alexander Merkx,8,2026-05-18,Players Championship,PT,Last 128,Lost,2 V 6,Jermaine Wattimena,18,93.0,95.9,-2.9,3565,115
-2223,Alexander Merkx,9,2026-05-13,Players Championship,PT,Last 128,Lost,2 V 6,David Sharp,6682,86.95,94.19,-7.24,3594,124
-2223,Alexander Merkx,10,2026-05-12,Players Championship,PT,Last 128,Lost,4 V 6,Ritchie Edhouse,2062,85.43,91.11,-5.68,4613,162
-23,Brendan Dolan,1,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Lost,3 V 6,Jeffrey de Graaf,2092,80.0,95.56,-15.56,3680,138
-23,Brendan Dolan,2,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Adam Leek,20494,87.02,86.78,0.24,3655,126
-23,Brendan Dolan,3,2026-05-20,European Tour Card Holder Qualifier,Q,Last 16,Won,6 V 3,Adam Warner,20667,82.78,81.68,1.1,4277,155
-23,Brendan Dolan,4,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Adam Leek,20494,79.93,87.47,-7.54,3570,134
-23,Brendan Dolan,5,2026-05-19,Players Championship,PT,Last 64,Lost,4 V 6,Andrew Gilding,2088,83.38,97.56,-14.18,4058,146
-23,Brendan Dolan,6,2026-05-19,Players Championship,PT,Last 128,Won,6 V 2,Christian Kist,2171,92.54,91.61,0.93,3825,124
-23,Brendan Dolan,7,2026-05-18,Players Championship,PT,Last 128,Lost,5 V 6,Shane McGuirk,3043,92.91,93.43,-0.52,5079,164
-23,Brendan Dolan,8,2026-05-13,Players Championship,PT,Last 32,Lost,2 V 6,Gabriel Clemens,38,88.39,95.64,-7.25,3300,112
-23,Brendan Dolan,9,2026-05-13,Players Championship,PT,Last 64,Won,6 V 2,Thomas Lovely,2199,95.88,86.24,9.64,3963,124
-23,Brendan Dolan,10,2026-05-13,Players Championship,PT,Last 128,Won,6 V 2,Josh Rock,20114,98.9,77.33,21.57,3956,120
 10123,Jimmy van Schie,1,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,1 V 6,Jim Long,5147,84.89,88.75,-3.86,3226,114
 10123,Jimmy van Schie,2,2026-05-20,European Tour Card Holder Qualifier,Q,Last 16,Won,6 V 4,Jurjen van der Velde,2784,84.35,100.2,-15.85,4133,147
 10123,Jimmy van Schie,3,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Shane McGuirk,3043,81.97,86.3,-4.33,4973,182
@@ -729,6 +719,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 10123,Jimmy van Schie,8,2026-05-18,Players Championship,PT,Last 128,Won,6 V 5,Dominik Gruellich,254,89.12,83.15,5.97,5050,170
 10123,Jimmy van Schie,9,2026-05-13,Players Championship,PT,Last 128,Lost,0 V 6,Kim Huybrechts,51,95.5,106.09,-10.59,2674,84
 10123,Jimmy van Schie,10,2026-05-12,Players Championship,PT,Last 128,Lost,2 V 6,Richard Veenstra,5145,91.76,96.95,-5.19,3548,116
+23,Brendan Dolan,1,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Lost,3 V 6,Jeffrey de Graaf,2092,80.0,95.56,-15.56,3680,138
+23,Brendan Dolan,2,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Adam Leek,20494,87.02,86.78,0.24,3655,126
+23,Brendan Dolan,3,2026-05-20,European Tour Card Holder Qualifier,Q,Last 16,Won,6 V 3,Adam Warner,20667,82.78,81.68,1.1,4277,155
+23,Brendan Dolan,4,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Adam Leek,20494,79.93,87.47,-7.54,3570,134
+23,Brendan Dolan,5,2026-05-19,Players Championship,PT,Last 64,Lost,4 V 6,Andrew Gilding,2088,83.38,97.56,-14.18,4058,146
+23,Brendan Dolan,6,2026-05-19,Players Championship,PT,Last 128,Won,6 V 2,Christian Kist,2171,92.54,91.61,0.93,3825,124
+23,Brendan Dolan,7,2026-05-18,Players Championship,PT,Last 128,Lost,5 V 6,Shane McGuirk,3043,92.91,93.43,-0.52,5079,164
+23,Brendan Dolan,8,2026-05-13,Players Championship,PT,Last 32,Lost,2 V 6,Gabriel Clemens,38,88.39,95.64,-7.25,3300,112
+23,Brendan Dolan,9,2026-05-13,Players Championship,PT,Last 64,Won,6 V 2,Thomas Lovely,2199,95.88,86.24,9.64,3963,124
+23,Brendan Dolan,10,2026-05-13,Players Championship,PT,Last 128,Won,6 V 2,Josh Rock,20114,98.9,77.33,21.57,3956,120
 57,Darius Labanauskas,1,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Benjamin Pratnemer,2278,87.65,88.25,-0.6,3769,129
 57,Darius Labanauskas,2,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Won,6 V 2,Christian Kist,2171,87.99,81.72,6.27,3901,133
 57,Darius Labanauskas,3,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 1,Tytus Kanik,2167,92.44,81.74,10.7,3482,113
