@@ -1,34 +1,34 @@
 player_key,player_name,match_idx,match_date,tournament,category,round,result,score,opponent,opponent_key,three_dart_average,opponent_avg,perf_vs_opp,points_scored,darts_thrown
-5403,Luke Littler,1,2026-05-21,Premier League,U,Weekly Semi Final,Lost,1 V 6,Luke Humphries,34,95.97,100.82,-4.85,3071,96
-5403,Luke Littler,2,2026-05-21,Premier League,U,Weekly Quarter Final,Won,6 V 5,Josh Rock,20114,87.89,89.43,-1.54,5010,171
-5403,Luke Littler,3,2026-05-14,Premier League,U,Weekly Semi Final,Lost,3 V 6,Luke Humphries,34,99.86,100.82,-0.96,3928,118
-5403,Luke Littler,4,2026-05-14,Premier League,U,Weekly Quarter Final,Won,6 V 0,Jonny Clayton,20,100.2,93.07,7.13,3006,90
-5403,Luke Littler,5,2026-05-07,Premier League,U,Weekly Final,Won,6 V 5,Luke Humphries,34,100.67,100.9,-0.23,4832,144
-5403,Luke Littler,6,2026-05-07,Premier League,U,Weekly Semi Final,Won,6 V 5,Jonny Clayton,20,94.69,98.82,-4.13,4703,149
-5403,Luke Littler,7,2026-05-07,Premier League,U,Weekly Quarter Final,Won,6 V 5,Michael van Gerwen,3,100.28,101.15,-0.87,5081,152
-5403,Luke Littler,8,2026-04-30,Premier League,U,Weekly Final,Won,6 V 5,Luke Humphries,34,104.11,100.9,3.21,5240,151
-5403,Luke Littler,9,2026-04-30,Premier League,U,Weekly Semi Final,Won,6 V 1,Gerwyn Price,2,98.34,94.18,4.16,3442,105
-5403,Luke Littler,10,2026-04-30,Premier League,U,Weekly Quarter Final,Won,6 V 3,Josh Rock,20114,105.86,89.43,16.43,4305,122
-34,Luke Humphries,1,2026-05-21,Premier League,U,Weekly Final,Lost,3 V 6,Stephen Bunting,36,102.23,106.37,-4.14,3953,116
-34,Luke Humphries,2,2026-05-21,Premier League,U,Weekly Semi Final,Won,6 V 1,Luke Littler,5403,100.82,95.97,4.85,3327,99
-34,Luke Humphries,3,2026-05-21,Premier League,U,Weekly Quarter Final,Won,6 V 5,Michael van Gerwen,3,105.24,100.66,4.58,5157,147
-34,Luke Humphries,4,2026-05-18,Players Championship,PT,Final,Won,8 V 4,Jermaine Wattimena,18,104.89,97.16,7.73,5804,166
-34,Luke Humphries,5,2026-05-18,Players Championship,PT,Semi Final,Won,7 V 3,Danny Noppert,22,102.88,97.89,4.99,4801,140
-34,Luke Humphries,6,2026-05-18,Players Championship,PT,Quarter Final,Won,6 V 3,Wessel Nijman,130,94.67,97.99,-3.32,3976,126
-34,Luke Humphries,7,2026-05-18,Players Championship,PT,Last 16,Won,6 V 2,Christian Kist,2171,105.64,87.57,18.07,3944,112
-34,Luke Humphries,8,2026-05-18,Players Championship,PT,Last 32,Won,6 V 2,Justin Hood,2138,109.11,95.39,13.72,3928,108
-34,Luke Humphries,9,2026-05-18,Players Championship,PT,Last 64,Won,6 V 1,Yorick Hofkens,25319,103.83,88.03,15.8,3461,100
-34,Luke Humphries,10,2026-05-18,Players Championship,PT,Last 128,Won,6 V 3,Rhys Griffin,271,112.18,90.47,21.71,4375,117
-2,Gerwyn Price,1,2026-05-21,Premier League,U,Weekly Semi Final,Lost,3 V 6,Stephen Bunting,36,93.43,98.98,-5.55,3955,127
-2,Gerwyn Price,2,2026-05-21,Premier League,U,Weekly Quarter Final,Won,6 V 2,Gian van Veen,2641,105.97,95.38,10.59,3921,111
-2,Gerwyn Price,3,2026-05-14,Premier League,U,Weekly Final,Lost,4 V 6,Luke Humphries,34,95.44,100.16,-4.72,4263,134
-2,Gerwyn Price,4,2026-05-14,Premier League,U,Weekly Semi Final,Won,6 V 4,Gian van Veen,2641,96.38,98.07,-1.69,4530,141
-2,Gerwyn Price,5,2026-05-14,Premier League,U,Weekly Quarter Final,Won,6 V 4,Michael van Gerwen,3,101.32,87.96,13.36,4897,145
-2,Gerwyn Price,6,2026-05-07,Premier League,U,Weekly Quarter Final,Lost,2 V 6,Jonny Clayton,20,97.34,98.53,-1.19,3569,110
-2,Gerwyn Price,7,2026-04-30,Premier League,U,Weekly Semi Final,Lost,1 V 6,Luke Littler,5403,94.18,98.34,-4.16,3108,99
-2,Gerwyn Price,8,2026-04-30,Premier League,U,Weekly Quarter Final,Won,6 V 5,Stephen Bunting,36,95.98,97.02,-1.04,5055,158
-2,Gerwyn Price,9,2026-04-23,Premier League,U,Weekly Quarter Final,Lost,4 V 6,Gian van Veen,2641,93.61,95.38,-1.77,4743,152
-2,Gerwyn Price,10,2026-04-19,European Tour,ET,Final,Won,8 V 6,Ross Smith,26,95.7,96.25,-0.55,6380,200
+5403,Luke Littler,1,2026-05-28,Premier League,U,Final,Won,11 V 10,Luke Humphries,34,111.67,105.6,6.07,9939,267
+5403,Luke Littler,2,2026-05-28,Premier League,U,Semi Final,Won,10 V 9,Gerwyn Price,2,98.47,100.42,-1.95,8468,258
+5403,Luke Littler,3,2026-05-21,Premier League,U,Weekly Semi Final,Lost,1 V 6,Luke Humphries,34,95.97,100.82,-4.85,3071,96
+5403,Luke Littler,4,2026-05-21,Premier League,U,Weekly Quarter Final,Won,6 V 5,Josh Rock,20114,87.89,89.43,-1.54,5010,171
+5403,Luke Littler,5,2026-05-14,Premier League,U,Weekly Semi Final,Lost,3 V 6,Luke Humphries,34,99.86,100.82,-0.96,3928,118
+5403,Luke Littler,6,2026-05-14,Premier League,U,Weekly Quarter Final,Won,6 V 0,Jonny Clayton,20,100.2,93.07,7.13,3006,90
+5403,Luke Littler,7,2026-05-07,Premier League,U,Weekly Final,Won,6 V 5,Luke Humphries,34,100.67,100.9,-0.23,4832,144
+5403,Luke Littler,8,2026-05-07,Premier League,U,Weekly Semi Final,Won,6 V 5,Jonny Clayton,20,94.69,98.82,-4.13,4703,149
+5403,Luke Littler,9,2026-05-07,Premier League,U,Weekly Quarter Final,Won,6 V 5,Michael van Gerwen,3,100.28,101.15,-0.87,5081,152
+5403,Luke Littler,10,2026-04-30,Premier League,U,Weekly Final,Won,6 V 5,Luke Humphries,34,104.11,100.9,3.21,5240,151
+34,Luke Humphries,1,2026-05-28,Premier League,U,Final,Lost,10 V 11,Luke Littler,5403,105.6,111.67,-6.07,9434,268
+34,Luke Humphries,2,2026-05-28,Premier League,U,Semi Final,Won,10 V 9,Jonny Clayton,20,96.16,95.86,0.3,8558,267
+34,Luke Humphries,3,2026-05-21,Premier League,U,Weekly Final,Lost,3 V 6,Stephen Bunting,36,102.23,106.37,-4.14,3953,116
+34,Luke Humphries,4,2026-05-21,Premier League,U,Weekly Semi Final,Won,6 V 1,Luke Littler,5403,100.82,95.97,4.85,3327,99
+34,Luke Humphries,5,2026-05-21,Premier League,U,Weekly Quarter Final,Won,6 V 5,Michael van Gerwen,3,105.24,100.66,4.58,5157,147
+34,Luke Humphries,6,2026-05-18,Players Championship,PT,Final,Won,8 V 4,Jermaine Wattimena,18,104.89,97.16,7.73,5804,166
+34,Luke Humphries,7,2026-05-18,Players Championship,PT,Semi Final,Won,7 V 3,Danny Noppert,22,102.88,97.89,4.99,4801,140
+34,Luke Humphries,8,2026-05-18,Players Championship,PT,Quarter Final,Won,6 V 3,Wessel Nijman,130,94.67,97.99,-3.32,3976,126
+34,Luke Humphries,9,2026-05-18,Players Championship,PT,Last 16,Won,6 V 2,Christian Kist,2171,105.64,87.57,18.07,3944,112
+34,Luke Humphries,10,2026-05-18,Players Championship,PT,Last 32,Won,6 V 2,Justin Hood,2138,109.11,95.39,13.72,3928,108
+2,Gerwyn Price,1,2026-05-28,Premier League,U,Semi Final,Lost,9 V 10,Luke Littler,5403,100.42,98.47,1.95,8603,257
+2,Gerwyn Price,2,2026-05-21,Premier League,U,Weekly Semi Final,Lost,3 V 6,Stephen Bunting,36,93.43,98.98,-5.55,3955,127
+2,Gerwyn Price,3,2026-05-21,Premier League,U,Weekly Quarter Final,Won,6 V 2,Gian van Veen,2641,105.97,95.38,10.59,3921,111
+2,Gerwyn Price,4,2026-05-14,Premier League,U,Weekly Final,Lost,4 V 6,Luke Humphries,34,95.44,100.16,-4.72,4263,134
+2,Gerwyn Price,5,2026-05-14,Premier League,U,Weekly Semi Final,Won,6 V 4,Gian van Veen,2641,96.38,98.07,-1.69,4530,141
+2,Gerwyn Price,6,2026-05-14,Premier League,U,Weekly Quarter Final,Won,6 V 4,Michael van Gerwen,3,101.32,87.96,13.36,4897,145
+2,Gerwyn Price,7,2026-05-07,Premier League,U,Weekly Quarter Final,Lost,2 V 6,Jonny Clayton,20,97.34,98.53,-1.19,3569,110
+2,Gerwyn Price,8,2026-04-30,Premier League,U,Weekly Semi Final,Lost,1 V 6,Luke Littler,5403,94.18,98.34,-4.16,3108,99
+2,Gerwyn Price,9,2026-04-30,Premier League,U,Weekly Quarter Final,Won,6 V 5,Stephen Bunting,36,95.98,97.02,-1.04,5055,158
+2,Gerwyn Price,10,2026-04-23,Premier League,U,Weekly Quarter Final,Lost,4 V 6,Gian van Veen,2641,93.61,95.38,-1.77,4743,152
 10,Gary Anderson,1,2026-05-05,Players Championship,PT,Last 128,Lost,5 V 6,Lewis Pride,2280,105.83,98.3,7.53,5256,149
 10,Gary Anderson,2,2026-05-04,Players Championship,PT,Last 128,Lost,4 V 6,Connor Scutt,2317,100.65,97.74,2.91,4764,142
 10,Gary Anderson,3,2026-04-28,Players Championship,PT,Quarter Final,Lost,1 V 6,Kevin Doets,2052,92.13,98.58,-6.45,3194,104
@@ -99,16 +99,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 20114,Josh Rock,8,2026-05-13,Players Championship,PT,Last 128,Lost,2 V 6,Brendan Dolan,23,77.33,98.9,-21.57,2990,116
 20114,Josh Rock,9,2026-05-12,Players Championship,PT,Quarter Final,Lost,3 V 6,Dirk van Duijvenbode,14,95.93,97.95,-2.02,4189,131
 20114,Josh Rock,10,2026-05-12,Players Championship,PT,Last 16,Won,6 V 5,Derek Coulson,5415,89.88,89.78,0.1,5213,174
-20,Jonny Clayton,1,2026-05-21,Premier League,U,Weekly Quarter Final,Lost,3 V 6,Stephen Bunting,36,104.9,102.22,2.68,4301,123
-20,Jonny Clayton,2,2026-05-19,Players Championship,PT,Quarter Final,Lost,2 V 6,Luke Woodhouse,70,88.49,96.0,-7.51,3628,123
-20,Jonny Clayton,3,2026-05-19,Players Championship,PT,Last 16,Won,6 V 0,Chris Landman,5183,106.09,88.33,17.76,3006,85
-20,Jonny Clayton,4,2026-05-19,Players Championship,PT,Last 32,Won,6 V 4,Jurjen van der Velde,2784,96.39,87.06,9.33,4723,147
-20,Jonny Clayton,5,2026-05-19,Players Championship,PT,Last 64,Won,6 V 4,Adam Paxton,2417,99.65,87.97,11.68,4883,147
-20,Jonny Clayton,6,2026-05-19,Players Championship,PT,Last 128,Won,6 V 2,Cam Crabtree,33021,101.47,99.3,2.17,3822,113
-20,Jonny Clayton,7,2026-05-18,Players Championship,PT,Last 64,Lost,4 V 6,Maik Kuivenhoven,91,88.25,90.79,-2.54,4677,159
-20,Jonny Clayton,8,2026-05-18,Players Championship,PT,Last 128,Won,6 V 1,Adam Gawlas,134,96.3,84.22,12.08,3499,109
-20,Jonny Clayton,9,2026-05-14,Premier League,U,Weekly Quarter Final,Lost,0 V 6,Luke Littler,5403,93.07,100.2,-7.13,2606,84
-20,Jonny Clayton,10,2026-05-13,Players Championship,PT,Final,Lost,3 V 8,Andrew Gilding,2088,95.24,99.78,-4.54,4984,157
+20,Jonny Clayton,1,2026-05-28,Premier League,U,Semi Final,Lost,9 V 10,Luke Humphries,34,95.86,96.16,-0.3,8627,270
+20,Jonny Clayton,2,2026-05-21,Premier League,U,Weekly Quarter Final,Lost,3 V 6,Stephen Bunting,36,104.9,102.22,2.68,4301,123
+20,Jonny Clayton,3,2026-05-19,Players Championship,PT,Quarter Final,Lost,2 V 6,Luke Woodhouse,70,88.49,96.0,-7.51,3628,123
+20,Jonny Clayton,4,2026-05-19,Players Championship,PT,Last 16,Won,6 V 0,Chris Landman,5183,106.09,88.33,17.76,3006,85
+20,Jonny Clayton,5,2026-05-19,Players Championship,PT,Last 32,Won,6 V 4,Jurjen van der Velde,2784,96.39,87.06,9.33,4723,147
+20,Jonny Clayton,6,2026-05-19,Players Championship,PT,Last 64,Won,6 V 4,Adam Paxton,2417,99.65,87.97,11.68,4883,147
+20,Jonny Clayton,7,2026-05-19,Players Championship,PT,Last 128,Won,6 V 2,Cam Crabtree,33021,101.47,99.3,2.17,3822,113
+20,Jonny Clayton,8,2026-05-18,Players Championship,PT,Last 64,Lost,4 V 6,Maik Kuivenhoven,91,88.25,90.79,-2.54,4677,159
+20,Jonny Clayton,9,2026-05-18,Players Championship,PT,Last 128,Won,6 V 1,Adam Gawlas,134,96.3,84.22,12.08,3499,109
+20,Jonny Clayton,10,2026-05-14,Premier League,U,Weekly Quarter Final,Lost,0 V 6,Luke Littler,5403,93.07,100.2,-7.13,2606,84
 14,Dirk van Duijvenbode,1,2026-05-22,European Tour,ET,Last 48 (Premier),Lost,5 V 6,Rob Cross,29,99.18,95.13,4.05,5058,153
 14,Dirk van Duijvenbode,2,2026-05-19,Players Championship,PT,Last 128,Lost,3 V 6,Connor Scutt,2317,98.09,98.58,-0.49,4185,128
 14,Dirk van Duijvenbode,3,2026-05-18,Players Championship,PT,Quarter Final,Lost,4 V 6,Kevin Doets,2052,99.11,107.53,-8.42,4394,133
