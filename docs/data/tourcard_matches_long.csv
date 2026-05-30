@@ -119,16 +119,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 14,Dirk van Duijvenbode,8,2026-05-13,Players Championship,PT,Last 32,Lost,4 V 6,Andrew Gilding,2088,96.82,102.36,-5.54,4583,142
 14,Dirk van Duijvenbode,9,2026-05-13,Players Championship,PT,Last 64,Won,6 V 2,Tyler Thorpe,27176,105.21,99.71,5.5,3928,112
 14,Dirk van Duijvenbode,10,2026-05-13,Players Championship,PT,Last 128,Won,6 V 3,Tommy Morris,20140,95.39,85.02,10.37,4229,133
-8,Nathan Aspinall,1,2026-04-19,European Tour,ET,Quarter Final,Lost,4 V 6,Ross Smith,26,90.24,93.44,-3.2,4422,147
-8,Nathan Aspinall,2,2026-04-19,European Tour,ET,Last 16,Won,6 V 3,James Wade,7,106.2,103.08,3.12,4354,123
-8,Nathan Aspinall,3,2026-04-18,European Tour,ET,Last 32,Won,6 V 1,Jeffrey de Zwaan,48,92.01,84.35,7.66,3343,109
-8,Nathan Aspinall,4,2026-04-06,European Tour,ET,Final,Won,8 V 5,Danny Noppert,22,100.35,93.16,7.19,6222,186
-8,Nathan Aspinall,5,2026-04-06,European Tour,ET,Semi Final,Won,7 V 2,Kevin Doets,2052,106.4,93.15,13.25,4469,126
-8,Nathan Aspinall,6,2026-04-06,European Tour,ET,Quarter Final,Won,6 V 4,Andrew Gilding,2088,99.18,83.45,15.73,4893,148
-8,Nathan Aspinall,7,2026-04-06,European Tour,ET,Last 16,Won,6 V 2,Martin Schindler,82,95.46,83.04,12.42,3882,122
-8,Nathan Aspinall,8,2026-04-05,European Tour,ET,Last 32,Won,6 V 5,Ricardo Pietreczko,153,99.5,91.31,8.19,5207,157
-8,Nathan Aspinall,9,2026-03-31,Players Championship,PT,Last 32,Lost,3 V 6,Leon Weber,32046,81.58,89.42,-7.84,3916,144
-8,Nathan Aspinall,10,2026-03-31,Players Championship,PT,Last 64,Won,6 V 3,Adam Gawlas,134,93.78,81.13,12.65,4439,142
 26,Ross Smith,1,2026-05-24,European Tour,ET,Final,Won,8 V 3,Ryan Searle,31,90.81,90.11,0.7,5297,175
 26,Ross Smith,2,2026-05-24,European Tour,ET,Semi Final,Won,7 V 0,Cameron Menzies,2221,97.42,89.49,7.93,3507,108
 26,Ross Smith,3,2026-05-24,European Tour,ET,Quarter Final,Won,6 V 5,Michael van Gerwen,3,87.65,94.27,-6.62,4967,170
@@ -139,6 +129,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 26,Ross Smith,8,2026-05-19,Players Championship,PT,Last 64,Won,6 V 1,David Sharp,6682,99.39,105.64,-6.25,3313,100
 26,Ross Smith,9,2026-05-19,Players Championship,PT,Last 128,Won,6 V 3,Ricky Evans,45,90.71,77.47,13.24,4445,147
 26,Ross Smith,10,2026-05-18,Players Championship,PT,Last 16,Lost,2 V 6,Kevin Doets,2052,88.96,106.55,-17.59,3351,113
+8,Nathan Aspinall,1,2026-04-19,European Tour,ET,Quarter Final,Lost,4 V 6,Ross Smith,26,90.24,93.44,-3.2,4422,147
+8,Nathan Aspinall,2,2026-04-19,European Tour,ET,Last 16,Won,6 V 3,James Wade,7,106.2,103.08,3.12,4354,123
+8,Nathan Aspinall,3,2026-04-18,European Tour,ET,Last 32,Won,6 V 1,Jeffrey de Zwaan,48,92.01,84.35,7.66,3343,109
+8,Nathan Aspinall,4,2026-04-06,European Tour,ET,Final,Won,8 V 5,Danny Noppert,22,100.35,93.16,7.19,6222,186
+8,Nathan Aspinall,5,2026-04-06,European Tour,ET,Semi Final,Won,7 V 2,Kevin Doets,2052,106.4,93.15,13.25,4469,126
+8,Nathan Aspinall,6,2026-04-06,European Tour,ET,Quarter Final,Won,6 V 4,Andrew Gilding,2088,99.18,83.45,15.73,4893,148
+8,Nathan Aspinall,7,2026-04-06,European Tour,ET,Last 16,Won,6 V 2,Martin Schindler,82,95.46,83.04,12.42,3882,122
+8,Nathan Aspinall,8,2026-04-05,European Tour,ET,Last 32,Won,6 V 5,Ricardo Pietreczko,153,99.5,91.31,8.19,5207,157
+8,Nathan Aspinall,9,2026-03-31,Players Championship,PT,Last 32,Lost,3 V 6,Leon Weber,32046,81.58,89.42,-7.84,3916,144
+8,Nathan Aspinall,10,2026-03-31,Players Championship,PT,Last 64,Won,6 V 3,Adam Gawlas,134,93.78,81.13,12.65,4439,142
 2052,Kevin Doets,1,2026-05-24,European Tour,ET,Last 16,Lost,2 V 6,Gian van Veen,2641,96.89,103.51,-6.62,3585,111
 2052,Kevin Doets,2,2026-05-23,European Tour,ET,Last 32,Won,6 V 5,Luke Woodhouse,70,89.38,90.76,-1.38,5065,170
 2052,Kevin Doets,3,2026-05-22,European Tour,ET,Last 48 (Premier),Won,6 V 0,Tom Bissell,46158,102.48,89.32,13.16,3006,88
