@@ -1,31 +1,31 @@
 player_key,player_name,country,season_avg,season_rank,matches_in_window,avg_last10,stdev_last10,best_last10,worst_last10,avg_last5,avg_prev5,trend,wins_last10,win_rate_last10,last_match_date,mean_opp_avg,mean_perf_vs_opp,sos_n,checkout_pct,total_180s,first9_avg,profile_url
 5403,Luke Littler,ENG,101.21,1,10,98.83,5.77,111.67,87.89,100.73,96.92,3.81,7,0.7,2026-06-06,96.75,2.08,10,43.49,782.0,111.42,https://dartsorakel.com/player/details/5403/luke-littler
 34,Luke Humphries,ENG,99.41,2,10,102.55,4.25,109.92,96.16,103.23,101.87,1.36,7,0.7,2026-06-06,100.0,2.55,10,40.81,598.0,109.1,https://dartsorakel.com/player/details/34/luke-humphries
-2,Gerwyn Price,WAL,98.58,3,10,98.99,3.92,105.97,93.43,99.65,98.33,1.32,4,0.4,2026-06-17,96.94,2.05,10,42.57,574.0,107.46,https://dartsorakel.com/player/details/2/gerwyn-price
+2,Gerwyn Price,WAL,98.57,3,10,99.03,3.9,105.97,93.43,98.19,99.86,-1.67,3,0.3,2026-06-20,97.73,1.29,10,42.6,575.0,107.42,https://dartsorakel.com/player/details/2/gerwyn-price
 10,Gary Anderson,SCO,97.96,4,10,96.53,6.66,105.83,87.28,92.54,100.51,-7.96,5,0.5,2026-06-03,92.61,3.92,10,41.44,307.0,106.54,https://dartsorakel.com/player/details/10/gary-anderson
-39,Chris Dobey,ENG,97.32,5,10,99.19,4.76,105.09,93.48,99.96,98.41,1.55,7,0.7,2026-06-17,97.31,1.88,10,38.95,555.0,107.3,https://dartsorakel.com/player/details/39/chris-dobey
-3,Michael van Gerwen,NED,97.09,6,10,94.26,5.78,101.93,86.12,93.92,94.61,-0.69,6,0.6,2026-06-06,93.09,1.17,10,37.82,420.0,106.88,https://dartsorakel.com/player/details/3/michael-van-gerwen
-2641,Gian van Veen,NED,97.08,7,10,95.2,5.2,103.6,86.07,96.28,94.13,2.15,6,0.6,2026-06-17,92.74,2.46,10,43.19,566.0,105.09,https://dartsorakel.com/player/details/2641/gian-van-veen
-130,Wessel Nijman,NED,96.97,8,10,95.03,3.49,100.63,89.67,94.85,95.2,-0.35,9,0.9,2026-06-17,88.91,6.12,10,43.23,692.0,106.15,https://dartsorakel.com/player/details/130/wessel-nijman
-36,Stephen Bunting,ENG,96.77,9,10,98.04,5.69,109.48,90.14,96.25,99.83,-3.57,8,0.8,2026-06-17,91.23,6.81,10,39.65,599.0,105.93,https://dartsorakel.com/player/details/36/stephen-bunting
-20,Jonny Clayton,WAL,96.36,10,10,95.47,4.67,101.51,87.78,92.57,98.37,-5.8,8,0.8,2026-06-17,91.12,4.35,10,42.37,576.0,105.34,https://dartsorakel.com/player/details/20/jonny-clayton
+39,Chris Dobey,ENG,97.25,5,10,97.71,5.0,105.09,90.75,96.93,98.49,-1.56,6,0.6,2026-06-21,97.98,-0.27,10,38.88,558.0,107.23,https://dartsorakel.com/player/details/39/chris-dobey
+2641,Gian van Veen,NED,97.06,6,10,95.96,4.28,103.6,88.74,94.88,97.05,-2.18,6,0.6,2026-06-20,93.4,2.56,10,43.08,568.0,105.04,https://dartsorakel.com/player/details/2641/gian-van-veen
+3,Michael van Gerwen,NED,97.06,7,10,95.24,5.49,101.93,86.12,95.45,95.03,0.42,7,0.7,2026-06-21,92.5,2.74,10,37.68,427.0,106.88,https://dartsorakel.com/player/details/3/michael-van-gerwen
+130,Wessel Nijman,NED,97.03,8,10,97.15,4.68,104.5,89.67,99.45,94.85,4.6,9,0.9,2026-06-21,93.01,4.14,10,43.39,707.0,106.23,https://dartsorakel.com/player/details/130/wessel-nijman
+36,Stephen Bunting,ENG,96.76,9,10,95.95,3.99,104.04,90.14,97.34,94.56,2.78,7,0.7,2026-06-21,93.28,2.67,10,39.63,602.0,105.93,https://dartsorakel.com/player/details/36/stephen-bunting
+20,Jonny Clayton,WAL,96.35,10,10,94.8,4.24,101.51,87.78,93.95,95.66,-1.71,7,0.7,2026-06-20,91.39,3.41,10,42.37,577.0,105.35,https://dartsorakel.com/player/details/20/jonny-clayton
 20114,Josh Rock,NIR,96.28,11,10,93.31,6.0,102.18,84.02,94.71,91.92,2.79,5,0.5,2026-06-03,93.83,-0.52,10,38.54,544.0,105.72,https://dartsorakel.com/player/details/20114/josh-rock
-26,Ross Smith,ENG,95.94,12,10,97.43,6.83,107.88,89.37,98.82,96.04,2.78,8,0.8,2026-06-17,92.14,5.29,10,40.99,506.0,105.36,https://dartsorakel.com/player/details/26/ross-smith
+26,Ross Smith,ENG,95.92,12,10,96.55,6.68,107.88,88.71,94.52,98.58,-4.05,7,0.7,2026-06-21,93.6,2.95,10,40.87,523.0,105.35,https://dartsorakel.com/player/details/26/ross-smith
 14,Dirk van Duijvenbode,NED,95.84,13,10,93.91,5.32,102.33,84.69,91.91,95.92,-4.01,6,0.6,2026-06-19,95.05,-1.13,10,37.77,456.0,105.68,https://dartsorakel.com/player/details/14/dirk-van-duijvenbode
-8,Nathan Aspinall,ENG,95.68,14,10,95.35,6.55,106.4,86.82,91.65,99.04,-7.39,6,0.6,2026-06-03,92.79,2.56,10,37.72,402.0,105.84,https://dartsorakel.com/player/details/8/nathan-aspinall
-2052,Kevin Doets,NED,95.35,15,10,94.32,5.43,102.49,82.93,95.64,93.0,2.64,6,0.6,2026-06-19,92.91,1.41,10,40.45,568.0,105.02,https://dartsorakel.com/player/details/2052/kevin-doets
-29,Rob Cross,ENG,95.13,16,10,95.52,6.84,104.73,82.99,96.87,94.18,2.69,9,0.9,2026-06-19,88.54,6.98,10,41.58,322.0,102.96,https://dartsorakel.com/player/details/29/rob-cross
-31,Ryan Searle,ENG,95.0,17,10,97.18,4.54,104.6,89.8,100.02,94.34,5.68,8,0.8,2026-06-17,91.52,5.67,10,41.64,300.0,103.21,https://dartsorakel.com/player/details/31/ryan-searle
+8,Nathan Aspinall,ENG,95.7,14,10,95.06,6.83,108.65,86.82,94.8,95.31,-0.51,5,0.5,2026-06-21,94.69,0.37,10,37.82,407.0,105.82,https://dartsorakel.com/player/details/8/nathan-aspinall
+2052,Kevin Doets,NED,95.36,15,10,94.8,5.36,102.49,82.93,95.84,93.77,2.06,7,0.7,2026-06-21,92.09,2.71,10,40.49,574.0,104.99,https://dartsorakel.com/player/details/2052/kevin-doets
+29,Rob Cross,ENG,95.27,16,10,98.15,5.9,104.73,82.99,99.42,96.87,2.55,9,0.9,2026-06-21,93.93,4.21,10,41.74,337.0,103.1,https://dartsorakel.com/player/details/29/rob-cross
+31,Ryan Searle,ENG,94.98,17,10,97.46,4.85,104.6,89.78,97.85,97.07,0.77,7,0.7,2026-06-21,92.84,4.62,10,41.36,304.0,103.15,https://dartsorakel.com/player/details/31/ryan-searle
 7,James Wade,ENG,94.78,18,10,94.64,3.88,100.55,87.0,93.49,95.78,-2.29,6,0.6,2026-06-06,93.04,1.6,10,43.24,296.0,101.91,https://dartsorakel.com/player/details/7/james-wade
-22,Danny Noppert,NED,94.75,19,10,92.29,5.46,102.79,82.89,90.7,93.88,-3.18,5,0.5,2026-06-17,91.78,0.51,10,39.04,523.0,103.04,https://dartsorakel.com/player/details/22/danny-noppert
-13,Damon Heta,AUS,94.63,20,10,94.56,4.57,104.98,88.23,96.94,92.18,4.76,5,0.5,2026-06-17,93.17,1.39,10,44.37,280.0,101.53,https://dartsorakel.com/player/details/13/damon-heta
-18,Jermaine Wattimena,NED,94.52,21,10,91.34,4.92,98.12,83.38,92.18,90.5,1.67,4,0.4,2026-06-17,90.59,0.75,10,39.07,432.0,104.01,https://dartsorakel.com/player/details/18/jermaine-wattimena
-12,Krzysztof Ratajski,POL,94.5,22,10,94.88,2.7,100.32,90.59,92.91,96.85,-3.94,7,0.7,2026-06-19,93.18,1.7,10,39.19,310.0,103.22,https://dartsorakel.com/player/details/12/krzysztof-ratajski
-70,Luke Woodhouse,ENG,94.07,23,10,93.68,6.51,103.09,84.85,94.85,92.51,2.33,6,0.6,2026-06-17,93.77,-0.09,10,38.92,439.0,102.87,https://dartsorakel.com/player/details/70/luke-woodhouse
-30,William O&#039;Connor,IRL,93.9,24,10,94.73,4.44,103.66,89.66,92.54,96.93,-4.39,7,0.7,2026-06-19,93.96,0.77,10,40.0,339.0,102.34,https://dartsorakel.com/player/details/30/william-oconnor
-55,Niels Zonneveld,NED,93.72,25,10,93.18,6.14,100.44,80.01,92.82,93.54,-0.72,6,0.6,2026-06-19,88.24,4.94,10,38.71,417.0,102.79,https://dartsorakel.com/player/details/55/niels-zonneveld
-82,Martin Schindler,GER,93.64,26,10,92.2,6.21,108.19,86.36,93.03,91.38,1.65,5,0.5,2026-06-17,91.47,0.73,10,38.89,350.0,101.92,https://dartsorakel.com/player/details/82/martin-schindler
-2088,Andrew Gilding,ENG,93.62,27,10,94.36,4.92,100.69,83.72,94.82,93.91,0.91,7,0.7,2026-06-19,92.5,1.86,10,39.49,341.0,102.09,https://dartsorakel.com/player/details/2088/andrew-gilding
+22,Danny Noppert,NED,94.67,19,10,91.97,6.04,102.79,81.45,89.2,94.74,-5.54,6,0.6,2026-06-21,91.16,0.81,10,38.87,527.0,102.98,https://dartsorakel.com/player/details/22/danny-noppert
+13,Damon Heta,AUS,94.59,20,10,94.35,4.76,104.98,88.23,93.79,94.92,-1.13,4,0.4,2026-06-20,93.3,1.05,10,44.18,281.0,101.5,https://dartsorakel.com/player/details/13/damon-heta
+12,Krzysztof Ratajski,POL,94.44,21,10,93.72,3.56,100.32,86.18,92.03,95.42,-3.39,6,0.6,2026-06-20,93.45,0.27,10,39.15,311.0,103.12,https://dartsorakel.com/player/details/12/krzysztof-ratajski
+18,Jermaine Wattimena,NED,94.43,22,10,90.67,5.07,98.12,83.38,89.97,91.38,-1.41,6,0.6,2026-06-21,89.16,1.51,10,38.79,436.0,103.94,https://dartsorakel.com/player/details/18/jermaine-wattimena
+70,Luke Woodhouse,ENG,94.01,23,10,93.2,6.92,103.09,84.85,91.3,95.09,-3.8,5,0.5,2026-06-20,94.09,-0.9,10,38.75,442.0,102.85,https://dartsorakel.com/player/details/70/luke-woodhouse
+30,William O&#039;Connor,IRL,93.86,24,10,93.86,5.12,103.66,86.18,90.65,97.07,-6.43,6,0.6,2026-06-20,95.87,-2.01,10,40.04,340.0,102.25,https://dartsorakel.com/player/details/30/william-oconnor
+55,Niels Zonneveld,NED,93.76,25,10,93.39,6.28,100.44,80.01,92.65,94.12,-1.46,5,0.5,2026-06-20,88.96,4.43,10,38.73,420.0,102.83,https://dartsorakel.com/player/details/55/niels-zonneveld
+82,Martin Schindler,GER,93.61,26,10,92.63,5.94,108.19,86.36,93.46,91.8,1.66,5,0.5,2026-06-20,92.08,0.55,10,38.91,353.0,101.86,https://dartsorakel.com/player/details/82/martin-schindler
+2088,Andrew Gilding,ENG,93.6,27,10,94.74,6.63,103.51,82.79,91.13,98.35,-7.22,7,0.7,2026-06-21,93.13,1.61,10,39.44,351.0,102.1,https://dartsorakel.com/player/details/2088/andrew-gilding
 63,Cristo Reyes,ESP,93.55,28,10,93.76,6.31,111.03,88.72,96.29,91.24,5.05,6,0.6,2026-06-19,92.64,1.12,10,39.41,289.0,103.03,https://dartsorakel.com/player/details/63/cristo-reyes
 2138,Justin Hood,ENG,93.48,29,10,94.6,6.33,103.38,84.57,90.2,99.01,-8.81,4,0.4,2026-06-19,92.28,2.32,10,38.21,286.0,101.79,https://dartsorakel.com/player/details/2138/justin-hood
 2092,Jeffrey de Graaf,SWE,93.24,30,10,95.62,3.48,101.4,88.91,93.34,97.89,-4.55,5,0.5,2026-06-19,93.5,2.12,10,42.19,342.0,100.78,https://dartsorakel.com/player/details/2092/jeffrey-de-graaf
@@ -33,36 +33,36 @@ player_key,player_name,country,season_avg,season_rank,matches_in_window,avg_last
 5190,James Hurrell,ENG,92.74,32,10,88.63,4.95,97.78,81.16,91.71,85.56,6.15,5,0.5,2026-06-17,93.49,-4.85,10,39.04,294.0,102.02,https://dartsorakel.com/player/details/5190/james-hurrell
 44,Karel Sedláček,CZE,92.73,33,10,93.53,4.62,103.33,85.73,93.85,93.21,0.65,4,0.4,2026-06-19,90.28,3.25,10,37.23,282.0,100.95,https://dartsorakel.com/player/details/44/karel-sedlacek
 24,Daryl Gurney,NIR,92.65,34,10,93.72,5.2,103.13,85.96,92.68,94.75,-2.07,5,0.5,2026-06-19,93.41,0.31,10,40.18,290.0,99.88,https://dartsorakel.com/player/details/24/daryl-gurney
-5145,Richard Veenstra,NED,92.48,35,10,92.8,4.51,98.51,85.8,93.6,92.0,1.6,7,0.7,2026-06-17,93.18,-0.39,10,37.93,244.0,100.76,https://dartsorakel.com/player/details/5145/richard-veenstra
-6,Joe Cullen,ENG,92.45,36,10,92.19,3.84,96.96,83.46,90.45,93.92,-3.47,6,0.6,2026-06-19,88.7,3.49,10,37.4,397.0,101.09,https://dartsorakel.com/player/details/6/joe-cullen
+6,Joe Cullen,ENG,92.49,35,10,92.57,4.06,96.96,83.46,93.08,92.06,1.02,5,0.5,2026-06-20,89.42,3.15,10,37.46,400.0,101.11,https://dartsorakel.com/player/details/6/joe-cullen
+5145,Richard Veenstra,NED,92.48,36,10,92.8,4.51,98.51,85.8,93.6,92.0,1.6,7,0.7,2026-06-17,93.18,-0.39,10,37.93,244.0,100.76,https://dartsorakel.com/player/details/5145/richard-veenstra
 74,Bradley Brooks,ENG,92.43,37,10,88.85,7.77,98.94,72.03,86.67,91.03,-4.36,5,0.5,2026-06-17,91.84,-2.99,10,39.59,301.0,100.32,https://dartsorakel.com/player/details/74/bradley-brooks
-66,Mike De Decker,BEL,92.28,38,10,91.5,6.57,101.21,80.79,91.8,91.21,0.59,4,0.4,2026-06-17,92.65,-1.15,10,36.98,286.0,100.13,https://dartsorakel.com/player/details/66/mike-de-decker
+66,Mike De Decker,BEL,92.43,38,10,94.62,7.0,107.14,83.77,97.41,91.84,5.57,5,0.5,2026-06-21,92.53,2.09,10,37.07,293.0,100.29,https://dartsorakel.com/player/details/66/mike-de-decker
 2317,Connor Scutt,ENG,92.24,39,10,97.14,7.14,107.53,85.46,96.06,98.23,-2.17,5,0.5,2026-06-17,96.55,0.6,10,39.24,313.0,100.52,https://dartsorakel.com/player/details/2317/connor-scutt
-51,Kim Huybrechts,BEL,92.2,40,10,92.4,3.72,101.02,88.0,90.78,94.03,-3.25,5,0.5,2026-06-19,91.2,1.2,10,37.51,422.0,100.93,https://dartsorakel.com/player/details/51/kim-huybrechts
+51,Kim Huybrechts,BEL,92.14,40,10,91.39,4.6,101.02,83.21,89.68,93.1,-3.42,5,0.5,2026-06-20,90.23,1.16,10,37.51,423.0,100.85,https://dartsorakel.com/player/details/51/kim-huybrechts
 196,Niko Springer,GER,92.07,41,10,91.66,5.26,102.21,82.27,90.96,92.35,-1.4,4,0.4,2026-06-19,90.48,1.18,10,39.41,305.0,100.79,https://dartsorakel.com/player/details/196/niko-springer
 5138,Alan Soutar,SCO,92.05,42,10,83.75,7.01,101.62,76.73,87.08,80.41,6.67,1,0.1,2026-06-17,89.76,-6.01,10,36.95,298.0,101.09,https://dartsorakel.com/player/details/5138/alan-soutar
-2221,Cameron Menzies,SCO,91.89,43,10,91.17,8.5,108.41,78.74,89.34,93.0,-3.66,4,0.4,2026-06-19,91.43,-0.26,10,35.93,361.0,100.89,https://dartsorakel.com/player/details/2221/cameron-menzies
+2221,Cameron Menzies,SCO,91.96,43,10,91.02,8.02,106.0,78.74,91.29,90.74,0.55,4,0.4,2026-06-21,90.93,0.09,10,35.94,368.0,100.97,https://dartsorakel.com/player/details/2221/cameron-menzies
 59,Max Hopp,GER,91.79,44,10,91.6,5.06,97.95,79.09,90.53,92.68,-2.15,4,0.4,2026-06-17,92.76,-1.16,10,38.41,304.0,99.75,https://dartsorakel.com/player/details/59/max-hopp
 138,Beau Greaves,ENG,91.76,45,10,93.17,7.39,105.9,82.47,95.2,91.15,4.06,6,0.6,2026-06-17,92.01,1.17,10,41.22,696.0,101.38,https://dartsorakel.com/player/details/138/beau-greaves
 2062,Ritchie Edhouse,ENG,91.67,46,10,93.85,5.58,104.61,85.37,94.97,92.72,2.25,3,0.3,2026-06-17,87.62,6.22,10,37.95,235.0,99.38,https://dartsorakel.com/player/details/2062/ritchie-edhouse
 65,Mickey Mansell,NIR,91.66,47,10,91.85,6.59,100.18,78.31,93.72,89.98,3.74,7,0.7,2026-06-17,90.76,1.09,10,40.07,190.0,99.32,https://dartsorakel.com/player/details/65/mickey-mansell
 46158,Tom Bissell,ENG,91.59,48,10,92.37,5.16,99.88,83.35,89.47,95.27,-5.8,7,0.7,2026-06-17,90.87,1.51,10,36.8,306.0,99.68,https://dartsorakel.com/player/details/46158/tom-bissell
 148,Lukas Wenig,GER,91.56,49,10,89.95,3.31,94.33,84.69,89.68,90.22,-0.54,4,0.4,2026-06-17,90.77,-0.83,10,35.34,293.0,100.59,https://dartsorakel.com/player/details/148/lukas-wenig
-50760,Tom Sykes,ENG,91.5,50,10,94.4,5.41,103.64,86.77,96.43,92.37,4.06,6,0.6,2026-06-19,90.02,4.38,10,37.46,402.0,100.68,https://dartsorakel.com/player/details/50760/tom-sykes
+50760,Tom Sykes,ENG,91.53,50,10,93.82,5.13,103.64,86.77,94.59,93.06,1.53,6,0.6,2026-06-21,91.28,2.55,10,37.43,410.0,100.73,https://dartsorakel.com/player/details/50760/tom-sykes
 129,Keane Barry,IRL,91.49,51,10,87.53,5.97,93.73,71.83,88.75,86.3,2.46,4,0.4,2026-06-19,90.7,-3.17,10,38.45,200.0,99.37,https://dartsorakel.com/player/details/129/keane-barry
 45,Ricky Evans,ENG,91.45,52,10,91.86,5.52,97.36,79.44,89.57,94.16,-4.59,5,0.5,2026-06-17,93.55,-1.68,10,37.77,270.0,98.71,https://dartsorakel.com/player/details/45/ricky-evans
-28,Ryan Joyce,ENG,91.36,53,10,89.87,8.81,100.76,73.39,89.39,90.35,-0.96,5,0.5,2026-06-19,89.52,0.35,10,42.56,198.0,98.47,https://dartsorakel.com/player/details/28/ryan-joyce
+28,Ryan Joyce,ENG,91.39,53,10,90.33,8.79,100.76,73.39,94.61,86.04,8.57,5,0.5,2026-06-21,90.87,-0.54,10,42.62,201.0,98.46,https://dartsorakel.com/player/details/28/ryan-joyce
 9,Mensur Suljović,AUT,91.28,54,10,92.76,4.9,100.64,83.28,89.64,95.87,-6.22,4,0.4,2026-06-03,89.37,3.39,10,38.58,223.0,98.95,https://dartsorakel.com/player/details/9/mensur-suljovic
 3038,Sebastian Bialecki,POL,91.28,55,10,92.91,6.18,105.43,83.71,91.02,94.81,-3.79,7,0.7,2026-06-17,87.91,5.0,10,42.01,316.0,99.12,https://dartsorakel.com/player/details/3038/sebastian-bialecki
 38,Gabriel Clemens,GER,91.25,56,10,93.98,7.34,103.05,80.52,90.12,97.84,-7.72,5,0.5,2026-06-17,89.95,4.03,10,35.88,299.0,100.17,https://dartsorakel.com/player/details/38/gabriel-clemens
 5,Michael Smith,ENG,91.15,57,10,91.01,5.07,105.32,87.28,92.04,89.99,2.05,5,0.5,2026-06-17,90.25,0.76,10,37.62,251.0,99.75,https://dartsorakel.com/player/details/5/michael-smith
 3043,Shane McGuirk,IRL,91.05,58,10,94.07,3.42,98.8,87.55,95.87,92.28,3.59,6,0.6,2026-06-17,92.84,1.24,10,37.7,307.0,99.9,https://dartsorakel.com/player/details/3043/shane-mcguirk
 2273,Wesley Plaisier,NED,91.01,59,10,84.67,6.55,94.78,70.26,82.44,86.9,-4.46,5,0.5,2026-06-17,89.27,-4.6,10,40.24,192.0,98.2,https://dartsorakel.com/player/details/2273/wesley-plaisier
-5636,Charlie Manby,ENG,90.95,60,10,89.54,5.86,103.66,84.28,92.71,86.37,6.35,6,0.6,2026-06-17,81.66,7.88,10,38.29,598.0,100.1,https://dartsorakel.com/player/details/5636/charlie-manby
+5636,Charlie Manby,ENG,90.91,60,10,89.54,5.86,103.66,84.28,92.71,86.37,6.35,6,0.6,2026-06-17,81.66,7.88,10,38.31,557.0,100.02,https://dartsorakel.com/player/details/5636/charlie-manby
 5185,Darryl Pilgrim,ENG,90.73,61,10,92.05,4.25,96.93,84.52,90.79,93.31,-2.52,3,0.3,2026-06-17,91.27,0.78,10,37.03,224.0,99.63,https://dartsorakel.com/player/details/5185/darryl-pilgrim
 91,Maik Kuivenhoven,NED,90.58,62,10,89.62,6.56,98.76,80.4,91.56,87.68,3.87,6,0.6,2026-06-17,90.92,-1.3,10,35.42,254.0,99.64,https://dartsorakel.com/player/details/91/maik-kuivenhoven
-21,Dave Chisnall,ENG,90.48,63,10,88.57,5.81,95.8,74.04,86.4,90.73,-4.33,7,0.7,2026-06-19,86.42,2.15,10,35.81,351.0,99.32,https://dartsorakel.com/player/details/21/dave-chisnall
-42,Madars Razma,LTV,90.41,64,10,88.84,5.2,99.63,81.24,89.31,88.37,0.94,4,0.4,2026-06-19,92.94,-4.09,10,39.64,156.0,97.6,https://dartsorakel.com/player/details/42/madars-razma
+21,Dave Chisnall,ENG,90.47,63,10,87.97,5.44,95.8,74.04,86.82,89.13,-2.31,6,0.6,2026-06-20,86.99,0.98,10,35.67,351.0,99.29,https://dartsorakel.com/player/details/21/dave-chisnall
+42,Madars Razma,LTV,90.33,64,10,87.89,5.93,99.63,79.3,88.43,87.36,1.08,4,0.4,2026-06-20,92.13,-4.23,10,39.48,156.0,97.55,https://dartsorakel.com/player/details/42/madars-razma
 2363,Mario Vandenbogaerde,BEL,90.29,65,10,90.6,3.7,95.94,84.79,91.72,89.48,2.23,5,0.5,2026-06-17,88.64,1.97,10,38.43,149.0,97.77,https://dartsorakel.com/player/details/2363/mario-vandenbogaerde
 33021,Cam Crabtree,ENG,90.26,66,10,91.82,5.24,103.66,85.41,89.74,93.9,-4.16,7,0.7,2026-06-17,89.03,2.79,10,37.86,347.0,98.7,https://dartsorakel.com/player/details/33021/cam-crabtree
 2014,Stephen Burton,ENG,90.22,67,10,89.69,4.89,98.26,82.24,90.18,89.21,0.97,4,0.4,2026-06-17,90.44,-0.75,10,35.92,152.0,97.57,https://dartsorakel.com/player/details/2014/stephen-burton
@@ -83,12 +83,12 @@ player_key,player_name,country,season_avg,season_rank,matches_in_window,avg_last
 17,Ian White,ENG,89.08,82,10,86.16,5.07,93.0,78.72,88.27,84.06,4.21,4,0.4,2026-06-17,93.12,-6.96,10,36.76,169.0,96.94,https://dartsorakel.com/player/details/17/ian-white
 19,Mervyn King,ENG,89.0,83,10,89.62,3.76,94.78,83.96,90.69,88.56,2.13,5,0.5,2026-06-19,91.13,-1.5,10,36.66,234.0,97.76,https://dartsorakel.com/player/details/19/mervyn-king
 2046,Cor Dekker,NOR,88.96,84,10,89.62,5.07,99.26,80.14,87.42,91.83,-4.41,3,0.3,2026-06-17,92.15,-2.53,10,36.18,286.0,97.69,https://dartsorakel.com/player/details/2046/cor-dekker
-2278,Benjamin Pratnemer,SVN,88.91,85,10,88.75,4.38,95.67,79.97,88.53,88.97,-0.44,5,0.5,2026-06-19,89.13,-0.37,10,35.59,248.0,98.0,https://dartsorakel.com/player/details/2278/benjamin-pratnemer
+2278,Benjamin Pratnemer,SVN,88.9,85,10,89.61,3.28,95.67,84.62,88.01,91.21,-3.2,5,0.5,2026-06-20,89.56,0.05,10,35.44,249.0,97.98,https://dartsorakel.com/player/details/2278/benjamin-pratnemer
 5193,Thibault Tricole,FRA,88.86,86,10,87.24,5.14,94.2,75.02,84.39,90.09,-5.69,3,0.3,2026-06-17,91.22,-3.98,10,38.84,128.0,94.7,https://dartsorakel.com/player/details/5193/thibault-tricole
 3057,Stephen Rosney,IRL,88.85,87,10,90.19,5.27,99.58,83.72,88.64,91.74,-3.1,5,0.5,2026-06-17,92.46,-2.27,10,37.93,131.0,96.5,https://dartsorakel.com/player/details/3057/stephen-rosney
 33,Andy Boulton,SCO,88.58,88,10,88.74,4.36,94.44,82.21,87.34,90.15,-2.8,4,0.4,2026-06-17,89.92,-1.17,10,39.01,127.0,95.28,https://dartsorakel.com/player/details/33/andy-boulton
-27176,Tyler Thorpe,ENG,88.43,89,10,86.79,8.7,103.3,76.57,93.88,79.69,14.2,5,0.5,2026-06-19,81.86,4.92,10,35.54,354.0,97.34,https://dartsorakel.com/player/details/27176/tyler-thorpe
-134,Adam Gawlas,CZE,88.08,90,10,89.98,3.65,93.58,83.18,91.55,88.41,3.13,8,0.8,2026-06-17,85.15,4.83,10,36.02,445.0,97.27,https://dartsorakel.com/player/details/134/adam-gawlas
+27176,Tyler Thorpe,ENG,88.45,89,10,88.14,8.31,103.3,76.57,95.19,81.08,14.11,4,0.4,2026-06-20,83.94,4.2,10,35.54,356.0,97.35,https://dartsorakel.com/player/details/27176/tyler-thorpe
+134,Adam Gawlas,CZE,88.12,90,10,89.98,3.65,93.58,83.18,91.55,88.41,3.13,8,0.8,2026-06-17,85.15,4.83,10,36.08,407.0,97.34,https://dartsorakel.com/player/details/134/adam-gawlas
 14661,Owen Bates,ENG,88.08,91,10,88.05,6.61,97.97,76.44,89.23,86.86,2.37,3,0.3,2026-06-19,86.3,1.75,10,35.81,386.0,97.33,https://dartsorakel.com/player/details/14661/owen-bates
 2784,Jurjen van der Velde,NED,88.06,92,10,86.82,5.58,92.95,75.78,84.48,89.16,-4.69,6,0.6,2026-06-17,82.16,4.66,10,37.95,472.0,96.11,https://dartsorakel.com/player/details/2784/jurjen-van-der-velde
 153,Ricardo Pietreczko,GER,87.95,93,10,88.1,4.36,95.3,80.5,88.96,87.25,1.71,5,0.5,2026-06-17,88.4,-0.29,10,36.34,128.0,94.33,https://dartsorakel.com/player/details/153/ricardo-pietreczko
@@ -101,7 +101,7 @@ player_key,player_name,country,season_avg,season_rank,matches_in_window,avg_last
 9975,Arno Merk,GER,87.22,100,10,87.29,1.64,90.61,84.99,86.72,87.86,-1.15,4,0.4,2026-06-17,89.91,-2.62,10,39.51,117.0,93.97,https://dartsorakel.com/player/details/9975/arno-merk
 24689,Sietse Lap,NED,87.19,101,10,89.53,5.15,97.05,80.68,87.94,91.11,-3.17,2,0.2,2026-06-17,93.3,-3.77,10,32.92,192.0,95.94,https://dartsorakel.com/player/details/24689/sietse-lap
 271,Rhys Griffin,WAL,87.15,102,10,83.33,5.33,90.89,75.09,81.54,85.12,-3.59,4,0.4,2026-06-17,85.84,-2.51,10,36.36,172.0,93.92,https://dartsorakel.com/player/details/271/rhys-griffin
-5147,Jim Long,CAN,87.06,103,10,87.52,5.36,96.31,78.19,86.3,88.74,-2.44,6,0.6,2026-06-19,88.72,-1.2,10,34.94,176.0,95.42,https://dartsorakel.com/player/details/5147/jim-long
+5147,Jim Long,CAN,87.06,103,10,87.35,5.34,96.31,78.19,85.89,88.82,-2.93,5,0.5,2026-06-20,89.33,-1.98,10,34.97,177.0,95.39,https://dartsorakel.com/player/details/5147/jim-long
 5172,Jeffrey Sparidaans,NED,86.8,104,10,88.33,4.17,96.04,82.26,88.63,88.03,0.6,2,0.2,2026-06-17,91.51,-3.18,10,34.56,200.0,95.58,https://dartsorakel.com/player/details/5172/jeffrey-sparidaans
 2295,Greg Ritchie,SCO,86.71,105,10,84.87,5.21,94.81,76.64,86.14,83.61,2.53,4,0.4,2026-06-17,86.63,-1.76,10,35.77,146.0,93.53,https://dartsorakel.com/player/details/2295/greg-ritchie
 254,Dominik Gruellich,GER,86.67,106,10,82.83,7.81,90.29,63.96,85.01,80.64,4.37,5,0.5,2026-06-17,81.57,1.26,10,36.2,174.0,94.94,https://dartsorakel.com/player/details/254/dominik-gruellich
