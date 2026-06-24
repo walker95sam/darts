@@ -439,16 +439,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 59,Max Hopp,8,2026-05-29,European Tour,ET,Last 48 (Premier),Lost,4 V 6,Justin Hood,2138,93.74,103.38,-9.64,4312,138
 59,Max Hopp,9,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Lost,4 V 6,Jim Long,5147,92.3,90.56,1.74,4646,151
 59,Max Hopp,10,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 3,Marvin van Velzen,2895,96.81,91.23,5.58,4195,130
-138,Beau Greaves,1,2026-06-17,Players Championship,PT,Last 128,Lost,1 V 6,Ritchie Edhouse,2062,87.13,104.61,-17.48,2788,96
-138,Beau Greaves,2,2026-06-16,Players Championship,PT,Semi Final,Lost,4 V 7,Wessel Nijman,130,92.22,98.29,-6.07,4734,154
-138,Beau Greaves,3,2026-06-16,Players Championship,PT,Quarter Final,Won,6 V 4,Chris Dobey,39,105.9,105.09,0.81,4695,133
-138,Beau Greaves,4,2026-06-16,Players Championship,PT,Last 16,Won,6 V 3,Luke Woodhouse,70,102.23,98.12,4.11,4430,130
-138,Beau Greaves,5,2026-06-16,Players Championship,PT,Last 32,Won,6 V 1,Adam Leek,20494,88.53,82.05,6.48,3423,116
-138,Beau Greaves,6,2026-06-16,Players Championship,PT,Last 64,Won,6 V 3,Ian White,17,87.08,81.49,5.59,4238,146
-138,Beau Greaves,7,2026-06-16,Players Championship,PT,Last 128,Won,6 V 2,Ryan Joyce,28,82.47,73.39,9.08,3876,141
-138,Beau Greaves,8,2026-06-03,Players Championship,PT,Last 64,Lost,4 V 6,Nathan Aspinall,8,89.01,91.34,-2.33,4213,142
-138,Beau Greaves,9,2026-06-03,Players Championship,PT,Last 128,Won,6 V 2,Alexander Merkx,2223,95.85,84.94,10.91,3866,121
-138,Beau Greaves,10,2026-06-02,Players Championship,PT,Last 64,Lost,2 V 6,Ryan Joyce,28,101.32,100.76,0.56,3749,111
 2062,Ritchie Edhouse,1,2026-06-17,Players Championship,PT,Last 64,Lost,5 V 6,Alexander Merkx,2223,96.34,96.61,-0.27,5042,157
 2062,Ritchie Edhouse,2,2026-06-17,Players Championship,PT,Last 128,Won,6 V 1,Beau Greaves,138,104.61,87.13,17.48,3487,100
 2062,Ritchie Edhouse,3,2026-06-16,Players Championship,PT,Last 128,Lost,4 V 6,Max Hopp,59,93.41,88.72,4.69,4826,155
@@ -529,6 +519,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 28,Ryan Joyce,8,2026-06-03,Players Championship,PT,Last 128,Lost,0 V 6,Owen Bates,14661,77.57,81.98,-4.41,2715,105
 28,Ryan Joyce,9,2026-06-02,Players Championship,PT,Last 32,Lost,4 V 6,Robert Owen,51308,92.24,92.98,-0.74,4704,153
 28,Ryan Joyce,10,2026-06-02,Players Championship,PT,Last 64,Won,6 V 2,Beau Greaves,138,100.76,101.32,-0.56,3829,114
+138,Beau Greaves,1,2026-06-21,Women&#039;s Series,0,Final,Lost,1 V 5,Lisa Ashton,95,79.25,82.04,-2.79,2668,101
+138,Beau Greaves,2,2026-06-21,Women&#039;s Series,0,Semi Final,Won,5 V 3,Fallon Sherrock,2618,88.67,81.9,6.77,3990,135
+138,Beau Greaves,3,2026-06-21,Women&#039;s Series,0,Quarter Final,Won,5 V 2,Aurora Fochesato,19790,80.6,78.08,2.52,3251,121
+138,Beau Greaves,4,2026-06-21,Women&#039;s Series,0,Last 16,Won,4 V 1,Sara Walton,44125,79.82,60.74,19.08,2501,94
+138,Beau Greaves,5,2026-06-21,Women&#039;s Series,0,Last 32,Won,4 V 3,Kirsty Hutchinson,2817,84.73,72.34,12.39,3389,120
+138,Beau Greaves,6,2026-06-21,Women&#039;s Series,0,Last 64,Won,4 V 1,Lauryn Salter,38428,83.37,65.12,18.25,2501,90
+138,Beau Greaves,7,2026-06-21,Women&#039;s Series,0,Last 128,Won,4 V 0,Debbie Dexter,17258,81.24,74.48,6.76,2004,74
+138,Beau Greaves,8,2026-06-21,Women&#039;s Series,0,Last 32,Lost,3 V 4,Angela Kirkwood,25457,81.0,76.74,4.26,3321,123
+138,Beau Greaves,9,2026-06-21,Women&#039;s Series,0,Last 64,Won,4 V 0,Lauren Bloomfield,36862,93.94,59.45,34.49,2004,64
+138,Beau Greaves,10,2026-06-20,Women&#039;s Series,0,Final,Won,5 V 0,Vicky Pruim,5778,88.41,75.07,13.34,2505,85
 9,Mensur Suljović,1,2026-06-03,Players Championship,PT,Last 64,Lost,1 V 6,Mervyn King,19,83.28,86.85,-3.57,3220,116
 9,Mensur Suljović,2,2026-06-03,Players Championship,PT,Last 128,Won,6 V 2,Levy Frauenfelder,2834,89.5,81.25,8.25,3610,121
 9,Mensur Suljović,3,2026-06-02,Players Championship,PT,Last 64,Lost,4 V 6,Nathan Potter,2931,95.94,93.5,2.44,4669,146
