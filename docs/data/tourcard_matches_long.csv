@@ -199,16 +199,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 13,Damon Heta,8,2026-06-02,Players Championship,PT,Last 128,Lost,5 V 6,Marvin van Velzen,2895,96.4,90.63,5.77,5109,159
 13,Damon Heta,9,2026-05-31,European Tour,ET,Semi Final,Lost,6 V 7,Ryan Joyce,28,88.23,94.36,-6.13,5970,203
 13,Damon Heta,10,2026-05-31,European Tour,ET,Quarter Final,Won,6 V 2,Wessel Nijman,130,93.88,93.65,0.23,3849,123
-12,Krzysztof Ratajski,1,2026-06-20,European Tour,ET,Last 32,Lost,5 V 6,Michael van Gerwen,3,86.18,92.52,-6.34,4855,169
-12,Krzysztof Ratajski,2,2026-06-19,European Tour,ET,Last 48 (Premier),Won,6 V 2,Cristo Reyes,63,94.32,91.01,3.31,3930,125
-12,Krzysztof Ratajski,3,2026-06-17,Players Championship,PT,Last 64,Lost,5 V 6,Tommy Morris,20140,93.35,98.66,-5.31,5010,161
-12,Krzysztof Ratajski,4,2026-06-17,Players Championship,PT,Last 128,Won,6 V 5,Kai Gotthardt,158,93.88,97.8,-3.92,5007,160
-12,Krzysztof Ratajski,5,2026-06-16,Players Championship,PT,Last 64,Lost,3 V 6,James Hurrell,5190,92.41,95.75,-3.34,3943,128
-12,Krzysztof Ratajski,6,2026-06-16,Players Championship,PT,Last 128,Won,6 V 3,Carl Sneyd,23238,90.59,89.39,1.2,4318,143
-12,Krzysztof Ratajski,7,2026-06-03,Players Championship,PT,Quarter Final,Lost,3 V 6,Richard Veenstra,5145,96.76,94.52,2.24,4096,127
-12,Krzysztof Ratajski,8,2026-06-03,Players Championship,PT,Last 16,Won,6 V 4,Mervyn King,19,93.43,91.0,2.43,4578,147
-12,Krzysztof Ratajski,9,2026-06-03,Players Championship,PT,Last 32,Won,6 V 3,Daryl Gurney,24,100.32,91.09,9.23,4347,130
-12,Krzysztof Ratajski,10,2026-06-03,Players Championship,PT,Last 64,Won,6 V 4,Stephen Burton,2014,95.98,92.76,3.22,4703,147
 18,Jermaine Wattimena,1,2026-06-21,European Tour,ET,Quarter Final,Lost,2 V 6,Tom Sykes,50760,84.35,89.28,-4.93,3571,127
 18,Jermaine Wattimena,2,2026-06-21,European Tour,ET,Last 16,Won,6 V 5,Danny Noppert,22,90.25,93.07,-2.82,5024,167
 18,Jermaine Wattimena,3,2026-06-20,European Tour,ET,Last 32,Won,6 V 3,Dave Chisnall,21,93.46,88.81,4.65,4455,143
@@ -219,6 +209,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 18,Jermaine Wattimena,8,2026-06-03,Players Championship,PT,Last 32,Lost,5 V 6,Richard Veenstra,5145,83.38,92.84,-9.46,4697,169
 18,Jermaine Wattimena,9,2026-06-03,Players Championship,PT,Last 64,Won,6 V 5,Jack Aldridge,50862,86.8,86.49,0.31,5237,181
 18,Jermaine Wattimena,10,2026-06-03,Players Championship,PT,Last 128,Won,6 V 4,Stefan Bellmont,1989,90.99,80.59,10.4,4944,163
+12,Krzysztof Ratajski,1,2026-06-20,European Tour,ET,Last 32,Lost,5 V 6,Michael van Gerwen,3,86.18,92.52,-6.34,4855,169
+12,Krzysztof Ratajski,2,2026-06-19,European Tour,ET,Last 48 (Premier),Won,6 V 2,Cristo Reyes,63,94.32,91.01,3.31,3930,125
+12,Krzysztof Ratajski,3,2026-06-17,Players Championship,PT,Last 64,Lost,5 V 6,Tommy Morris,20140,93.35,98.66,-5.31,5010,161
+12,Krzysztof Ratajski,4,2026-06-17,Players Championship,PT,Last 128,Won,6 V 5,Kai Gotthardt,158,93.88,97.8,-3.92,5007,160
+12,Krzysztof Ratajski,5,2026-06-16,Players Championship,PT,Last 64,Lost,3 V 6,James Hurrell,5190,92.41,95.75,-3.34,3943,128
+12,Krzysztof Ratajski,6,2026-06-16,Players Championship,PT,Last 128,Won,6 V 3,Carl Sneyd,23238,90.59,89.39,1.2,4318,143
+12,Krzysztof Ratajski,7,2026-06-03,Players Championship,PT,Quarter Final,Lost,3 V 6,Richard Veenstra,5145,96.76,94.52,2.24,4096,127
+12,Krzysztof Ratajski,8,2026-06-03,Players Championship,PT,Last 16,Won,6 V 4,Mervyn King,19,93.43,91.0,2.43,4578,147
+12,Krzysztof Ratajski,9,2026-06-03,Players Championship,PT,Last 32,Won,6 V 3,Daryl Gurney,24,100.32,91.09,9.23,4347,130
+12,Krzysztof Ratajski,10,2026-06-03,Players Championship,PT,Last 64,Won,6 V 4,Stephen Burton,2014,95.98,92.76,3.22,4703,147
 70,Luke Woodhouse,1,2026-06-20,European Tour,ET,Last 32,Lost,4 V 6,Andrew Gilding,2088,85.33,94.14,-8.81,4494,158
 70,Luke Woodhouse,2,2026-06-17,Players Championship,PT,Last 128,Lost,4 V 6,Dennie Olde Kalter,5162,91.51,89.68,1.83,4667,153
 70,Luke Woodhouse,3,2026-06-16,Players Championship,PT,Last 16,Lost,3 V 6,Beau Greaves,138,98.12,102.23,-4.11,4219,129
@@ -699,6 +699,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 14385,Adam Lipscombe,8,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Niall Culleton,2034,93.4,86.29,7.11,5137,165
 14385,Adam Lipscombe,9,2026-05-19,Players Championship,PT,Last 128,Lost,3 V 6,Benjamin Pratnemer,2278,99.56,99.54,0.02,4082,123
 14385,Adam Lipscombe,10,2026-05-18,Players Championship,PT,Last 128,Lost,5 V 6,Ryan Meikle,47,88.8,92.93,-4.13,4943,167
+10123,Jimmy van Schie,1,2026-06-17,Players Championship,PT,Last 64,Lost,1 V 6,Rob Cross,29,83.36,103.43,-20.07,2751,99
+10123,Jimmy van Schie,2,2026-06-17,Players Championship,PT,Last 128,Won,6 V 4,Filip Bereza,46130,84.75,78.11,6.64,4746,168
+10123,Jimmy van Schie,3,2026-06-16,Players Championship,PT,Last 128,Lost,4 V 6,Arno Merk,9975,82.68,88.61,-5.93,4437,161
+10123,Jimmy van Schie,4,2026-06-03,Players Championship,PT,Last 64,Lost,3 V 6,Sebastian Bialecki,3038,86.27,88.05,-1.78,3997,139
+10123,Jimmy van Schie,5,2026-06-03,Players Championship,PT,Last 128,Won,6 V 5,Yorick Hofkens,25319,90.42,85.01,5.41,5335,177
+10123,Jimmy van Schie,6,2026-06-02,Players Championship,PT,Last 64,Lost,2 V 6,Andrew Gilding,2088,88.17,94.68,-6.51,3468,118
+10123,Jimmy van Schie,7,2026-06-02,Players Championship,PT,Last 128,Won,6 V 2,Stefan Bellmont,1989,84.77,83.34,1.43,3758,133
+10123,Jimmy van Schie,8,2026-05-31,European Tour,ET,Quarter Final,Lost,3 V 6,Luke Woodhouse,70,90.15,93.49,-3.34,4087,136
+10123,Jimmy van Schie,9,2026-05-31,European Tour,ET,Last 16,Won,6 V 4,Sebastian Bialecki,3038,90.5,85.34,5.16,4555,151
+10123,Jimmy van Schie,10,2026-05-30,European Tour,ET,Last 32,Won,6 V 1,Mike De Decker,66,87.05,80.79,6.26,3482,120
 2171,Christian Kist,1,2026-06-17,Players Championship,PT,Last 128,Lost,3 V 6,Maik Kuivenhoven,91,80.11,84.46,-4.35,3952,148
 2171,Christian Kist,2,2026-06-16,Players Championship,PT,Last 64,Lost,4 V 6,Niels Zonneveld,55,93.55,99.35,-5.8,4584,147
 2171,Christian Kist,3,2026-06-16,Players Championship,PT,Last 128,Won,6 V 4,Benjamin Pratnemer,2278,91.69,93.79,-2.1,4707,154
@@ -719,16 +729,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 57,Darius Labanauskas,8,2026-06-02,Players Championship,PT,Last 128,Lost,4 V 6,Rob Cross,29,89.43,99.08,-9.65,4412,148
 57,Darius Labanauskas,9,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Benjamin Pratnemer,2278,87.65,88.25,-0.6,3769,129
 57,Darius Labanauskas,10,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Won,6 V 2,Christian Kist,2171,87.99,81.72,6.27,3901,133
-10123,Jimmy van Schie,1,2026-06-17,Players Championship,PT,Last 64,Lost,1 V 6,Rob Cross,29,83.36,103.43,-20.07,2751,99
-10123,Jimmy van Schie,2,2026-06-17,Players Championship,PT,Last 128,Won,6 V 4,Filip Bereza,46130,84.75,78.11,6.64,4746,168
-10123,Jimmy van Schie,3,2026-06-16,Players Championship,PT,Last 128,Lost,4 V 6,Arno Merk,9975,82.68,88.61,-5.93,4437,161
-10123,Jimmy van Schie,4,2026-06-03,Players Championship,PT,Last 64,Lost,3 V 6,Sebastian Bialecki,3038,86.27,88.05,-1.78,3997,139
-10123,Jimmy van Schie,5,2026-06-03,Players Championship,PT,Last 128,Won,6 V 5,Yorick Hofkens,25319,90.42,85.01,5.41,5335,177
-10123,Jimmy van Schie,6,2026-06-02,Players Championship,PT,Last 64,Lost,2 V 6,Andrew Gilding,2088,88.17,94.68,-6.51,3468,118
-10123,Jimmy van Schie,7,2026-06-02,Players Championship,PT,Last 128,Won,6 V 2,Stefan Bellmont,1989,84.77,83.34,1.43,3758,133
-10123,Jimmy van Schie,8,2026-05-31,European Tour,ET,Quarter Final,Lost,3 V 6,Luke Woodhouse,70,90.15,93.49,-3.34,4087,136
-10123,Jimmy van Schie,9,2026-05-31,European Tour,ET,Last 16,Won,6 V 4,Sebastian Bialecki,3038,90.5,85.34,5.16,4555,151
-10123,Jimmy van Schie,10,2026-05-30,European Tour,ET,Last 32,Won,6 V 1,Mike De Decker,66,87.05,80.79,6.26,3482,120
 23,Brendan Dolan,1,2026-06-17,Players Championship,PT,Last 128,Lost,0 V 6,Mickey Mansell,65,84.33,94.93,-10.6,2530,90
 23,Brendan Dolan,2,2026-06-16,Players Championship,PT,Last 128,Lost,4 V 6,James Hurrell,5190,85.01,85.29,-0.28,4704,166
 23,Brendan Dolan,3,2026-06-03,Players Championship,PT,Last 64,Lost,2 V 6,Jeffrey de Graaf,2092,94.08,99.45,-5.37,3763,120
