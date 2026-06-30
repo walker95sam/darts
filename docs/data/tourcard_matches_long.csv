@@ -1009,6 +1009,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 24689,Sietse Lap,8,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Tyler Thorpe,27176,86.78,92.04,-5.26,3587,124
 24689,Sietse Lap,9,2026-05-19,Players Championship,PT,Last 128,Lost,3 V 6,Tavis Dudeney,3059,92.91,92.16,0.75,4150,134
 24689,Sietse Lap,10,2026-05-18,Players Championship,PT,Last 64,Lost,4 V 6,Andrew Gilding,2088,89.19,91.81,-2.62,4519,152
+20494,Adam Leek,1,2026-06-17,Players Championship,PT,Last 16,Lost,5 V 6,Gian van Veen,2641,85.5,88.74,-3.24,4959,174
+20494,Adam Leek,2,2026-06-17,Players Championship,PT,Last 32,Won,6 V 5,Callan Rydz,35,98.74,98.32,0.42,5233,159
+20494,Adam Leek,3,2026-06-17,Players Championship,PT,Last 64,Won,6 V 0,Bradley Brooks,74,88.41,72.03,16.38,3006,102
+20494,Adam Leek,4,2026-06-17,Players Championship,PT,Last 128,Won,6 V 3,Christopher Wickenden,7707,87.57,86.57,1.0,4145,142
+20494,Adam Leek,5,2026-06-16,Players Championship,PT,Last 32,Lost,1 V 6,Beau Greaves,138,82.05,88.53,-6.48,2981,109
+20494,Adam Leek,6,2026-06-16,Players Championship,PT,Last 64,Won,6 V 2,Gian van Veen,2641,102.05,94.39,7.66,3844,113
+20494,Adam Leek,7,2026-06-16,Players Championship,PT,Last 128,Won,6 V 5,Tytus Kanik,2167,93.98,81.39,12.59,5263,168
+20494,Adam Leek,8,2026-06-03,Players Championship,PT,Last 128,Lost,3 V 6,Stephen Burton,2014,84.26,98.26,-14.0,3820,136
+20494,Adam Leek,9,2026-06-02,Players Championship,PT,Last 128,Lost,5 V 6,Ryan Meikle,47,91.88,93.55,-1.67,4992,163
+20494,Adam Leek,10,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Brendan Dolan,23,86.78,87.02,-0.24,3529,122
 271,Rhys Griffin,1,2026-06-17,Players Championship,PT,Last 64,Lost,3 V 6,David Sharp,6682,86.56,92.4,-5.84,3924,136
 271,Rhys Griffin,2,2026-06-17,Players Championship,PT,Last 128,Won,6 V 4,Adam Warner,20667,89.6,84.4,5.2,4749,159
 271,Rhys Griffin,3,2026-06-16,Players Championship,PT,Last 128,Lost,5 V 6,Madars Razma,42,75.09,81.24,-6.15,4831,193
@@ -1029,16 +1039,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 5147,Jim Long,8,2026-06-17,Players Championship,PT,Last 64,Lost,5 V 6,Greg Ritchie,2295,78.19,82.51,-4.32,4926,189
 5147,Jim Long,9,2026-06-17,Players Championship,PT,Last 128,Won,6 V 3,Joe Cullen,6,81.46,86.69,-5.23,4046,149
 5147,Jim Long,10,2026-06-16,Players Championship,PT,Last 128,Lost,1 V 6,Karel Sedláček,44,86.41,96.89,-10.48,2938,102
-20494,Adam Leek,1,2026-06-17,Players Championship,PT,Last 16,Lost,5 V 6,Gian van Veen,2641,85.5,88.74,-3.24,4959,174
-20494,Adam Leek,2,2026-06-17,Players Championship,PT,Last 32,Won,6 V 5,Callan Rydz,35,98.74,98.32,0.42,5233,159
-20494,Adam Leek,3,2026-06-17,Players Championship,PT,Last 64,Won,6 V 0,Bradley Brooks,74,88.41,72.03,16.38,3006,102
-20494,Adam Leek,4,2026-06-17,Players Championship,PT,Last 128,Won,6 V 3,Christopher Wickenden,7707,87.57,86.57,1.0,4145,142
-20494,Adam Leek,5,2026-06-16,Players Championship,PT,Last 32,Lost,1 V 6,Beau Greaves,138,82.05,88.53,-6.48,2981,109
-20494,Adam Leek,6,2026-06-16,Players Championship,PT,Last 64,Won,6 V 2,Gian van Veen,2641,102.05,94.39,7.66,3844,113
-20494,Adam Leek,7,2026-06-16,Players Championship,PT,Last 128,Won,6 V 5,Tytus Kanik,2167,93.98,81.39,12.59,5263,168
-20494,Adam Leek,8,2026-06-03,Players Championship,PT,Last 128,Lost,3 V 6,Stephen Burton,2014,84.26,98.26,-14.0,3820,136
-20494,Adam Leek,9,2026-06-02,Players Championship,PT,Last 128,Lost,5 V 6,Ryan Meikle,47,91.88,93.55,-1.67,4992,163
-20494,Adam Leek,10,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Brendan Dolan,23,86.78,87.02,-0.24,3529,122
 5172,Jeffrey Sparidaans,1,2026-06-17,Players Championship,PT,Last 32,Lost,5 V 6,Tom Bissell,46158,87.0,91.38,-4.38,5017,173
 5172,Jeffrey Sparidaans,2,2026-06-17,Players Championship,PT,Last 64,Won,6 V 2,Sietse Lap,24689,87.21,80.68,6.53,3808,131
 5172,Jeffrey Sparidaans,3,2026-06-17,Players Championship,PT,Last 128,Won,6 V 5,James Hurrell,5190,96.04,97.78,-1.74,5026,157
