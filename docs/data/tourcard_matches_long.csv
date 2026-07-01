@@ -649,16 +649,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 2363,Mario Vandenbogaerde,8,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Maximilian Czerwinski,23309,88.28,88.19,0.09,3737,127
 2363,Mario Vandenbogaerde,9,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Won,6 V 5,Chris Landman,5183,88.29,87.31,0.98,5268,179
 2363,Mario Vandenbogaerde,10,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 4,Adam Paxton,2417,84.79,79.59,5.2,4918,174
-33021,Cam Crabtree,1,2026-06-17,Players Championship,PT,Last 16,Lost,5 V 6,Tommy Morris,20140,92.28,97.38,-5.1,5014,163
-33021,Cam Crabtree,2,2026-06-17,Players Championship,PT,Last 32,Won,6 V 2,Dennie Olde Kalter,5162,92.5,87.36,5.14,3854,125
-33021,Cam Crabtree,3,2026-06-17,Players Championship,PT,Last 64,Won,6 V 4,Niall Culleton,2034,86.77,90.95,-4.18,4454,154
-33021,Cam Crabtree,4,2026-06-17,Players Championship,PT,Last 128,Won,6 V 4,Jeffrey de Zwaan,48,91.64,91.88,-0.24,4643,152
-33021,Cam Crabtree,5,2026-06-16,Players Championship,PT,Last 64,Lost,2 V 6,Stephen Bunting,36,85.49,101.48,-15.99,3106,109
-33021,Cam Crabtree,6,2026-06-16,Players Championship,PT,Last 128,Won,6 V 5,Greg Ritchie,2295,92.46,85.57,6.89,5178,168
-33021,Cam Crabtree,7,2026-06-07,Development Tour,0,Quarter Final,Lost,2 V 5,Adam Gawlas,134,85.41,83.49,1.92,3160,111
-33021,Cam Crabtree,8,2026-06-07,Development Tour,0,Last 16,Won,4 V 3,Joseph Simpson,50326,96.88,84.2,12.68,3423,106
-33021,Cam Crabtree,9,2026-06-07,Development Tour,0,Last 32,Won,4 V 0,Alfie Armitage,47732,103.66,81.05,22.61,2004,58
-33021,Cam Crabtree,10,2026-06-07,Development Tour,0,Last 64,Won,4 V 0,Martin Homola,38330,91.09,86.9,4.19,2004,66
+33021,Cam Crabtree,1,2026-06-27,Hampshire Open,0,Final,Won,5 V 0,Jason Collins,7196,90.54,80.96,9.58,2505,83
+33021,Cam Crabtree,2,2026-06-27,Hampshire Open,0,Semi Final,Won,4 V 3,Adam Lipscombe,14385,89.19,83.86,5.33,3300,111
+33021,Cam Crabtree,3,2026-06-27,Hampshire Open,0,Quarter Final,Won,4 V 2,George Cressey,2633,101.15,92.59,8.56,2866,85
+33021,Cam Crabtree,4,2026-06-27,Hampshire Open,0,Last 16,Won,4 V 3,Johnny Haines,2103,88.98,86.3,2.68,3322,112
+33021,Cam Crabtree,5,2026-06-27,Hampshire Open,0,Last 32,Won,4 V 1,Scott Walters,6471,91.28,77.5,13.78,2495,82
+33021,Cam Crabtree,6,2026-06-27,Hampshire Open,0,Last 64,Won,4 V 2,Ady Wright,20451,89.53,77.73,11.8,2865,96
+33021,Cam Crabtree,7,2026-06-27,Hampshire Open,0,Last 128,Won,4 V 3,Alan Casey,13771,87.47,80.67,6.8,3353,115
+33021,Cam Crabtree,8,2026-06-27,Hampshire Open,0,Last 256,Won,4 V 1,Mark Bower,33551,77.19,71.16,6.03,2393,93
+33021,Cam Crabtree,9,2026-06-17,Players Championship,PT,Last 16,Lost,5 V 6,Tommy Morris,20140,92.28,97.38,-5.1,5014,163
+33021,Cam Crabtree,10,2026-06-17,Players Championship,PT,Last 32,Won,6 V 2,Dennie Olde Kalter,5162,92.5,87.36,5.14,3854,125
 2014,Stephen Burton,1,2026-06-17,Players Championship,PT,Last 64,Lost,5 V 6,Dave Chisnall,21,83.15,88.87,-5.72,4767,172
 2014,Stephen Burton,2,2026-06-17,Players Championship,PT,Last 128,Won,6 V 2,Pascal Rupprecht,24822,90.3,84.12,6.18,3913,130
 2014,Stephen Burton,3,2026-06-16,Players Championship,PT,Last 128,Lost,4 V 6,Wessel Nijman,130,86.41,93.85,-7.44,4407,153
@@ -689,26 +689,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 48,Jeffrey de Zwaan,8,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 5,Nick Kenny,84,94.67,90.35,4.32,5049,160
 48,Jeffrey de Zwaan,9,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Lost,5 V 6,Rhys Griffin,271,83.6,83.9,-0.3,4988,179
 48,Jeffrey de Zwaan,10,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 4,Dennie Olde Kalter,5162,93.71,87.51,6.2,4779,153
-14385,Adam Lipscombe,1,2026-06-17,Players Championship,PT,Last 128,Lost,4 V 6,Darius Labanauskas,57,91.38,89.79,1.59,4630,152
-14385,Adam Lipscombe,2,2026-06-16,Players Championship,PT,Last 128,Lost,4 V 6,Tommy Lishman,3086,90.73,87.55,3.18,4748,157
-14385,Adam Lipscombe,3,2026-06-03,Players Championship,PT,Last 64,Lost,3 V 6,Joe Hunt,14283,90.95,90.85,0.1,4214,139
-14385,Adam Lipscombe,4,2026-06-03,Players Championship,PT,Last 128,Won,6 V 4,Dennie Olde Kalter,5162,91.64,94.92,-3.28,4582,150
-14385,Adam Lipscombe,5,2026-06-02,Players Championship,PT,Last 64,Lost,4 V 6,Jeffrey de Graaf,2092,87.51,92.67,-5.16,4434,152
-14385,Adam Lipscombe,6,2026-06-02,Players Championship,PT,Last 128,Won,6 V 3,Tavis Dudeney,3059,83.25,73.86,9.39,4357,157
-14385,Adam Lipscombe,7,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,3 V 6,Jeffrey de Graaf,2092,94.08,89.93,4.15,4014,128
-14385,Adam Lipscombe,8,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Niall Culleton,2034,93.4,86.29,7.11,5137,165
-14385,Adam Lipscombe,9,2026-05-19,Players Championship,PT,Last 128,Lost,3 V 6,Benjamin Pratnemer,2278,99.56,99.54,0.02,4082,123
-14385,Adam Lipscombe,10,2026-05-18,Players Championship,PT,Last 128,Lost,5 V 6,Ryan Meikle,47,88.8,92.93,-4.13,4943,167
-10123,Jimmy van Schie,1,2026-06-17,Players Championship,PT,Last 64,Lost,1 V 6,Rob Cross,29,83.36,103.43,-20.07,2751,99
-10123,Jimmy van Schie,2,2026-06-17,Players Championship,PT,Last 128,Won,6 V 4,Filip Bereza,46130,84.75,78.11,6.64,4746,168
-10123,Jimmy van Schie,3,2026-06-16,Players Championship,PT,Last 128,Lost,4 V 6,Arno Merk,9975,82.68,88.61,-5.93,4437,161
-10123,Jimmy van Schie,4,2026-06-03,Players Championship,PT,Last 64,Lost,3 V 6,Sebastian Bialecki,3038,86.27,88.05,-1.78,3997,139
-10123,Jimmy van Schie,5,2026-06-03,Players Championship,PT,Last 128,Won,6 V 5,Yorick Hofkens,25319,90.42,85.01,5.41,5335,177
-10123,Jimmy van Schie,6,2026-06-02,Players Championship,PT,Last 64,Lost,2 V 6,Andrew Gilding,2088,88.17,94.68,-6.51,3468,118
-10123,Jimmy van Schie,7,2026-06-02,Players Championship,PT,Last 128,Won,6 V 2,Stefan Bellmont,1989,84.77,83.34,1.43,3758,133
-10123,Jimmy van Schie,8,2026-05-31,European Tour,ET,Quarter Final,Lost,3 V 6,Luke Woodhouse,70,90.15,93.49,-3.34,4087,136
-10123,Jimmy van Schie,9,2026-05-31,European Tour,ET,Last 16,Won,6 V 4,Sebastian Bialecki,3038,90.5,85.34,5.16,4555,151
-10123,Jimmy van Schie,10,2026-05-30,European Tour,ET,Last 32,Won,6 V 1,Mike De Decker,66,87.05,80.79,6.26,3482,120
 2171,Christian Kist,1,2026-06-17,Players Championship,PT,Last 128,Lost,3 V 6,Maik Kuivenhoven,91,80.11,84.46,-4.35,3952,148
 2171,Christian Kist,2,2026-06-16,Players Championship,PT,Last 64,Lost,4 V 6,Niels Zonneveld,55,93.55,99.35,-5.8,4584,147
 2171,Christian Kist,3,2026-06-16,Players Championship,PT,Last 128,Won,6 V 4,Benjamin Pratnemer,2278,91.69,93.79,-2.1,4707,154
@@ -729,6 +709,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 57,Darius Labanauskas,8,2026-06-02,Players Championship,PT,Last 128,Lost,4 V 6,Rob Cross,29,89.43,99.08,-9.65,4412,148
 57,Darius Labanauskas,9,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Benjamin Pratnemer,2278,87.65,88.25,-0.6,3769,129
 57,Darius Labanauskas,10,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Won,6 V 2,Christian Kist,2171,87.99,81.72,6.27,3901,133
+14385,Adam Lipscombe,1,2026-06-27,Hampshire Open,0,Semi Final,Lost,3 V 4,Cam Crabtree,33021,83.86,89.19,-5.33,3047,109
+14385,Adam Lipscombe,2,2026-06-27,Hampshire Open,0,Quarter Final,Won,4 V 1,Owen Bates,14661,82.3,85.2,-2.9,2277,83
+14385,Adam Lipscombe,3,2026-06-27,Hampshire Open,0,Last 16,Won,4 V 0,Marvin Meal,49325,77.08,64.68,12.4,2004,78
+14385,Adam Lipscombe,4,2026-06-27,Hampshire Open,0,Last 32,Won,4 V 1,Chas Barstow,5177,90.27,84.26,6.01,2377,79
+14385,Adam Lipscombe,5,2026-06-27,Hampshire Open,0,Last 64,Won,4 V 0,Liam Glister,42893,79.11,73.24,5.87,2004,76
+14385,Adam Lipscombe,6,2026-06-27,Hampshire Open,0,Last 128,Won,4 V 0,Harvey Atkins,47199,87.13,48.55,38.58,2004,69
+14385,Adam Lipscombe,7,2026-06-17,Players Championship,PT,Last 128,Lost,4 V 6,Darius Labanauskas,57,91.38,89.79,1.59,4630,152
+14385,Adam Lipscombe,8,2026-06-16,Players Championship,PT,Last 128,Lost,4 V 6,Tommy Lishman,3086,90.73,87.55,3.18,4748,157
+14385,Adam Lipscombe,9,2026-06-03,Players Championship,PT,Last 64,Lost,3 V 6,Joe Hunt,14283,90.95,90.85,0.1,4214,139
+14385,Adam Lipscombe,10,2026-06-03,Players Championship,PT,Last 128,Won,6 V 4,Dennie Olde Kalter,5162,91.64,94.92,-3.28,4582,150
 23,Brendan Dolan,1,2026-06-17,Players Championship,PT,Last 128,Lost,0 V 6,Mickey Mansell,65,84.33,94.93,-10.6,2530,90
 23,Brendan Dolan,2,2026-06-16,Players Championship,PT,Last 128,Lost,4 V 6,James Hurrell,5190,85.01,85.29,-0.28,4704,166
 23,Brendan Dolan,3,2026-06-03,Players Championship,PT,Last 64,Lost,2 V 6,Jeffrey de Graaf,2092,94.08,99.45,-5.37,3763,120
@@ -749,6 +739,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 47,Ryan Meikle,8,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Christian Kist,2171,81.81,90.63,-8.82,3518,129
 47,Ryan Meikle,9,2026-05-19,Players Championship,PT,Last 128,Lost,3 V 6,Sebastian Bialecki,3038,84.48,92.52,-8.04,4055,144
 47,Ryan Meikle,10,2026-05-18,Players Championship,PT,Last 32,Lost,4 V 6,Robert Owen,51308,92.32,96.14,-3.82,4493,146
+10123,Jimmy van Schie,1,2026-06-28,Oranjebar Fair Tournament,0,Final,Won,6 V 2,Davy van der Zande,5348,89.27,83.98,5.29,3779,127
+10123,Jimmy van Schie,2,2026-06-28,Oranjebar Fair Tournament,0,Semi Final,Won,5 V 1,Kendji Steinbach,22596,84.17,80.74,3.43,2946,105
+10123,Jimmy van Schie,3,2026-06-28,Oranjebar Fair Tournament,0,Quarter Final,Won,4 V 1,Oswin Streden,5775,76.85,70.91,5.94,2408,94
+10123,Jimmy van Schie,4,2026-06-28,Oranjebar Fair Tournament,0,Round Robin,Won,4 V 2,Kelvin Mettler,29685,71.93,69.77,2.16,2877,120
+10123,Jimmy van Schie,5,2026-06-28,Oranjebar Fair Tournament,0,Round Robin,Won,4 V 0,Sander van Bergen,51905,74.22,53.15,21.07,2004,81
+10123,Jimmy van Schie,6,2026-06-28,Oranjebar Fair Tournament,0,Round Robin,Won,4 V 1,Rafael Hardenbol,56838,70.75,56.35,14.4,2500,106
+10123,Jimmy van Schie,7,2026-06-17,Players Championship,PT,Last 64,Lost,1 V 6,Rob Cross,29,83.36,103.43,-20.07,2751,99
+10123,Jimmy van Schie,8,2026-06-17,Players Championship,PT,Last 128,Won,6 V 4,Filip Bereza,46130,84.75,78.11,6.64,4746,168
+10123,Jimmy van Schie,9,2026-06-16,Players Championship,PT,Last 128,Lost,4 V 6,Arno Merk,9975,82.68,88.61,-5.93,4437,161
+10123,Jimmy van Schie,10,2026-06-03,Players Championship,PT,Last 64,Lost,3 V 6,Sebastian Bialecki,3038,86.27,88.05,-1.78,3997,139
 5137,Scott Williams,1,2026-06-17,Players Championship,PT,Last 64,Lost,2 V 6,Gian van Veen,2641,89.28,98.23,-8.95,3482,117
 5137,Scott Williams,2,2026-06-17,Players Championship,PT,Last 128,Won,6 V 3,Owen Bates,14661,89.54,92.63,-3.09,4298,144
 5137,Scott Williams,3,2026-06-16,Players Championship,PT,Last 128,Lost,5 V 6,Stephen Rosney,3057,97.41,93.12,4.29,4968,153
@@ -899,16 +899,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 134,Adam Gawlas,8,2026-06-07,Development Tour,0,Last 16,Won,4 V 3,Ben Townley,47658,93.53,92.24,1.29,3336,107
 134,Adam Gawlas,9,2026-06-07,Development Tour,0,Last 32,Won,4 V 0,Mylo Michiels,28999,91.09,79.1,11.99,2004,66
 134,Adam Gawlas,10,2026-06-07,Development Tour,0,Last 64,Won,4 V 2,Joshua Jones,12666,83.18,80.62,2.56,2856,103
-14661,Owen Bates,1,2026-06-19,European Tour,ET,Last 48 (Premier),Lost,3 V 6,Kevin Doets,2052,90.94,102.49,-11.55,3759,124
-14661,Owen Bates,2,2026-06-17,Players Championship,PT,Last 128,Lost,3 V 6,Scott Williams,5137,92.63,89.54,3.09,4199,136
-14661,Owen Bates,3,2026-06-16,Players Championship,PT,Last 128,Lost,2 V 6,Stephen Bunting,36,97.97,101.73,-3.76,3527,108
-14661,Owen Bates,4,2026-06-07,Development Tour,0,Last 256,Lost,3 V 4,Yorick Hofkens,25319,84.83,83.56,1.27,3054,108
-14661,Owen Bates,5,2026-06-07,Development Tour,0,Last 512,Won,4 V 3,Shane Weeks,16788,79.8,64.55,15.25,3405,128
-14661,Owen Bates,6,2026-06-06,Development Tour,0,Last 128,Lost,1 V 4,Ciaran Forde,26329,92.29,94.09,-1.8,2215,72
-14661,Owen Bates,7,2026-06-06,Development Tour,0,Last 256,Won,4 V 2,Coby Jones-Swanson,2523,87.09,78.45,8.64,2932,101
-14661,Owen Bates,8,2026-06-06,Development Tour,0,Last 256,Lost,1 V 4,Ieuan Halsall,5980,83.15,90.77,-7.62,2245,81
-14661,Owen Bates,9,2026-06-06,Development Tour,0,Last 512,Won,4 V 1,Oliver Smith,54689,76.44,67.37,9.07,2497,98
-14661,Owen Bates,10,2026-06-05,Development Tour,0,Last 16,Lost,2 V 4,Florian Preis,35248,95.34,90.47,4.87,2733,86
 2784,Jurjen van der Velde,1,2026-06-17,Players Championship,PT,Last 64,Lost,4 V 6,Stephen Bunting,36,90.8,92.5,-1.7,4449,147
 2784,Jurjen van der Velde,2,2026-06-17,Players Championship,PT,Last 128,Won,6 V 5,Adam Gawlas,134,92.95,91.87,1.08,5205,168
 2784,Jurjen van der Velde,3,2026-06-16,Players Championship,PT,Last 128,Lost,1 V 6,Niall Culleton,2034,75.78,87.64,-11.86,2930,116
@@ -919,6 +909,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 2784,Jurjen van der Velde,8,2026-06-07,Development Tour,0,Last 128,Won,4 V 0,Wessel Tempelaars,29478,92.49,84.9,7.59,2004,65
 2784,Jurjen van der Velde,9,2026-06-07,Development Tour,0,Last 256,Won,4 V 1,Seppe Dasseville,21049,84.1,67.5,16.6,2495,89
 2784,Jurjen van der Velde,10,2026-06-06,Development Tour,0,Last 32,Lost,3 V 4,Henry Coates,5628,91.39,87.81,3.58,3229,106
+14661,Owen Bates,1,2026-06-27,Hampshire Open,0,Quarter Final,Lost,1 V 4,Adam Lipscombe,14385,85.2,82.3,2.9,2272,80
+14661,Owen Bates,2,2026-06-27,Hampshire Open,0,Last 16,Won,4 V 1,Martin Grearson,6444,81.92,75.56,6.36,2485,91
+14661,Owen Bates,3,2026-06-27,Hampshire Open,0,Last 32,Won,4 V 2,Callum Adams,54922,76.74,73.23,3.51,2916,114
+14661,Owen Bates,4,2026-06-27,Hampshire Open,0,Last 64,Won,4 V 0,Mike Gillet,5355,88.41,74.95,13.46,2004,68
+14661,Owen Bates,5,2026-06-27,Hampshire Open,0,Last 128,Won,4 V 2,Rhys Julian,2966,90.31,82.27,8.04,2920,97
+14661,Owen Bates,6,2026-06-27,Hampshire Open,0,Last 256,Won,4 V 1,Riley Panter,56938,85.06,75.49,9.57,2495,88
+14661,Owen Bates,7,2026-06-19,European Tour,ET,Last 48 (Premier),Lost,3 V 6,Kevin Doets,2052,90.94,102.49,-11.55,3759,124
+14661,Owen Bates,8,2026-06-17,Players Championship,PT,Last 128,Lost,3 V 6,Scott Williams,5137,92.63,89.54,3.09,4199,136
+14661,Owen Bates,9,2026-06-16,Players Championship,PT,Last 128,Lost,2 V 6,Stephen Bunting,36,97.97,101.73,-3.76,3527,108
+14661,Owen Bates,10,2026-06-07,Development Tour,0,Last 256,Lost,3 V 4,Yorick Hofkens,25319,84.83,83.56,1.27,3054,108
 153,Ricardo Pietreczko,1,2026-06-17,Players Championship,PT,Last 128,Lost,5 V 6,Thibault Tricole,5193,84.3,88.01,-3.71,4805,171
 153,Ricardo Pietreczko,2,2026-06-16,Players Championship,PT,Last 32,Lost,4 V 6,Kevin Doets,2052,93.4,94.76,-1.36,4483,144
 153,Ricardo Pietreczko,3,2026-06-16,Players Championship,PT,Last 64,Won,6 V 5,Adam Warner,20667,85.18,89.76,-4.58,4827,170
