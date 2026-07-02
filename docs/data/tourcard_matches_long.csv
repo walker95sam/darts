@@ -2,7 +2,7 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 5403,Luke Littler,1,2026-06-26,World Series of Darts,WS,Final,Lost,7 V 8,Luke Humphries,34,99.5,104.05,-4.55,6799,205
 5403,Luke Littler,2,2026-06-26,World Series of Darts,WS,Semi Final,Won,7 V 4,James Wade,7,97.46,100.26,-2.8,5068,156
 5403,Luke Littler,3,2026-06-26,World Series of Darts,WS,Quarter Final,Won,6 V 1,Jim Long,5147,102.15,89.38,12.77,3337,98
-5403,Luke Littler,4,2026-06-25,World Series of Darts,WS,Last 16,Won,6 V 4,David Cameron,56694,87.84,80.28,7.56,4714,161
+5403,Luke Littler,4,2026-06-25,World Series of Darts,WS,Last 16,Won,6 V 4,Dave Cameron,5157,87.84,80.28,7.56,4714,161
 5403,Luke Littler,5,2026-06-06,World Series of Darts,WS,Semi Final,Lost,5 V 7,Luke Humphries,34,100.85,105.42,-4.57,5177,154
 5403,Luke Littler,6,2026-06-06,World Series of Darts,WS,Quarter Final,Won,6 V 1,James Wade,7,99.27,90.85,8.42,3276,99
 5403,Luke Littler,7,2026-06-05,World Series of Darts,WS,Last 16,Won,6 V 1,Cor Dekker,2046,93.4,80.14,13.26,3487,112
@@ -189,16 +189,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 22,Danny Noppert,8,2026-06-03,Players Championship,PT,Last 32,Won,6 V 4,Jeffrey de Graaf,2092,94.88,101.4,-6.52,4396,139
 22,Danny Noppert,9,2026-06-03,Players Championship,PT,Last 64,Won,6 V 3,Tom Sykes,50760,102.79,102.47,0.32,4043,118
 22,Danny Noppert,10,2026-06-03,Players Championship,PT,Last 128,Won,6 V 2,Cam Crabtree,33021,94.0,81.85,12.15,3948,126
-13,Damon Heta,1,2026-06-20,European Tour,ET,Last 32,Lost,2 V 6,Kevin Doets,2052,89.21,95.1,-5.89,3598,121
-13,Damon Heta,2,2026-06-17,Players Championship,PT,Last 64,Lost,2 V 6,Wesley Plaisier,2273,90.7,90.43,0.27,3749,124
-13,Damon Heta,3,2026-06-17,Players Championship,PT,Last 128,Won,6 V 4,Nathan Potter,2931,93.93,87.3,6.63,4728,151
-13,Damon Heta,4,2026-06-16,Players Championship,PT,Last 32,Lost,5 V 6,Kai Gotthardt,158,96.99,98.47,-1.48,4979,154
-13,Damon Heta,5,2026-06-16,Players Championship,PT,Last 64,Won,6 V 1,Viktor Tingstrom,3094,98.1,95.52,2.58,3499,107
-13,Damon Heta,6,2026-06-16,Players Championship,PT,Last 128,Won,6 V 3,Ricky Evans,45,104.98,96.44,8.54,4374,125
-13,Damon Heta,7,2026-06-03,Players Championship,PT,Last 128,Lost,5 V 6,Oskar Lukasiak,5178,91.09,91.11,-0.02,4949,163
-13,Damon Heta,8,2026-06-02,Players Championship,PT,Last 128,Lost,5 V 6,Marvin van Velzen,2895,96.4,90.63,5.77,5109,159
-13,Damon Heta,9,2026-05-31,European Tour,ET,Semi Final,Lost,6 V 7,Ryan Joyce,28,88.23,94.36,-6.13,5970,203
-13,Damon Heta,10,2026-05-31,European Tour,ET,Quarter Final,Won,6 V 2,Wessel Nijman,130,93.88,93.65,0.23,3849,123
 18,Jermaine Wattimena,1,2026-06-21,European Tour,ET,Quarter Final,Lost,2 V 6,Tom Sykes,50760,84.35,89.28,-4.93,3571,127
 18,Jermaine Wattimena,2,2026-06-21,European Tour,ET,Last 16,Won,6 V 5,Danny Noppert,22,90.25,93.07,-2.82,5024,167
 18,Jermaine Wattimena,3,2026-06-20,European Tour,ET,Last 32,Won,6 V 3,Dave Chisnall,21,93.46,88.81,4.65,4455,143
@@ -209,6 +199,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 18,Jermaine Wattimena,8,2026-06-03,Players Championship,PT,Last 32,Lost,5 V 6,Richard Veenstra,5145,83.38,92.84,-9.46,4697,169
 18,Jermaine Wattimena,9,2026-06-03,Players Championship,PT,Last 64,Won,6 V 5,Jack Aldridge,50862,86.8,86.49,0.31,5237,181
 18,Jermaine Wattimena,10,2026-06-03,Players Championship,PT,Last 128,Won,6 V 4,Stefan Bellmont,1989,90.99,80.59,10.4,4944,163
+13,Damon Heta,1,2026-06-20,European Tour,ET,Last 32,Lost,2 V 6,Kevin Doets,2052,89.21,95.1,-5.89,3598,121
+13,Damon Heta,2,2026-06-17,Players Championship,PT,Last 64,Lost,2 V 6,Wesley Plaisier,2273,90.7,90.43,0.27,3749,124
+13,Damon Heta,3,2026-06-17,Players Championship,PT,Last 128,Won,6 V 4,Nathan Potter,2931,93.93,87.3,6.63,4728,151
+13,Damon Heta,4,2026-06-16,Players Championship,PT,Last 32,Lost,5 V 6,Kai Gotthardt,158,96.99,98.47,-1.48,4979,154
+13,Damon Heta,5,2026-06-16,Players Championship,PT,Last 64,Won,6 V 1,Viktor Tingstrom,3094,98.1,95.52,2.58,3499,107
+13,Damon Heta,6,2026-06-16,Players Championship,PT,Last 128,Won,6 V 3,Ricky Evans,45,104.98,96.44,8.54,4374,125
+13,Damon Heta,7,2026-06-03,Players Championship,PT,Last 128,Lost,5 V 6,Oskar Lukasiak,5178,91.09,91.11,-0.02,4949,163
+13,Damon Heta,8,2026-06-02,Players Championship,PT,Last 128,Lost,5 V 6,Marvin van Velzen,2895,96.4,90.63,5.77,5109,159
+13,Damon Heta,9,2026-05-31,European Tour,ET,Semi Final,Lost,6 V 7,Ryan Joyce,28,88.23,94.36,-6.13,5970,203
+13,Damon Heta,10,2026-05-31,European Tour,ET,Quarter Final,Won,6 V 2,Wessel Nijman,130,93.88,93.65,0.23,3849,123
 12,Krzysztof Ratajski,1,2026-06-20,European Tour,ET,Last 32,Lost,5 V 6,Michael van Gerwen,3,86.18,92.52,-6.34,4855,169
 12,Krzysztof Ratajski,2,2026-06-19,European Tour,ET,Last 48 (Premier),Won,6 V 2,Cristo Reyes,63,94.32,91.01,3.31,3930,125
 12,Krzysztof Ratajski,3,2026-06-17,Players Championship,PT,Last 64,Lost,5 V 6,Tommy Morris,20140,93.35,98.66,-5.31,5010,161
