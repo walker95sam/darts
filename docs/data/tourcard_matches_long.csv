@@ -689,16 +689,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 48,Jeffrey de Zwaan,8,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 5,Nick Kenny,84,94.67,90.35,4.32,5049,160
 48,Jeffrey de Zwaan,9,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Lost,5 V 6,Rhys Griffin,271,83.6,83.9,-0.3,4988,179
 48,Jeffrey de Zwaan,10,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 4,Dennie Olde Kalter,5162,93.71,87.51,6.2,4779,153
-2171,Christian Kist,1,2026-06-17,Players Championship,PT,Last 128,Lost,3 V 6,Maik Kuivenhoven,91,80.11,84.46,-4.35,3952,148
-2171,Christian Kist,2,2026-06-16,Players Championship,PT,Last 64,Lost,4 V 6,Niels Zonneveld,55,93.55,99.35,-5.8,4584,147
-2171,Christian Kist,3,2026-06-16,Players Championship,PT,Last 128,Won,6 V 4,Benjamin Pratnemer,2278,91.69,93.79,-2.1,4707,154
-2171,Christian Kist,4,2026-06-03,Players Championship,PT,Last 128,Lost,1 V 6,Kai Gotthardt,158,80.43,90.97,-10.54,2976,111
-2171,Christian Kist,5,2026-06-02,Players Championship,PT,Last 128,Lost,1 V 6,Sebastian Bialecki,3038,79.47,99.74,-20.27,2702,102
-2171,Christian Kist,6,2026-05-29,European Tour,ET,Last 48 (Premier),Lost,3 V 6,Ryan Joyce,28,81.53,90.16,-8.63,3859,142
-2171,Christian Kist,7,2026-05-23,European Tour,ET,Last 32,Lost,2 V 6,Ryan Joyce,28,87.48,89.12,-1.64,3616,124
-2171,Christian Kist,8,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Lost,4 V 6,Tyler Thorpe,27176,84.07,84.46,-0.39,4764,170
-2171,Christian Kist,9,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 4,Viktor Tingstrom,3094,85.48,80.53,4.95,4787,168
-2171,Christian Kist,10,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Lost,2 V 6,Darius Labanauskas,57,81.72,87.99,-6.27,3732,137
 57,Darius Labanauskas,1,2026-06-17,Players Championship,PT,Last 64,Lost,2 V 6,Jonny Clayton,20,90.5,93.19,-2.69,3771,125
 57,Darius Labanauskas,2,2026-06-17,Players Championship,PT,Last 128,Won,6 V 4,Adam Lipscombe,14385,89.79,91.38,-1.59,4609,154
 57,Darius Labanauskas,3,2026-06-16,Players Championship,PT,Last 32,Lost,4 V 6,Jonny Clayton,20,100.3,101.51,-1.21,4413,132
@@ -709,6 +699,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 57,Darius Labanauskas,8,2026-06-02,Players Championship,PT,Last 128,Lost,4 V 6,Rob Cross,29,89.43,99.08,-9.65,4412,148
 57,Darius Labanauskas,9,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Benjamin Pratnemer,2278,87.65,88.25,-0.6,3769,129
 57,Darius Labanauskas,10,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Won,6 V 2,Christian Kist,2171,87.99,81.72,6.27,3901,133
+2171,Christian Kist,1,2026-06-17,Players Championship,PT,Last 128,Lost,3 V 6,Maik Kuivenhoven,91,80.11,84.46,-4.35,3952,148
+2171,Christian Kist,2,2026-06-16,Players Championship,PT,Last 64,Lost,4 V 6,Niels Zonneveld,55,93.55,99.35,-5.8,4584,147
+2171,Christian Kist,3,2026-06-16,Players Championship,PT,Last 128,Won,6 V 4,Benjamin Pratnemer,2278,91.69,93.79,-2.1,4707,154
+2171,Christian Kist,4,2026-06-03,Players Championship,PT,Last 128,Lost,1 V 6,Kai Gotthardt,158,80.43,90.97,-10.54,2976,111
+2171,Christian Kist,5,2026-06-02,Players Championship,PT,Last 128,Lost,1 V 6,Sebastian Bialecki,3038,79.47,99.74,-20.27,2702,102
+2171,Christian Kist,6,2026-05-29,European Tour,ET,Last 48 (Premier),Lost,3 V 6,Ryan Joyce,28,81.53,90.16,-8.63,3859,142
+2171,Christian Kist,7,2026-05-23,European Tour,ET,Last 32,Lost,2 V 6,Ryan Joyce,28,87.48,89.12,-1.64,3616,124
+2171,Christian Kist,8,2026-05-20,European Tour Card Holder Qualifier,Q,Semi Final,Lost,4 V 6,Tyler Thorpe,27176,84.07,84.46,-0.39,4764,170
+2171,Christian Kist,9,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 4,Viktor Tingstrom,3094,85.48,80.53,4.95,4787,168
+2171,Christian Kist,10,2026-05-20,European Tour Card Holder Qualifier,Q,Final,Lost,2 V 6,Darius Labanauskas,57,81.72,87.99,-6.27,3732,137
 14385,Adam Lipscombe,1,2026-06-27,Hampshire Open,0,Semi Final,Lost,3 V 4,Cam Crabtree,33021,83.86,89.19,-5.33,3047,109
 14385,Adam Lipscombe,2,2026-06-27,Hampshire Open,0,Quarter Final,Won,4 V 1,Owen Bates,14661,82.3,85.2,-2.9,2277,83
 14385,Adam Lipscombe,3,2026-06-27,Hampshire Open,0,Last 16,Won,4 V 0,Marvin Meal,49325,77.08,64.68,12.4,2004,78
