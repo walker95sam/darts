@@ -208,7 +208,7 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 12,Krzysztof Ratajski,7,2026-07-06,Players Championship,PT,Last 32,Lost,5 V 6,Mike De Decker,66,93.18,93.46,-0.28,5218,168
 12,Krzysztof Ratajski,8,2026-07-06,Players Championship,PT,Last 64,Won,6 V 4,Arno Merk,9975,90.48,84.47,6.01,4886,162
 12,Krzysztof Ratajski,9,2026-07-06,Players Championship,PT,Last 128,Won,6 V 0,Jurjen van der Velde,2784,85.08,81.82,3.26,3006,106
-12,Krzysztof Ratajski,10,2026-06-20,European Tour,ET,Last 32,Lost,5 V 6,Michael van Gerwen,3,86.18,92.52,-6.34,4855,169
+12,Krzysztof Ratajski,10,2026-07-04,Polish National Championship Men,0,Final,Won,6 V 5,Sebastian Bialecki,3038,99.06,97.85,1.21,5085,154
 13,Damon Heta,1,2026-07-12,European Tour,ET,Semi Final,Lost,3 V 7,Jermaine Wattimena,18,88.52,86.67,1.85,4662,158
 13,Damon Heta,2,2026-07-12,European Tour,ET,Quarter Final,Won,6 V 2,Dirk van Duijvenbode,14,96.15,90.3,5.85,3846,120
 13,Damon Heta,3,2026-07-12,European Tour,ET,Last 16,Won,6 V 4,Michael van Gerwen,3,100.74,98.32,2.42,4701,140
@@ -1243,12 +1243,12 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 46130,Filip Bereza,2,2026-07-08,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Owen Bates,14661,77.74,81.88,-4.14,4872,188
 46130,Filip Bereza,3,2026-07-07,Players Championship,PT,Last 128,Lost,2 V 6,Ross Smith,26,87.73,103.5,-15.77,3129,107
 46130,Filip Bereza,4,2026-07-06,Players Championship,PT,Last 128,Lost,3 V 6,Cristo Reyes,63,81.3,82.51,-1.21,4336,160
-46130,Filip Bereza,5,2026-06-17,Players Championship,PT,Last 128,Lost,4 V 6,Jimmy van Schie,10123,78.11,84.75,-6.64,4296,165
-46130,Filip Bereza,6,2026-06-16,Players Championship,PT,Last 128,Lost,4 V 6,Stefan Bellmont,1989,84.02,85.09,-1.07,4453,159
-46130,Filip Bereza,7,2026-06-03,Players Championship,PT,Last 128,Lost,3 V 6,Dirk van Duijvenbode,14,84.77,102.34,-17.57,3730,132
-46130,Filip Bereza,8,2026-06-02,Players Championship,PT,Last 128,Lost,1 V 6,Jim Long,5147,74.98,83.21,-8.23,3074,123
-46130,Filip Bereza,9,2026-05-20,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Charlie Manby,5636,87.1,98.44,-11.34,3339,115
-46130,Filip Bereza,10,2026-05-19,Players Championship,PT,Last 128,Lost,1 V 6,Danny Noppert,22,77.87,84.56,-6.69,3063,118
+46130,Filip Bereza,5,2026-07-04,Polish National Championship Men,0,Last 32,Lost,3 V 4,Maciej Luczak,50675,76.37,77.73,-1.36,3182,125
+46130,Filip Bereza,6,2026-07-04,Polish National Championship Men,0,Last 64,Won,4 V 1,Wojciech Strozynski,57692,70.43,69.98,0.45,2465,105
+46130,Filip Bereza,7,2026-06-17,Players Championship,PT,Last 128,Lost,4 V 6,Jimmy van Schie,10123,78.11,84.75,-6.64,4296,165
+46130,Filip Bereza,8,2026-06-16,Players Championship,PT,Last 128,Lost,4 V 6,Stefan Bellmont,1989,84.02,85.09,-1.07,4453,159
+46130,Filip Bereza,9,2026-06-03,Players Championship,PT,Last 128,Lost,3 V 6,Dirk van Duijvenbode,14,84.77,102.34,-17.57,3730,132
+46130,Filip Bereza,10,2026-06-02,Players Championship,PT,Last 128,Lost,1 V 6,Jim Long,5147,74.98,83.21,-8.23,3074,123
 3059,Tavis Dudeney,1,2026-07-08,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Cam Crabtree,33021,69.57,91.78,-22.21,2922,126
 3059,Tavis Dudeney,2,2026-07-08,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,0 V 6,Tom Sykes,50760,62.73,89.29,-26.56,2070,99
 3059,Tavis Dudeney,3,2026-07-07,Players Championship,PT,Last 128,Lost,1 V 6,Stephen Burton,2014,69.92,88.94,-19.02,2657,114
