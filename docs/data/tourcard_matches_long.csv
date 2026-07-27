@@ -1,14 +1,14 @@
 player_key,player_name,match_idx,match_date,tournament,category,round,result,score,opponent,opponent_key,three_dart_average,opponent_avg,perf_vs_opp,points_scored,darts_thrown
-5403,Luke Littler,1,2026-07-25,World Matchplay,MJ,Semi Final,Won,17 V 5,Dirk van Duijvenbode,14,110.88,92.02,18.86,10755,291
-5403,Luke Littler,2,2026-07-23,World Matchplay,MJ,Quarter Final,Won,16 V 7,Josh Rock,20114,109.57,101.24,8.33,11067,303
-5403,Luke Littler,3,2026-07-21,World Matchplay,MJ,Last 16,Won,11 V 8,Nathan Aspinall,8,113.68,101.24,12.44,9170,242
-5403,Luke Littler,4,2026-07-18,World Matchplay,MJ,Last 32,Won,10 V 6,Niko Springer,196,109.53,97.65,11.88,7667,210
-5403,Luke Littler,5,2026-06-26,World Series of Darts,WS,Final,Lost,7 V 8,Luke Humphries,34,99.5,104.05,-4.55,6799,205
-5403,Luke Littler,6,2026-06-26,World Series of Darts,WS,Semi Final,Won,7 V 4,James Wade,7,97.46,100.26,-2.8,5068,156
-5403,Luke Littler,7,2026-06-26,World Series of Darts,WS,Quarter Final,Won,6 V 1,Jim Long,5147,102.15,89.38,12.77,3337,98
-5403,Luke Littler,8,2026-06-25,World Series of Darts,WS,Last 16,Won,6 V 4,Dave Cameron,5157,87.84,80.28,7.56,4714,161
-5403,Luke Littler,9,2026-06-06,World Series of Darts,WS,Semi Final,Lost,5 V 7,Luke Humphries,34,100.85,105.42,-4.57,5177,154
-5403,Luke Littler,10,2026-06-06,World Series of Darts,WS,Quarter Final,Won,6 V 1,James Wade,7,99.27,90.85,8.42,3276,99
+5403,Luke Littler,1,2026-07-26,World Matchplay,MJ,Final,Won,18 V 9,Gerwyn Price,2,111.53,104.97,6.56,12826,345
+5403,Luke Littler,2,2026-07-25,World Matchplay,MJ,Semi Final,Won,17 V 5,Dirk van Duijvenbode,14,110.88,92.02,18.86,10755,291
+5403,Luke Littler,3,2026-07-23,World Matchplay,MJ,Quarter Final,Won,16 V 7,Josh Rock,20114,109.57,101.24,8.33,11067,303
+5403,Luke Littler,4,2026-07-21,World Matchplay,MJ,Last 16,Won,11 V 8,Nathan Aspinall,8,113.68,101.24,12.44,9170,242
+5403,Luke Littler,5,2026-07-18,World Matchplay,MJ,Last 32,Won,10 V 6,Niko Springer,196,109.53,97.65,11.88,7667,210
+5403,Luke Littler,6,2026-06-26,World Series of Darts,WS,Final,Lost,7 V 8,Luke Humphries,34,99.5,104.05,-4.55,6799,205
+5403,Luke Littler,7,2026-06-26,World Series of Darts,WS,Semi Final,Won,7 V 4,James Wade,7,97.46,100.26,-2.8,5068,156
+5403,Luke Littler,8,2026-06-26,World Series of Darts,WS,Quarter Final,Won,6 V 1,Jim Long,5147,102.15,89.38,12.77,3337,98
+5403,Luke Littler,9,2026-06-25,World Series of Darts,WS,Last 16,Won,6 V 4,Dave Cameron,5157,87.84,80.28,7.56,4714,161
+5403,Luke Littler,10,2026-06-06,World Series of Darts,WS,Semi Final,Lost,5 V 7,Luke Humphries,34,100.85,105.42,-4.57,5177,154
 34,Luke Humphries,1,2026-07-20,World Matchplay,MJ,Last 32,Lost,7 V 10,Cameron Menzies,2221,99.56,97.83,1.73,7965,240
 34,Luke Humphries,2,2026-06-26,World Series of Darts,WS,Final,Won,8 V 7,Luke Littler,5403,104.05,99.5,4.55,7145,206
 34,Luke Humphries,3,2026-06-26,World Series of Darts,WS,Semi Final,Won,7 V 6,Gian van Veen,2641,101.57,97.24,4.33,5959,176
@@ -19,16 +19,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 34,Luke Humphries,8,2026-06-06,World Series of Darts,WS,Quarter Final,Won,6 V 5,Gian van Veen,2641,96.39,96.71,-0.32,4980,155
 34,Luke Humphries,9,2026-06-05,World Series of Darts,WS,Last 16,Won,6 V 3,Jeffrey de Graaf,2092,109.92,95.84,14.08,4177,114
 34,Luke Humphries,10,2026-05-28,Premier League,U,Final,Lost,10 V 11,Luke Littler,5403,105.6,111.67,-6.07,9434,268
-2,Gerwyn Price,1,2026-07-25,World Matchplay,MJ,Semi Final,Won,17 V 10,Gian van Veen,2641,96.65,91.62,5.03,13016,404
-2,Gerwyn Price,2,2026-07-24,World Matchplay,MJ,Quarter Final,Won,16 V 12,Ross Smith,26,102.78,98.16,4.62,13087,382
-2,Gerwyn Price,3,2026-07-22,World Matchplay,MJ,Last 16,Won,11 V 5,Rob Cross,29,97.84,93.82,4.02,7697,236
-2,Gerwyn Price,4,2026-07-20,World Matchplay,MJ,Last 32,Won,11 V 9,Martin Schindler,82,93.88,90.69,3.19,9294,297
-2,Gerwyn Price,5,2026-07-06,Players Championship,PT,Last 128,Lost,5 V 6,Harry Ward,103,96.72,92.61,4.11,5223,162
-2,Gerwyn Price,6,2026-06-26,World Series of Darts,WS,Quarter Final,Lost,3 V 6,James Wade,7,103.93,102.07,1.86,4192,121
-2,Gerwyn Price,7,2026-06-25,World Series of Darts,WS,Last 16,Won,6 V 4,Brayden Hall,16686,91.83,78.7,13.13,4928,161
-2,Gerwyn Price,8,2026-06-20,European Tour,ET,Last 32,Lost,2 V 6,Cameron Menzies,2221,96.74,106.0,-9.26,3386,105
-2,Gerwyn Price,9,2026-06-17,Players Championship,PT,Last 64,Lost,5 V 6,Callan Rydz,35,96.71,102.02,-5.31,4900,152
-2,Gerwyn Price,10,2026-06-17,Players Championship,PT,Last 128,Won,6 V 3,Raymond van Barneveld,1982,102.84,96.43,6.41,4285,125
+2,Gerwyn Price,1,2026-07-26,World Matchplay,MJ,Final,Lost,9 V 18,Luke Littler,5403,104.97,111.53,-6.56,11477,328
+2,Gerwyn Price,2,2026-07-25,World Matchplay,MJ,Semi Final,Won,17 V 10,Gian van Veen,2641,96.65,91.62,5.03,13016,404
+2,Gerwyn Price,3,2026-07-24,World Matchplay,MJ,Quarter Final,Won,16 V 12,Ross Smith,26,102.78,98.16,4.62,13087,382
+2,Gerwyn Price,4,2026-07-22,World Matchplay,MJ,Last 16,Won,11 V 5,Rob Cross,29,97.84,93.82,4.02,7697,236
+2,Gerwyn Price,5,2026-07-20,World Matchplay,MJ,Last 32,Won,11 V 9,Martin Schindler,82,93.88,90.69,3.19,9294,297
+2,Gerwyn Price,6,2026-07-06,Players Championship,PT,Last 128,Lost,5 V 6,Harry Ward,103,96.72,92.61,4.11,5223,162
+2,Gerwyn Price,7,2026-06-26,World Series of Darts,WS,Quarter Final,Lost,3 V 6,James Wade,7,103.93,102.07,1.86,4192,121
+2,Gerwyn Price,8,2026-06-25,World Series of Darts,WS,Last 16,Won,6 V 4,Brayden Hall,16686,91.83,78.7,13.13,4928,161
+2,Gerwyn Price,9,2026-06-20,European Tour,ET,Last 32,Lost,2 V 6,Cameron Menzies,2221,96.74,106.0,-9.26,3386,105
+2,Gerwyn Price,10,2026-06-17,Players Championship,PT,Last 64,Lost,5 V 6,Callan Rydz,35,96.71,102.02,-5.31,4900,152
 10,Gary Anderson,1,2026-07-23,World Matchplay,MJ,Quarter Final,Lost,13 V 16,Dirk van Duijvenbode,14,101.32,101.49,-0.17,13206,391
 10,Gary Anderson,2,2026-07-21,World Matchplay,MJ,Last 16,Won,11 V 7,Jonny Clayton,20,98.13,97.72,0.41,8308,254
 10,Gary Anderson,3,2026-07-19,World Matchplay,MJ,Last 32,Won,10 V 2,Ryan Joyce,28,109.96,95.49,14.47,5791,158
