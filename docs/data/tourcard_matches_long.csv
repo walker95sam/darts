@@ -949,6 +949,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 1,Peter Wright,8,2026-07-08,European Tour Card Holder Qualifier,Q,Semi Final,Lost,1 V 6,Lukas Wenig,148,92.0,96.67,-4.67,3128,102
 1,Peter Wright,9,2026-07-08,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 3,Scott Williams,5137,95.98,93.47,2.51,4223,132
 1,Peter Wright,10,2026-07-07,Players Championship,PT,Last 128,Lost,3 V 6,James Hurrell,5190,88.24,91.78,-3.54,4118,140
+20494,Adam Leek,1,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Charlie Manby,5636,90.62,84.02,6.6,5256,174
+20494,Adam Leek,2,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Karel Sedláček,44,84.93,98.57,-13.64,3199,113
+20494,Adam Leek,3,2026-07-29,Players Championship,PT,Last 128,Lost,3 V 6,Richard Veenstra,5145,81.72,93.15,-11.43,3650,134
+20494,Adam Leek,4,2026-07-28,Players Championship,PT,Last 128,Lost,4 V 6,Mervyn King,19,85.89,87.25,-1.36,4638,162
+20494,Adam Leek,5,2026-07-08,European Tour Card Holder Qualifier,Q,Final,Won,6 V 4,Adam Lipscombe,14385,96.42,91.2,5.22,4596,143
+20494,Adam Leek,6,2026-07-08,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 5,Mervyn King,19,93.4,89.25,4.15,5355,172
+20494,Adam Leek,7,2026-07-08,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 1,Dominik Gruellich,254,100.11,92.33,7.78,3437,103
+20494,Adam Leek,8,2026-07-08,European Tour Card Holder Qualifier,Q,Last 16,Won,6 V 1,Viktor Tingstrom,3094,94.73,80.69,14.04,3347,106
+20494,Adam Leek,9,2026-07-08,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,0 V 6,Connor Scutt,2317,97.04,99.1,-2.06,2717,84
+20494,Adam Leek,10,2026-07-07,Players Championship,PT,Last 128,Lost,4 V 6,Harry Ward,103,83.21,87.08,-3.87,4438,160
 84,Nick Kenny,1,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,0 V 6,Sietse Lap,24689,69.65,85.08,-15.43,2368,102
 84,Nick Kenny,2,2026-07-30,European Tour Card Holder Qualifier,Q,Final,Lost,3 V 6,Mario Vandenbogaerde,2363,80.86,87.91,-7.05,3989,148
 84,Nick Kenny,3,2026-07-30,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 5,Cam Crabtree,33021,90.54,92.53,-1.99,5010,166
@@ -969,16 +979,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 24689,Sietse Lap,8,2026-07-28,Players Championship,PT,Last 32,Won,6 V 5,Benjamin Pratnemer,2278,83.73,88.84,-5.11,4884,175
 24689,Sietse Lap,9,2026-07-28,Players Championship,PT,Last 64,Won,6 V 0,Oliver Mitchell,40163,77.08,67.24,9.84,3006,117
 24689,Sietse Lap,10,2026-07-28,Players Championship,PT,Last 128,Won,6 V 3,Dirk van Duijvenbode,14,93.61,95.24,-1.63,4306,138
-20494,Adam Leek,1,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Charlie Manby,5636,90.62,84.02,6.6,5256,174
-20494,Adam Leek,2,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Karel Sedláček,44,84.93,98.57,-13.64,3199,113
-20494,Adam Leek,3,2026-07-29,Players Championship,PT,Last 128,Lost,3 V 6,Richard Veenstra,5145,81.72,93.15,-11.43,3650,134
-20494,Adam Leek,4,2026-07-28,Players Championship,PT,Last 128,Lost,4 V 6,Mervyn King,19,85.89,87.25,-1.36,4638,162
-20494,Adam Leek,5,2026-07-08,European Tour Card Holder Qualifier,Q,Final,Won,6 V 4,Adam Lipscombe,14385,96.42,91.2,5.22,4596,143
-20494,Adam Leek,6,2026-07-08,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 5,Mervyn King,19,93.4,89.25,4.15,5355,172
-20494,Adam Leek,7,2026-07-08,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 1,Dominik Gruellich,254,100.11,92.33,7.78,3437,103
-20494,Adam Leek,8,2026-07-08,European Tour Card Holder Qualifier,Q,Last 16,Won,6 V 1,Viktor Tingstrom,3094,94.73,80.69,14.04,3347,106
-20494,Adam Leek,9,2026-07-08,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,0 V 6,Connor Scutt,2317,97.04,99.1,-2.06,2717,84
-20494,Adam Leek,10,2026-07-07,Players Championship,PT,Last 128,Lost,4 V 6,Harry Ward,103,83.21,87.08,-3.87,4438,160
 14661,Owen Bates,1,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Andy Boulton,33,84.33,89.23,-4.9,3570,127
 14661,Owen Bates,2,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,4 V 6,Tom Bissell,46158,92.22,98.67,-6.45,4242,138
 14661,Owen Bates,3,2026-07-30,European Tour Card Holder Qualifier,Q,Last 16,Won,6 V 3,Beau Greaves,138,90.84,82.46,8.38,4451,147
