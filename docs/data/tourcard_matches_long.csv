@@ -859,16 +859,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 3057,Stephen Rosney,8,2026-07-08,European Tour Card Holder Qualifier,Q,Semi Final,Lost,4 V 6,Callan Rydz,35,87.99,93.94,-5.95,4429,151
 3057,Stephen Rosney,9,2026-07-08,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 1,James Hurrell,5190,93.08,84.37,8.71,3382,109
 3057,Stephen Rosney,10,2026-07-07,Players Championship,PT,Last 128,Lost,4 V 6,Mensur Suljović,9,94.77,99.9,-5.13,4486,142
-33,Andy Boulton,1,2026-07-30,European Tour Card Holder Qualifier,Q,Semi Final,Lost,4 V 6,Raymond van Barneveld,1982,85.83,88.03,-2.2,4635,162
-33,Andy Boulton,2,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Owen Bates,14661,89.23,84.33,4.9,3926,132
-33,Andy Boulton,3,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Stephen Burton,2014,92.87,93.99,-1.12,3591,116
-33,Andy Boulton,4,2026-07-29,Players Championship,PT,Last 64,Lost,0 V 6,Cristo Reyes,63,81.3,99.1,-17.8,2439,90
-33,Andy Boulton,5,2026-07-29,Players Championship,PT,Last 128,Won,6 V 4,Sietse Lap,24689,88.69,90.76,-2.07,4671,158
-33,Andy Boulton,6,2026-07-28,Players Championship,PT,Last 128,Lost,4 V 6,Christian Kist,2171,86.83,90.99,-4.16,4486,155
-33,Andy Boulton,7,2026-07-08,European Tour Card Holder Qualifier,Q,Last 16,Lost,4 V 6,Beau Greaves,138,93.75,100.24,-6.49,4125,132
-33,Andy Boulton,8,2026-07-08,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Rusty-Jake Rodriguez,131,90.14,84.93,5.21,3846,128
-33,Andy Boulton,9,2026-07-07,Players Championship,PT,Last 128,Lost,5 V 6,Cristo Reyes,63,90.32,94.04,-3.72,5088,169
-33,Andy Boulton,10,2026-07-06,Players Championship,PT,Last 32,Lost,5 V 6,Yorick Hofkens,25319,88.5,87.92,0.58,5015,170
 5193,Thibault Tricole,1,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,0 V 6,Ryan Meikle,47,76.68,92.02,-15.34,2377,93
 5193,Thibault Tricole,2,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,4 V 6,Scott Williams,5137,82.67,90.34,-7.67,4354,158
 5193,Thibault Tricole,3,2026-07-29,Players Championship,PT,Last 128,Lost,1 V 6,Cor Dekker,2046,78.73,92.41,-13.68,2808,107
@@ -879,6 +869,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 5193,Thibault Tricole,8,2026-07-08,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 5,Mervyn King,19,88.81,88.54,0.27,5151,174
 5193,Thibault Tricole,9,2026-07-08,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 3,Darryl Pilgrim,5185,94.95,89.8,5.15,4146,131
 5193,Thibault Tricole,10,2026-07-07,Players Championship,PT,Last 128,Lost,5 V 6,Luke Woodhouse,70,85.29,92.11,-6.82,4975,175
+33,Andy Boulton,1,2026-07-30,European Tour Card Holder Qualifier,Q,Semi Final,Lost,4 V 6,Raymond van Barneveld,1982,85.83,88.03,-2.2,4635,162
+33,Andy Boulton,2,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Owen Bates,14661,89.23,84.33,4.9,3926,132
+33,Andy Boulton,3,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Stephen Burton,2014,92.87,93.99,-1.12,3591,116
+33,Andy Boulton,4,2026-07-29,Players Championship,PT,Last 64,Lost,0 V 6,Cristo Reyes,63,81.3,99.1,-17.8,2439,90
+33,Andy Boulton,5,2026-07-29,Players Championship,PT,Last 128,Won,6 V 4,Sietse Lap,24689,88.69,90.76,-2.07,4671,158
+33,Andy Boulton,6,2026-07-28,Players Championship,PT,Last 128,Lost,4 V 6,Christian Kist,2171,86.83,90.99,-4.16,4486,155
+33,Andy Boulton,7,2026-07-08,European Tour Card Holder Qualifier,Q,Last 16,Lost,4 V 6,Beau Greaves,138,93.75,100.24,-6.49,4125,132
+33,Andy Boulton,8,2026-07-08,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Rusty-Jake Rodriguez,131,90.14,84.93,5.21,3846,128
+33,Andy Boulton,9,2026-07-07,Players Championship,PT,Last 128,Lost,5 V 6,Cristo Reyes,63,90.32,94.04,-3.72,5088,169
+33,Andy Boulton,10,2026-07-06,Players Championship,PT,Last 32,Lost,5 V 6,Yorick Hofkens,25319,88.5,87.92,0.58,5015,170
 153,Ricardo Pietreczko,1,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,3 V 6,Mensur Suljović,9,92.06,98.22,-6.16,3805,124
 153,Ricardo Pietreczko,2,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Ryan Meikle,47,93.11,87.83,5.28,5183,167
 153,Ricardo Pietreczko,3,2026-07-29,Players Championship,PT,Last 64,Lost,2 V 6,Ritchie Edhouse,2062,87.19,95.54,-8.35,3633,125
