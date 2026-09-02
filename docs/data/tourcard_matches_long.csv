@@ -1009,16 +1009,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 2784,Jurjen van der Velde,8,2026-08-01,Development Tour,0,Last 64,Lost,3 V 4,Nathan Potter,2931,77.01,86.43,-9.42,3106,121
 2784,Jurjen van der Velde,9,2026-08-01,Development Tour,0,Last 128,Won,4 V 1,Jamie Tilley,16995,78.98,73.17,5.81,2501,95
 2784,Jurjen van der Velde,10,2026-08-01,Development Tour,0,Last 256,Won,4 V 1,Nicolas Lauwereins,49792,79.77,54.3,25.47,2473,93
-5147,Jim Long,1,2026-08-26,Players Championship,PT,Last 128,Lost,1 V 6,Luke Woodhouse,70,86.82,97.96,-11.14,2894,100
-5147,Jim Long,2,2026-08-25,Players Championship,PT,Last 128,Lost,2 V 6,Oskar Lukasiak,5178,88.51,94.01,-5.5,3688,125
-5147,Jim Long,3,2026-07-30,European Tour Card Holder Qualifier,Q,Final,Won,6 V 1,Charlie Manby,5636,92.95,87.29,5.66,3501,113
-5147,Jim Long,4,2026-07-30,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 3,Viktor Tingstrom,3094,92.96,90.41,2.55,4369,141
-5147,Jim Long,5,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 1,Yorick Hofkens,25319,89.82,79.91,9.91,3503,117
-5147,Jim Long,6,2026-07-30,European Tour Card Holder Qualifier,Q,Last 16,Won,6 V 5,Tytus Kanik,2167,92.25,95.19,-2.94,5043,164
-5147,Jim Long,7,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,1 V 6,Cristo Reyes,63,89.74,99.17,-9.43,3051,102
-5147,Jim Long,8,2026-07-29,Players Championship,PT,Last 128,Lost,4 V 6,Peter Wright,1,93.82,87.25,6.57,4785,153
-5147,Jim Long,9,2026-07-28,Players Championship,PT,Last 16,Lost,5 V 6,Christian Kist,2171,82.64,90.09,-7.45,4683,170
-5147,Jim Long,10,2026-07-28,Players Championship,PT,Last 32,Won,6 V 1,Mickey Mansell,65,78.45,76.13,2.32,3347,128
 24822,Pascal Rupprecht,1,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Peter Wright,1,72.46,80.82,-8.36,3478,144
 24822,Pascal Rupprecht,2,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,1 V 6,Oskar Lukasiak,5178,86.13,93.59,-7.46,2986,104
 24822,Pascal Rupprecht,3,2026-07-29,Players Championship,PT,Last 128,Lost,4 V 6,Mensur Suljović,9,92.71,97.64,-4.93,4419,143
@@ -1039,6 +1029,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 20667,Adam Warner,8,2026-07-08,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Adam Lipscombe,14385,82.61,85.52,-2.91,5122,186
 20667,Adam Warner,9,2026-07-08,European Tour Card Holder Qualifier,Q,Semi Final,Lost,4 V 6,David Sharp,6682,86.44,84.71,1.73,4754,165
 20667,Adam Warner,10,2026-07-08,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 4,Jimmy van Schie,10123,85.27,82.06,3.21,4690,165
+5147,Jim Long,1,2026-08-30,CDC Pro Tour,0,Last 16,Lost,1 V 3,Kevin Luke,5657,84.02,86.78,-2.76,4957,177
+5147,Jim Long,2,2026-08-30,CDC Pro Tour,0,Last 32,Won,3 V 0,James Stathopoulos,5709,89.29,79.25,10.04,3006,101
+5147,Jim Long,3,2026-08-30,CDC Pro Tour,0,Last 64,Won,3 V 0,Glen Richard,23634,86.71,70.79,15.92,3006,104
+5147,Jim Long,4,2026-08-29,CDC Pro Tour,0,Last 32,Lost,4 V 5,Kevin Luke,5657,89.65,90.61,-0.96,4094,137
+5147,Jim Long,5,2026-08-29,CDC Pro Tour,0,Last 64,Won,5 V 1,Edward Pope,29154,77.12,70.63,6.49,2982,116
+5147,Jim Long,6,2026-08-29,CDC Pro Tour,0,Last 16,Lost,3 V 6,Jason Watt,13740,82.37,92.11,-9.74,3679,134
+5147,Jim Long,7,2026-08-29,CDC Pro Tour,0,Last 32,Won,5 V 2,Justin Fawcett,5533,80.9,65.76,15.14,3398,126
+5147,Jim Long,8,2026-08-29,CDC Pro Tour,0,Last 64,Won,5 V 2,BJ (William) Pollock,55463,85.11,79.47,5.64,3376,119
+5147,Jim Long,9,2026-08-26,Players Championship,PT,Last 128,Lost,1 V 6,Luke Woodhouse,70,86.82,97.96,-11.14,2894,100
+5147,Jim Long,10,2026-08-25,Players Championship,PT,Last 128,Lost,2 V 6,Oskar Lukasiak,5178,88.51,94.01,-5.5,3688,125
 5172,Jeffrey Sparidaans,1,2026-08-26,Players Championship,PT,Last 128,Lost,4 V 6,Ryan Joyce,28,88.17,91.07,-2.9,4673,159
 5172,Jeffrey Sparidaans,2,2026-08-25,Players Championship,PT,Last 32,Lost,3 V 6,Kim Huybrechts,51,81.02,92.51,-11.49,3862,143
 5172,Jeffrey Sparidaans,3,2026-08-25,Players Championship,PT,Last 64,Won,6 V 1,David Sharp,6682,91.63,86.13,5.5,3482,114
