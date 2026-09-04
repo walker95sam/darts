@@ -899,16 +899,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 20494,Adam Leek,8,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Karel Sedláček,44,84.93,98.57,-13.64,3199,113
 20494,Adam Leek,9,2026-07-29,Players Championship,PT,Last 128,Lost,3 V 6,Richard Veenstra,5145,81.72,93.15,-11.43,3650,134
 20494,Adam Leek,10,2026-07-28,Players Championship,PT,Last 128,Lost,4 V 6,Mervyn King,19,85.89,87.25,-1.36,4638,162
-134,Adam Gawlas,1,2026-08-26,Players Championship,PT,Last 128,Lost,5 V 6,William O&#039;Connor,30,83.73,87.73,-4.0,5052,181
-134,Adam Gawlas,2,2026-08-25,Players Championship,PT,Last 32,Lost,5 V 6,Ryan Searle,31,92.15,98.87,-6.72,4884,159
-134,Adam Gawlas,3,2026-08-25,Players Championship,PT,Last 64,Won,6 V 5,Dave Chisnall,21,92.0,88.4,3.6,5152,168
-134,Adam Gawlas,4,2026-08-25,Players Championship,PT,Last 128,Won,6 V 2,Ian White,17,90.76,85.39,5.37,3963,131
-134,Adam Gawlas,5,2026-08-24,World Series Finals Tour Card Qualifier,Q,Last 16,Lost,4 V 6,Maik Kuivenhoven,91,91.07,86.72,4.35,4766,157
-134,Adam Gawlas,6,2026-08-24,World Series Finals Tour Card Qualifier,Q,Last 32,Won,6 V 3,Beau Greaves,138,95.48,91.29,4.19,4424,139
-134,Adam Gawlas,7,2026-08-02,Development Tour,0,Last 64,Lost,3 V 4,Daan Beernink,28571,86.66,84.74,1.92,3351,116
-134,Adam Gawlas,8,2026-08-02,Development Tour,0,Last 128,Won,4 V 1,Patrick Hanel,28608,68.83,58.5,10.33,2501,109
-134,Adam Gawlas,9,2026-08-02,Development Tour,0,Last 256,Won,4 V 0,Bartek Poplawski,58524,63.96,43.81,20.15,2004,94
-134,Adam Gawlas,10,2026-08-01,Development Tour,0,Last 128,Lost,2 V 4,Harrison Leigh,21041,85.9,92.41,-6.51,2577,90
 1,Peter Wright,1,2026-08-26,Players Championship,PT,Last 128,Lost,4 V 6,Jeffrey de Graaf,2092,98.12,91.43,6.69,4808,147
 1,Peter Wright,2,2026-08-25,Players Championship,PT,Last 32,Lost,5 V 6,Krzysztof Ratajski,12,91.39,90.58,0.81,5118,168
 1,Peter Wright,3,2026-08-25,Players Championship,PT,Last 64,Won,6 V 5,Gabriel Clemens,38,97.03,99.92,-2.89,5175,160
@@ -919,6 +909,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 1,Peter Wright,8,2026-07-30,European Tour Card Holder Qualifier,Q,Semi Final,Lost,3 V 6,Charlie Manby,5636,87.23,100.43,-13.2,3780,130
 1,Peter Wright,9,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Pascal Rupprecht,24822,80.82,72.46,8.36,3960,147
 1,Peter Wright,10,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Rhys Griffin,271,79.57,79.93,-0.36,5172,195
+134,Adam Gawlas,1,2026-09-03,European Tour Home Nation Qualifier,Q,Final,Won,6 V 2,David Pisek,5291,82.78,75.45,7.33,3725,135
+134,Adam Gawlas,2,2026-09-03,European Tour Home Nation Qualifier,Q,Semi Final,Won,6 V 4,Dominik Moravcik,32678,80.29,76.25,4.04,4871,182
+134,Adam Gawlas,3,2026-09-03,European Tour Home Nation Qualifier,Q,Quarter Final,Won,6 V 0,Martin Chvojka,50705,89.29,67.97,21.32,3006,101
+134,Adam Gawlas,4,2026-09-03,European Tour Home Nation Qualifier,Q,Last 16,Won,6 V 2,Marek Kiss,49317,86.82,79.11,7.71,3936,136
+134,Adam Gawlas,5,2026-08-26,Players Championship,PT,Last 128,Lost,5 V 6,William O&#039;Connor,30,83.73,87.73,-4.0,5052,181
+134,Adam Gawlas,6,2026-08-25,Players Championship,PT,Last 32,Lost,5 V 6,Ryan Searle,31,92.15,98.87,-6.72,4884,159
+134,Adam Gawlas,7,2026-08-25,Players Championship,PT,Last 64,Won,6 V 5,Dave Chisnall,21,92.0,88.4,3.6,5152,168
+134,Adam Gawlas,8,2026-08-25,Players Championship,PT,Last 128,Won,6 V 2,Ian White,17,90.76,85.39,5.37,3963,131
+134,Adam Gawlas,9,2026-08-24,World Series Finals Tour Card Qualifier,Q,Last 16,Lost,4 V 6,Maik Kuivenhoven,91,91.07,86.72,4.35,4766,157
+134,Adam Gawlas,10,2026-08-24,World Series Finals Tour Card Qualifier,Q,Last 32,Won,6 V 3,Beau Greaves,138,95.48,91.29,4.19,4424,139
 14661,Owen Bates,1,2026-08-26,Players Championship,PT,Quarter Final,Lost,4 V 6,Luke Humphries,34,90.08,92.88,-2.8,4654,155
 14661,Owen Bates,2,2026-08-26,Players Championship,PT,Last 16,Won,6 V 1,Justin Hood,2138,103.57,94.28,9.29,3487,101
 14661,Owen Bates,3,2026-08-26,Players Championship,PT,Last 32,Won,6 V 5,Wessel Nijman,130,85.57,87.31,-1.74,4906,172
