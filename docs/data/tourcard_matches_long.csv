@@ -630,7 +630,7 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 5,Michael Smith,9,2026-08-24,World Series Finals Tour Card Qualifier,Q,Quarter Final,Lost,5 V 6,Justin Hood,2138,93.91,102.2,-8.29,4852,155
 5,Michael Smith,10,2026-08-24,World Series Finals Tour Card Qualifier,Q,Last 16,Won,6 V 3,Leon Weber,32046,84.0,67.42,16.58,4340,155
 6682,David Sharp,1,2026-09-24,European Tour Card Holder Qualifier,Q,Final,Lost,4 V 6,Michael Smith,5,95.72,95.13,0.59,4754,149
-6682,David Sharp,2,2026-09-24,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 3,Pero Ljubic,62642,101.4,87.0,14.4,4428,131
+6682,David Sharp,2,2026-09-24,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 3,Pero Ljubić,2192,101.4,87.0,14.4,4428,131
 6682,David Sharp,3,2026-09-24,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 3,Adam Lipscombe,14385,84.53,89.49,-4.96,3973,141
 6682,David Sharp,4,2026-09-23,Players Championship,PT,Last 128,Lost,3 V 6,Wessel Nijman,130,90.81,102.98,-12.17,3814,126
 6682,David Sharp,5,2026-09-22,Players Championship,PT,Last 128,Lost,2 V 6,Tom Bissell,46158,85.83,87.86,-2.03,3662,128
@@ -961,7 +961,7 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 84,Nick Kenny,10,2026-08-25,Players Championship,PT,Last 128,Won,6 V 5,Michael van Gerwen,3,84.76,88.78,-4.02,5029,178
 27176,Tyler Thorpe,1,2026-09-24,European Tour Card Holder Qualifier,Q,Final,Lost,2 V 6,Mickey Mansell,65,87.52,105.24,-17.72,3209,110
 27176,Tyler Thorpe,2,2026-09-24,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 3,Carl Sneyd,23238,91.01,88.54,2.47,4217,139
-27176,Tyler Thorpe,3,2026-09-24,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 5,Rob Owen,62644,87.55,86.68,0.87,5224,179
+27176,Tyler Thorpe,3,2026-09-24,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 5,Robert Owen,51308,87.55,86.68,0.87,5224,179
 27176,Tyler Thorpe,4,2026-09-23,Players Championship,PT,Last 64,Lost,2 V 6,Raymond van Barneveld,1982,87.14,91.98,-4.84,3776,130
 27176,Tyler Thorpe,5,2026-09-23,Players Championship,PT,Last 128,Won,6 V 4,Daryl Gurney,24,85.2,85.52,-0.32,4686,165
 27176,Tyler Thorpe,6,2026-09-22,Players Championship,PT,Last 128,Lost,4 V 6,Connor Scutt,2317,84.79,93.02,-8.23,4183,148
@@ -989,7 +989,7 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 271,Rhys Griffin,8,2026-07-30,European Tour Card Holder Qualifier,Q,Semi Final,Lost,3 V 6,Darryl Pilgrim,5185,88.29,91.98,-3.69,4091,139
 271,Rhys Griffin,9,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 5,Peter Wright,1,79.93,79.57,0.36,5302,199
 271,Rhys Griffin,10,2026-07-29,Players Championship,PT,Last 128,Lost,4 V 6,Yorick Hofkens,25319,84.67,86.43,-1.76,4572,162
-9975,Arno Merk,1,2026-09-24,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,4 V 6,Pero Ljubic,62642,85.99,79.07,6.92,4787,167
+9975,Arno Merk,1,2026-09-24,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,4 V 6,Pero Ljubić,2192,85.99,79.07,6.92,4787,167
 9975,Arno Merk,2,2026-09-23,Players Championship,PT,Last 64,Lost,1 V 6,Chris Dobey,39,79.0,92.78,-13.78,2686,102
 9975,Arno Merk,3,2026-09-23,Players Championship,PT,Last 128,Won,6 V 5,Christian Kist,2171,78.98,91.48,-12.5,4528,172
 9975,Arno Merk,4,2026-09-22,Players Championship,PT,Last 128,Lost,2 V 6,Jim Long,5147,82.2,90.05,-7.85,3507,128
@@ -1070,7 +1070,7 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 5178,Oskar Lukasiak,9,2026-08-25,Players Championship,PT,Last 64,Lost,2 V 6,Luke Woodhouse,70,91.14,97.15,-6.01,3524,116
 5178,Oskar Lukasiak,10,2026-08-25,Players Championship,PT,Last 128,Won,6 V 2,Jim Long,5147,94.01,88.51,5.5,3917,125
 2295,Greg Ritchie,1,2026-09-24,European Tour Card Holder Qualifier,Q,Semi Final,Lost,4 V 6,Keane Barry,129,81.85,91.54,-9.69,4311,158
-2295,Greg Ritchie,2,2026-09-24,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 5,Samuel Price,62643,82.88,80.97,1.91,5083,184
+2295,Greg Ritchie,2,2026-09-24,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 5,Sam Price,22829,82.88,80.97,1.91,5083,184
 2295,Greg Ritchie,3,2026-09-23,Players Championship,PT,Last 128,Lost,4 V 6,Richard Veenstra,5145,90.34,87.04,3.3,4818,160
 2295,Greg Ritchie,4,2026-09-22,Players Championship,PT,Last 64,Lost,4 V 6,William O&#039;Connor,30,88.93,97.47,-8.54,4387,148
 2295,Greg Ritchie,5,2026-09-22,Players Championship,PT,Last 128,Won,6 V 5,Florian Preis,35248,79.26,78.85,0.41,5231,198
@@ -1169,16 +1169,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 2417,Adam Paxton,8,2026-08-26,Players Championship,PT,Last 128,Won,6 V 5,Adam Lipscombe,14385,80.23,81.9,-1.67,5215,195
 2417,Adam Paxton,9,2026-08-25,Players Championship,PT,Last 64,Lost,1 V 6,Nathan Aspinall,8,81.81,95.34,-13.53,2727,100
 2417,Adam Paxton,10,2026-08-25,Players Championship,PT,Last 128,Won,6 V 5,Madars Razma,42,86.76,88.51,-1.75,5090,176
-22829,Sam Price,1,2026-09-23,Players Championship,PT,Last 128,Lost,2 V 6,Marvin van Velzen,2895,73.4,98.78,-25.38,2936,120
-22829,Sam Price,2,2026-09-22,Players Championship,PT,Last 128,Lost,4 V 6,Gabriel Clemens,38,81.58,81.13,0.45,4786,176
-22829,Sam Price,3,2026-08-28,European Tour,ET,Last 48 (Premier),Lost,2 V 6,William O&#039;Connor,30,89.45,97.1,-7.65,3429,115
-22829,Sam Price,4,2026-08-26,Players Championship,PT,Last 64,Lost,1 V 6,Mike De Decker,66,84.91,90.65,-5.74,3170,112
-22829,Sam Price,5,2026-08-26,Players Championship,PT,Last 128,Won,6 V 5,Kai Gotthardt,158,88.73,83.41,5.32,5294,179
-22829,Sam Price,6,2026-08-25,Players Championship,PT,Last 128,Lost,3 V 6,Derek Coulson,5415,84.6,90.93,-6.33,3779,134
-22829,Sam Price,7,2026-08-24,World Series Finals Tour Card Qualifier,Q,Last 32,Lost,1 V 6,Stefan Bellmont,1989,81.28,84.6,-3.32,3224,119
-22829,Sam Price,8,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Raymond van Barneveld,1982,67.31,86.47,-19.16,3029,135
-22829,Sam Price,9,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,0 V 6,Lukas Wenig,148,64.21,100.2,-35.99,1862,87
-22829,Sam Price,10,2026-07-29,Players Championship,PT,Last 128,Lost,2 V 6,Christian Kist,2171,72.19,82.1,-9.91,3417,142
+22829,Sam Price,1,2026-09-24,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,5 V 6,Greg Ritchie,2295,80.97,82.88,-1.91,4885,181
+22829,Sam Price,2,2026-09-23,Players Championship,PT,Last 128,Lost,2 V 6,Marvin van Velzen,2895,73.4,98.78,-25.38,2936,120
+22829,Sam Price,3,2026-09-22,Players Championship,PT,Last 128,Lost,4 V 6,Gabriel Clemens,38,81.58,81.13,0.45,4786,176
+22829,Sam Price,4,2026-08-28,European Tour,ET,Last 48 (Premier),Lost,2 V 6,William O&#039;Connor,30,89.45,97.1,-7.65,3429,115
+22829,Sam Price,5,2026-08-26,Players Championship,PT,Last 64,Lost,1 V 6,Mike De Decker,66,84.91,90.65,-5.74,3170,112
+22829,Sam Price,6,2026-08-26,Players Championship,PT,Last 128,Won,6 V 5,Kai Gotthardt,158,88.73,83.41,5.32,5294,179
+22829,Sam Price,7,2026-08-25,Players Championship,PT,Last 128,Lost,3 V 6,Derek Coulson,5415,84.6,90.93,-6.33,3779,134
+22829,Sam Price,8,2026-08-24,World Series Finals Tour Card Qualifier,Q,Last 32,Lost,1 V 6,Stefan Bellmont,1989,81.28,84.6,-3.32,3224,119
+22829,Sam Price,9,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,2 V 6,Raymond van Barneveld,1982,67.31,86.47,-19.16,3029,135
+22829,Sam Price,10,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,0 V 6,Lukas Wenig,148,64.21,100.2,-35.99,1862,87
 2895,Marvin van Velzen,1,2026-09-23,Players Championship,PT,Last 64,Lost,4 V 6,Jermaine Wattimena,18,95.98,103.74,-7.76,4255,133
 2895,Marvin van Velzen,2,2026-09-23,Players Championship,PT,Last 128,Won,6 V 2,Sam Price,22829,98.78,73.4,25.38,3984,121
 2895,Marvin van Velzen,3,2026-09-22,Players Championship,PT,Last 128,Lost,1 V 6,Lewis Pride,2280,90.97,100.53,-9.56,3093,102
@@ -1259,13 +1259,13 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 3059,Tavis Dudeney,8,2026-07-30,European Tour Card Holder Qualifier,Q,Last 16,Lost,3 V 6,Chris Landman,5183,77.34,78.93,-1.59,4125,160
 3059,Tavis Dudeney,9,2026-07-29,Players Championship,PT,Last 128,Lost,0 V 6,Cristo Reyes,63,80.16,92.02,-11.86,2565,96
 3059,Tavis Dudeney,10,2026-07-28,Players Championship,PT,Last 64,Lost,3 V 6,Joe Hunt,14283,83.38,88.9,-5.52,4030,145
-2192,Pero Ljubić,1,2026-09-23,Players Championship,PT,Last 128,Lost,1 V 6,Archie Self,16467,77.37,87.5,-10.13,2940,114
-2192,Pero Ljubić,2,2026-09-22,Players Championship,PT,Last 128,Lost,1 V 6,Archie Self,16467,85.68,98.28,-12.6,2913,102
-2192,Pero Ljubić,3,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,0 V 6,Justin Hood,2138,73.49,82.73,-9.24,2572,105
-2192,Pero Ljubić,4,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,3 V 6,Jeffrey Sparidaans,5172,77.11,77.3,-0.19,4138,161
-2192,Pero Ljubić,5,2026-07-29,Players Championship,PT,Last 128,Lost,2 V 6,Wessel Nijman,130,81.65,94.39,-12.74,3266,120
-2192,Pero Ljubić,6,2026-07-28,Players Championship,PT,Last 128,Lost,0 V 6,Cristo Reyes,63,84.27,96.97,-12.7,2528,90
-2192,Pero Ljubić,7,2026-07-08,European Tour Card Holder Qualifier,Q,Semi Final,Lost,4 V 6,Tom Sykes,50760,72.91,89.52,-16.61,3986,164
-2192,Pero Ljubić,8,2026-07-08,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 5,Scott Williams,5137,78.47,86.51,-8.04,5022,192
-2192,Pero Ljubić,9,2026-07-08,European Tour Card Holder Qualifier,Q,Last 16,Lost,2 V 6,David Sharp,6682,82.9,91.3,-8.4,3482,126
-2192,Pero Ljubić,10,2026-07-07,Players Championship,PT,Last 128,Lost,1 V 6,William O&#039;Connor,30,75.25,86.87,-11.62,2985,119
+2192,Pero Ljubić,1,2026-09-24,European Tour Card Holder Qualifier,Q,Semi Final,Lost,3 V 6,David Sharp,6682,87.0,101.4,-14.4,3857,133
+2192,Pero Ljubić,2,2026-09-24,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 4,Arno Merk,9975,79.07,85.99,-6.92,4507,171
+2192,Pero Ljubić,3,2026-09-23,Players Championship,PT,Last 128,Lost,1 V 6,Archie Self,16467,77.37,87.5,-10.13,2940,114
+2192,Pero Ljubić,4,2026-09-22,Players Championship,PT,Last 128,Lost,1 V 6,Archie Self,16467,85.68,98.28,-12.6,2913,102
+2192,Pero Ljubić,5,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,0 V 6,Justin Hood,2138,73.49,82.73,-9.24,2572,105
+2192,Pero Ljubić,6,2026-07-30,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,3 V 6,Jeffrey Sparidaans,5172,77.11,77.3,-0.19,4138,161
+2192,Pero Ljubić,7,2026-07-29,Players Championship,PT,Last 128,Lost,2 V 6,Wessel Nijman,130,81.65,94.39,-12.74,3266,120
+2192,Pero Ljubić,8,2026-07-28,Players Championship,PT,Last 128,Lost,0 V 6,Cristo Reyes,63,84.27,96.97,-12.7,2528,90
+2192,Pero Ljubić,9,2026-07-08,European Tour Card Holder Qualifier,Q,Semi Final,Lost,4 V 6,Tom Sykes,50760,72.91,89.52,-16.61,3986,164
+2192,Pero Ljubić,10,2026-07-08,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 5,Scott Williams,5137,78.47,86.51,-8.04,5022,192
