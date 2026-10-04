@@ -69,16 +69,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 3,Michael van Gerwen,8,2026-09-12,European Tour,ET,Last 32,Lost,5 V 6,Damon Heta,13,85.66,92.83,-7.17,4683,164
 3,Michael van Gerwen,9,2026-09-06,European Tour,ET,Semi Final,Lost,3 V 7,Luke Littler,5403,83.53,106.64,-23.11,3703,133
 3,Michael van Gerwen,10,2026-09-06,European Tour,ET,Quarter Final,Won,6 V 3,Jonny Clayton,20,97.79,88.84,8.95,4368,134
-8,Nathan Aspinall,1,2026-09-23,Players Championship,PT,Last 16,Lost,3 V 6,Karel Sedláček,44,82.13,91.18,-9.05,3942,144
-8,Nathan Aspinall,2,2026-09-23,Players Championship,PT,Last 32,Won,6 V 3,Adam Paxton,2417,90.59,83.59,7.0,4439,147
-8,Nathan Aspinall,3,2026-09-23,Players Championship,PT,Last 64,Won,6 V 3,Archie Self,16467,96.8,86.19,10.61,4453,138
-8,Nathan Aspinall,4,2026-09-23,Players Championship,PT,Last 128,Won,6 V 2,Mervyn King,19,93.14,82.2,10.94,3912,126
-8,Nathan Aspinall,5,2026-09-22,Players Championship,PT,Last 16,Lost,5 V 6,Gian van Veen,2641,104.18,100.79,3.39,5209,150
-8,Nathan Aspinall,6,2026-09-22,Players Championship,PT,Last 32,Won,6 V 4,Daryl Gurney,24,103.07,90.92,12.15,4741,138
-8,Nathan Aspinall,7,2026-09-22,Players Championship,PT,Last 64,Won,6 V 2,Bradley Brooks,74,102.21,92.76,9.45,3884,114
-8,Nathan Aspinall,8,2026-09-22,Players Championship,PT,Last 128,Won,6 V 5,Mike De Decker,66,93.11,88.24,4.87,5183,167
-8,Nathan Aspinall,9,2026-09-19,World Series of Darts Finals,MJ,Last 16,Lost,9 V 10,Luke Littler,5403,94.52,98.07,-3.55,8412,267
-8,Nathan Aspinall,10,2026-09-18,World Series of Darts Finals,MJ,Last 32,Won,6 V 4,Raymond Smith,5136,95.46,89.9,5.56,4741,149
 2641,Gian van Veen,1,2026-09-22,Players Championship,PT,Final,Lost,4 V 8,Cameron Menzies,2221,89.16,96.77,-7.61,5201,175
 2641,Gian van Veen,2,2026-09-22,Players Championship,PT,Semi Final,Won,7 V 5,William O&#039;Connor,30,95.32,92.69,2.63,5497,173
 2641,Gian van Veen,3,2026-09-22,Players Championship,PT,Quarter Final,Won,6 V 5,Chris Dobey,39,95.69,100.32,-4.63,4944,155
@@ -89,6 +79,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 2641,Gian van Veen,8,2026-09-20,World Series of Darts Finals,MJ,Semi Final,Lost,8 V 11,Ross Smith,26,85.84,90.77,-4.93,8555,299
 2641,Gian van Veen,9,2026-09-20,World Series of Darts Finals,MJ,Quarter Final,Won,10 V 8,Dirk van Duijvenbode,14,95.04,94.15,0.89,8237,260
 2641,Gian van Veen,10,2026-09-19,World Series of Darts Finals,MJ,Last 16,Won,10 V 7,Karel Sedláček,44,101.52,103.3,-1.78,7986,236
+8,Nathan Aspinall,1,2026-09-23,Players Championship,PT,Last 16,Lost,3 V 6,Karel Sedláček,44,82.13,91.18,-9.05,3942,144
+8,Nathan Aspinall,2,2026-09-23,Players Championship,PT,Last 32,Won,6 V 3,Adam Paxton,2417,90.59,83.59,7.0,4439,147
+8,Nathan Aspinall,3,2026-09-23,Players Championship,PT,Last 64,Won,6 V 3,Archie Self,16467,96.8,86.19,10.61,4453,138
+8,Nathan Aspinall,4,2026-09-23,Players Championship,PT,Last 128,Won,6 V 2,Mervyn King,19,93.14,82.2,10.94,3912,126
+8,Nathan Aspinall,5,2026-09-22,Players Championship,PT,Last 16,Lost,5 V 6,Gian van Veen,2641,104.18,100.79,3.39,5209,150
+8,Nathan Aspinall,6,2026-09-22,Players Championship,PT,Last 32,Won,6 V 4,Daryl Gurney,24,103.07,90.92,12.15,4741,138
+8,Nathan Aspinall,7,2026-09-22,Players Championship,PT,Last 64,Won,6 V 2,Bradley Brooks,74,102.21,92.76,9.45,3884,114
+8,Nathan Aspinall,8,2026-09-22,Players Championship,PT,Last 128,Won,6 V 5,Mike De Decker,66,93.11,88.24,4.87,5183,167
+8,Nathan Aspinall,9,2026-09-19,World Series of Darts Finals,MJ,Last 16,Lost,9 V 10,Luke Littler,5403,94.52,98.07,-3.55,8412,267
+8,Nathan Aspinall,10,2026-09-18,World Series of Darts Finals,MJ,Last 32,Won,6 V 4,Raymond Smith,5136,95.46,89.9,5.56,4741,149
 26,Ross Smith,1,2026-09-20,World Series of Darts Finals,MJ,Final,Won,11 V 5,Gerwyn Price,2,103.89,97.28,6.61,7757,224
 26,Ross Smith,2,2026-09-20,World Series of Darts Finals,MJ,Semi Final,Won,11 V 8,Gian van Veen,2641,90.77,85.84,4.93,9168,303
 26,Ross Smith,3,2026-09-20,World Series of Darts Finals,MJ,Quarter Final,Won,10 V 7,Josh Rock,20114,97.54,94.49,3.05,8031,247
@@ -149,16 +149,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 20,Jonny Clayton,8,2026-08-30,European Tour,ET,Last 16,Lost,4 V 6,Ross Smith,26,96.85,92.83,4.02,4778,148
 20,Jonny Clayton,9,2026-08-29,European Tour,ET,Last 32,Won,6 V 3,Laszlo Kadar,5327,92.79,85.43,7.36,4330,140
 20,Jonny Clayton,10,2026-08-22,World Series of Darts,WS,Semi Final,Lost,5 V 7,Brody Klinge,5149,98.89,101.59,-2.7,5274,160
-7,James Wade,1,2026-09-20,World Series of Darts Finals,MJ,Quarter Final,Lost,7 V 10,Gerwyn Price,2,96.58,103.86,-7.28,7694,239
-7,James Wade,2,2026-09-19,World Series of Darts Finals,MJ,Last 16,Won,10 V 7,Wessel Nijman,130,101.4,98.47,2.93,7808,231
-7,James Wade,3,2026-09-18,World Series of Darts Finals,MJ,Last 32,Won,6 V 5,Damon Heta,13,92.47,88.41,4.06,5363,174
-7,James Wade,4,2026-09-13,European Tour,ET,Final,Won,8 V 4,Ross Smith,26,95.5,94.82,0.68,5571,175
-7,James Wade,5,2026-09-13,European Tour,ET,Semi Final,Won,7 V 4,Damon Heta,13,97.5,94.0,3.5,5200,160
-7,James Wade,6,2026-09-13,European Tour,ET,Quarter Final,Won,6 V 0,Danny Noppert,22,99.1,94.21,4.89,3006,91
-7,James Wade,7,2026-09-13,European Tour,ET,Last 16,Won,6 V 5,Rob Cross,29,101.59,96.33,5.26,5215,154
-7,James Wade,8,2026-09-12,European Tour,ET,Last 32,Won,6 V 2,Jim Long,5147,96.77,96.71,0.06,3903,121
-7,James Wade,9,2026-08-22,World Series of Darts,WS,Final,Won,8 V 5,Brody Klinge,5149,101.62,104.56,-2.94,6131,181
-7,James Wade,10,2026-08-22,World Series of Darts,WS,Semi Final,Won,7 V 4,Gerwyn Price,2,101.27,94.17,7.1,5266,156
 22,Danny Noppert,1,2026-09-23,Players Championship,PT,Last 64,Lost,5 V 6,Scott Williams,5137,101.83,99.08,2.75,5363,158
 22,Danny Noppert,2,2026-09-23,Players Championship,PT,Last 128,Won,6 V 4,Adam Warner,20667,98.58,87.81,10.77,4732,144
 22,Danny Noppert,3,2026-09-22,Players Championship,PT,Last 16,Lost,4 V 6,Jeffrey de Graaf,2092,94.96,97.14,-2.18,4495,142
@@ -169,6 +159,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 22,Danny Noppert,8,2026-09-13,European Tour,ET,Quarter Final,Lost,0 V 6,James Wade,7,94.21,99.1,-4.89,2638,84
 22,Danny Noppert,9,2026-09-13,European Tour,ET,Last 16,Won,6 V 4,Wessel Nijman,130,100.13,97.02,3.11,4706,141
 22,Danny Noppert,10,2026-09-12,European Tour,ET,Last 32,Won,6 V 2,Chris Landman,5183,97.71,89.12,8.59,3778,116
+7,James Wade,1,2026-09-20,World Series of Darts Finals,MJ,Quarter Final,Lost,7 V 10,Gerwyn Price,2,96.58,103.86,-7.28,7694,239
+7,James Wade,2,2026-09-19,World Series of Darts Finals,MJ,Last 16,Won,10 V 7,Wessel Nijman,130,101.4,98.47,2.93,7808,231
+7,James Wade,3,2026-09-18,World Series of Darts Finals,MJ,Last 32,Won,6 V 5,Damon Heta,13,92.47,88.41,4.06,5363,174
+7,James Wade,4,2026-09-13,European Tour,ET,Final,Won,8 V 4,Ross Smith,26,95.5,94.82,0.68,5571,175
+7,James Wade,5,2026-09-13,European Tour,ET,Semi Final,Won,7 V 4,Damon Heta,13,97.5,94.0,3.5,5200,160
+7,James Wade,6,2026-09-13,European Tour,ET,Quarter Final,Won,6 V 0,Danny Noppert,22,99.1,94.21,4.89,3006,91
+7,James Wade,7,2026-09-13,European Tour,ET,Last 16,Won,6 V 5,Rob Cross,29,101.59,96.33,5.26,5215,154
+7,James Wade,8,2026-09-12,European Tour,ET,Last 32,Won,6 V 2,Jim Long,5147,96.77,96.71,0.06,3903,121
+7,James Wade,9,2026-08-22,World Series of Darts,WS,Final,Won,8 V 5,Brody Klinge,5149,101.62,104.56,-2.94,6131,181
+7,James Wade,10,2026-08-22,World Series of Darts,WS,Semi Final,Won,7 V 4,Gerwyn Price,2,101.27,94.17,7.1,5266,156
 20114,Josh Rock,1,2026-09-23,Players Championship,PT,Last 128,Lost,1 V 6,Mario Vandenbogaerde,2363,89.51,95.86,-6.35,3133,105
 20114,Josh Rock,2,2026-09-22,Players Championship,PT,Last 16,Lost,3 V 6,Chris Dobey,39,96.61,106.62,-10.01,3929,122
 20114,Josh Rock,3,2026-09-22,Players Championship,PT,Last 32,Won,6 V 1,Sebastian Bialecki,3038,99.06,93.29,5.77,3467,105
