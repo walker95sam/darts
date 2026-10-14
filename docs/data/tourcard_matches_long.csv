@@ -79,16 +79,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 8,Nathan Aspinall,8,2026-09-22,Players Championship,PT,Last 128,Won,6 V 5,Mike De Decker,66,93.11,88.24,4.87,5183,167
 8,Nathan Aspinall,9,2026-09-19,World Series of Darts Finals,MJ,Last 16,Lost,9 V 10,Luke Littler,5403,94.52,98.07,-3.55,8412,267
 8,Nathan Aspinall,10,2026-09-18,World Series of Darts Finals,MJ,Last 32,Won,6 V 4,Raymond Smith,5136,95.46,89.9,5.56,4741,149
-26,Ross Smith,1,2026-10-11,European Tour,ET,Last 16,Lost,5 V 6,Mensur Suljović,9,95.08,93.87,1.21,5261,166
-26,Ross Smith,2,2026-10-10,European Tour,ET,Last 32,Won,6 V 4,William O&#039;Connor,30,100.68,103.93,-3.25,4497,134
-26,Ross Smith,3,2026-09-20,World Series of Darts Finals,MJ,Final,Won,11 V 5,Gerwyn Price,2,103.89,97.28,6.61,7757,224
-26,Ross Smith,4,2026-09-20,World Series of Darts Finals,MJ,Semi Final,Won,11 V 8,Gian van Veen,2641,90.77,85.84,4.93,9168,303
-26,Ross Smith,5,2026-09-20,World Series of Darts Finals,MJ,Quarter Final,Won,10 V 7,Josh Rock,20114,97.54,94.49,3.05,8031,247
-26,Ross Smith,6,2026-09-19,World Series of Darts Finals,MJ,Last 16,Won,10 V 5,Daryl Gurney,24,100.3,94.57,5.73,6854,205
-26,Ross Smith,7,2026-09-17,World Series of Darts Finals,MJ,Last 32,Won,6 V 3,Kevin Doets,2052,102.98,95.9,7.08,4428,129
-26,Ross Smith,8,2026-09-13,European Tour,ET,Final,Lost,4 V 8,James Wade,7,94.82,95.5,-0.68,5468,173
-26,Ross Smith,9,2026-09-13,European Tour,ET,Semi Final,Won,7 V 6,Gian van Veen,2641,94.31,92.89,1.42,5910,188
-26,Ross Smith,10,2026-09-13,European Tour,ET,Quarter Final,Won,6 V 5,Ryan Joyce,28,90.42,86.26,4.16,5395,179
 2641,Gian van Veen,1,2026-10-11,European Tour,ET,Semi Final,Lost,4 V 7,Jonny Clayton,20,96.47,105.0,-8.53,4952,154
 2641,Gian van Veen,2,2026-10-11,European Tour,ET,Quarter Final,Won,6 V 5,Bradley Brooks,74,88.74,92.1,-3.36,5058,171
 2641,Gian van Veen,3,2026-10-11,European Tour,ET,Last 16,Won,6 V 4,Tom Bissell,46158,100.97,91.77,9.2,4813,143
@@ -99,6 +89,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 2641,Gian van Veen,8,2026-09-22,Players Championship,PT,Last 16,Won,6 V 5,Nathan Aspinall,8,100.79,104.18,-3.39,5073,151
 2641,Gian van Veen,9,2026-09-22,Players Championship,PT,Last 32,Won,6 V 4,Darius Labanauskas,57,104.78,94.37,10.41,4785,137
 2641,Gian van Veen,10,2026-09-22,Players Championship,PT,Last 64,Won,6 V 2,Daniel Klose,157,92.83,79.97,12.86,3837,124
+26,Ross Smith,1,2026-10-11,European Tour,ET,Last 16,Lost,5 V 6,Mensur Suljović,9,95.08,93.87,1.21,5261,166
+26,Ross Smith,2,2026-10-10,European Tour,ET,Last 32,Won,6 V 4,William O&#039;Connor,30,100.68,103.93,-3.25,4497,134
+26,Ross Smith,3,2026-09-20,World Series of Darts Finals,MJ,Final,Won,11 V 5,Gerwyn Price,2,103.89,97.28,6.61,7757,224
+26,Ross Smith,4,2026-09-20,World Series of Darts Finals,MJ,Semi Final,Won,11 V 8,Gian van Veen,2641,90.77,85.84,4.93,9168,303
+26,Ross Smith,5,2026-09-20,World Series of Darts Finals,MJ,Quarter Final,Won,10 V 7,Josh Rock,20114,97.54,94.49,3.05,8031,247
+26,Ross Smith,6,2026-09-19,World Series of Darts Finals,MJ,Last 16,Won,10 V 5,Daryl Gurney,24,100.3,94.57,5.73,6854,205
+26,Ross Smith,7,2026-09-17,World Series of Darts Finals,MJ,Last 32,Won,6 V 3,Kevin Doets,2052,102.98,95.9,7.08,4428,129
+26,Ross Smith,8,2026-09-13,European Tour,ET,Final,Lost,4 V 8,James Wade,7,94.82,95.5,-0.68,5468,173
+26,Ross Smith,9,2026-09-13,European Tour,ET,Semi Final,Won,7 V 6,Gian van Veen,2641,94.31,92.89,1.42,5910,188
+26,Ross Smith,10,2026-09-13,European Tour,ET,Quarter Final,Won,6 V 5,Ryan Joyce,28,90.42,86.26,4.16,5395,179
 29,Rob Cross,1,2026-10-11,European Tour,ET,Last 16,Lost,4 V 6,Jonny Clayton,20,106.68,100.46,6.22,4623,130
 29,Rob Cross,2,2026-10-10,European Tour,ET,Last 32,Won,6 V 4,Luke Woodhouse,70,97.81,97.36,0.45,4597,141
 29,Rob Cross,3,2026-10-09,European Tour,ET,Last 48 (Premier),Won,6 V 3,Mario Vandenbogaerde,2363,105.95,100.81,5.14,4344,123
@@ -389,16 +389,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 46158,Tom Bissell,8,2026-09-22,Players Championship,PT,Last 128,Won,6 V 2,David Sharp,6682,87.86,85.83,2.03,3895,133
 46158,Tom Bissell,9,2026-08-26,Players Championship,PT,Last 64,Lost,5 V 6,Andy Boulton,33,93.37,87.72,5.65,5291,170
 46158,Tom Bissell,10,2026-08-26,Players Championship,PT,Last 128,Won,6 V 3,Tyler Thorpe,27176,94.63,80.35,14.28,4479,142
-50760,Tom Sykes,1,2026-09-24,European Tour Card Holder Qualifier,Q,Semi Final,Lost,4 V 6,Brendan Dolan,23,96.63,96.08,0.55,4767,148
-50760,Tom Sykes,2,2026-09-24,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 3,Dominik Gruellich,254,87.39,86.15,1.24,4311,148
-50760,Tom Sykes,3,2026-09-23,Players Championship,PT,Last 32,Lost,2 V 6,Dirk van Duijvenbode,14,90.96,96.94,-5.98,3608,119
-50760,Tom Sykes,4,2026-09-23,Players Championship,PT,Last 64,Won,6 V 2,Jurjen van der Velde,2784,94.67,90.15,4.52,3850,122
-50760,Tom Sykes,5,2026-09-23,Players Championship,PT,Last 128,Won,6 V 3,Cristo Reyes,63,103.97,99.32,4.65,4228,122
-50760,Tom Sykes,6,2026-09-22,Players Championship,PT,Last 128,Lost,5 V 6,Mensur Suljović,9,95.34,92.58,2.76,5085,160
-50760,Tom Sykes,7,2026-08-29,European Tour,ET,Last 32,Lost,5 V 6,Chris Dobey,39,91.64,93.33,-1.69,5071,166
-50760,Tom Sykes,8,2026-08-28,European Tour,ET,Last 48 (Premier),Won,6 V 1,Cameron Menzies,2221,101.2,96.84,4.36,3407,101
-50760,Tom Sykes,9,2026-08-26,Players Championship,PT,Last 64,Lost,4 V 6,Bradley Brooks,74,100.51,91.79,8.72,4590,137
-50760,Tom Sykes,10,2026-08-26,Players Championship,PT,Last 128,Won,6 V 2,Niall Culleton,2034,96.79,89.85,6.94,3936,122
 3038,Sebastian Bialecki,1,2026-10-09,European Tour,ET,Last 48 (Premier),Lost,4 V 6,Karel Sedláček,44,94.65,100.2,-5.55,4196,133
 3038,Sebastian Bialecki,2,2026-10-05,World Youth Championship,WYC,Last 16,Lost,2 V 6,Jan Schmidt,28552,85.8,91.16,-5.36,3575,125
 3038,Sebastian Bialecki,3,2026-10-05,World Youth Championship,WYC,Last 32,Won,6 V 5,Jenson Walker,16481,85.96,89.88,-3.92,5129,179
@@ -409,6 +399,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 3038,Sebastian Bialecki,8,2026-09-23,Players Championship,PT,Last 64,Won,6 V 5,Shane McGuirk,3043,92.55,93.9,-1.35,4751,154
 3038,Sebastian Bialecki,9,2026-09-23,Players Championship,PT,Last 128,Won,6 V 4,Connor Scutt,2317,92.41,93.68,-1.27,4559,148
 3038,Sebastian Bialecki,10,2026-09-22,Players Championship,PT,Last 32,Lost,1 V 6,Josh Rock,20114,93.29,99.06,-5.77,3172,102
+50760,Tom Sykes,1,2026-09-24,European Tour Card Holder Qualifier,Q,Semi Final,Lost,4 V 6,Brendan Dolan,23,96.63,96.08,0.55,4767,148
+50760,Tom Sykes,2,2026-09-24,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 3,Dominik Gruellich,254,87.39,86.15,1.24,4311,148
+50760,Tom Sykes,3,2026-09-23,Players Championship,PT,Last 32,Lost,2 V 6,Dirk van Duijvenbode,14,90.96,96.94,-5.98,3608,119
+50760,Tom Sykes,4,2026-09-23,Players Championship,PT,Last 64,Won,6 V 2,Jurjen van der Velde,2784,94.67,90.15,4.52,3850,122
+50760,Tom Sykes,5,2026-09-23,Players Championship,PT,Last 128,Won,6 V 3,Cristo Reyes,63,103.97,99.32,4.65,4228,122
+50760,Tom Sykes,6,2026-09-22,Players Championship,PT,Last 128,Lost,5 V 6,Mensur Suljović,9,95.34,92.58,2.76,5085,160
+50760,Tom Sykes,7,2026-08-29,European Tour,ET,Last 32,Lost,5 V 6,Chris Dobey,39,91.64,93.33,-1.69,5071,166
+50760,Tom Sykes,8,2026-08-28,European Tour,ET,Last 48 (Premier),Won,6 V 1,Cameron Menzies,2221,101.2,96.84,4.36,3407,101
+50760,Tom Sykes,9,2026-08-26,Players Championship,PT,Last 64,Lost,4 V 6,Bradley Brooks,74,100.51,91.79,8.72,4590,137
+50760,Tom Sykes,10,2026-08-26,Players Championship,PT,Last 128,Won,6 V 2,Niall Culleton,2034,96.79,89.85,6.94,3936,122
 65,Mickey Mansell,1,2026-09-24,European Tour Card Holder Qualifier,Q,Final,Won,6 V 2,Tyler Thorpe,27176,105.24,87.52,17.72,3964,113
 65,Mickey Mansell,2,2026-09-24,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 5,Andy Boulton,33,94.51,92.08,2.43,5009,159
 65,Mickey Mansell,3,2026-09-24,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 0,Maximilian Czerwinski,23309,99.1,83.45,15.65,3006,91
@@ -429,6 +429,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 24,Daryl Gurney,8,2026-09-17,World Series of Darts Finals,MJ,Last 32,Won,6 V 5,Michael van Gerwen,3,97.7,96.2,1.5,5113,157
 24,Daryl Gurney,9,2026-09-04,European Tour,ET,Last 48 (Premier),Lost,4 V 6,Beau Greaves,138,89.54,93.54,-4.0,4447,149
 24,Daryl Gurney,10,2026-08-28,European Tour,ET,Last 48 (Premier),Lost,5 V 6,Laszlo Kadar,5327,91.75,93.9,-2.15,4985,163
+129,Keane Barry,1,2026-10-05,World Youth Championship,WYC,Last 64,Lost,5 V 6,Angelo Balsamo,6080,88.84,85.73,3.11,5123,173
+129,Keane Barry,2,2026-10-05,World Youth Championship,WYC,Round Robin,Won,5 V 4,Mitchell Leeming,6070,77.3,73.56,3.74,4329,168
+129,Keane Barry,3,2026-10-05,World Youth Championship,WYC,Round Robin,Won,5 V 1,Conner Olson,55362,86.37,72.76,13.61,2994,104
+129,Keane Barry,4,2026-10-05,World Youth Championship,WYC,Round Robin,Won,5 V 4,Lewis Mayes,7784,93.7,93.22,0.48,4279,137
+129,Keane Barry,5,2026-09-24,European Tour Card Holder Qualifier,Q,Final,Lost,5 V 6,James Hurrell,5190,91.43,94.65,-3.22,4937,162
+129,Keane Barry,6,2026-09-24,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 4,Greg Ritchie,2295,91.54,81.85,9.69,4821,158
+129,Keane Barry,7,2026-09-24,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Jeffrey de Zwaan,48,86.54,84.57,1.97,3779,131
+129,Keane Barry,8,2026-09-23,Players Championship,PT,Last 32,Lost,5 V 6,Luke Woodhouse,70,97.42,101.09,-3.67,5066,156
+129,Keane Barry,9,2026-09-23,Players Championship,PT,Last 64,Won,6 V 5,Peter Wright,1,92.02,90.59,1.43,5153,168
+129,Keane Barry,10,2026-09-23,Players Championship,PT,Last 128,Won,6 V 0,Martin Lukeman,2201,88.41,78.79,9.62,3006,102
 2062,Ritchie Edhouse,1,2026-09-23,Players Championship,PT,Last 64,Lost,2 V 6,Joe Hunt,14283,78.73,91.59,-12.86,3254,124
 2062,Ritchie Edhouse,2,2026-09-23,Players Championship,PT,Last 128,Won,6 V 5,Henry Coates,5628,87.0,87.9,-0.9,5017,173
 2062,Ritchie Edhouse,3,2026-09-22,Players Championship,PT,Last 64,Lost,2 V 6,Oskar Lukasiak,5178,88.74,91.06,-2.32,3520,119
@@ -459,16 +469,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 5190,James Hurrell,8,2026-09-11,European Tour,ET,Last 48 (Premier),Lost,1 V 6,Kevin Doets,2052,75.5,99.29,-23.79,2542,101
 5190,James Hurrell,9,2026-08-29,European Tour,ET,Last 32,Lost,4 V 6,Michael van Gerwen,3,91.91,93.77,-1.86,4320,141
 5190,James Hurrell,10,2026-08-28,European Tour,ET,Last 48 (Premier),Won,6 V 5,Damon Heta,13,99.7,100.67,-0.97,4985,150
-129,Keane Barry,1,2026-10-05,World Youth Championship,WYC,Last 64,Lost,5 V 6,Angelo Balsamo,6080,88.84,85.73,3.11,5123,173
-129,Keane Barry,2,2026-10-05,World Youth Championship,WYC,Round Robin,Won,5 V 4,Mitchell Leeming,6070,77.3,73.56,3.74,4329,168
-129,Keane Barry,3,2026-10-05,World Youth Championship,WYC,Round Robin,Won,5 V 1,Conner Olson,55362,86.37,72.76,13.61,2994,104
-129,Keane Barry,4,2026-10-05,World Youth Championship,WYC,Round Robin,Won,5 V 4,Lewis Mayes,7784,93.7,93.22,0.48,4279,137
-129,Keane Barry,5,2026-09-24,European Tour Card Holder Qualifier,Q,Final,Lost,5 V 6,James Hurrell,5190,91.43,94.65,-3.22,4937,162
-129,Keane Barry,6,2026-09-24,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 4,Greg Ritchie,2295,91.54,81.85,9.69,4821,158
-129,Keane Barry,7,2026-09-24,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 2,Jeffrey de Zwaan,48,86.54,84.57,1.97,3779,131
-129,Keane Barry,8,2026-09-23,Players Championship,PT,Last 32,Lost,5 V 6,Luke Woodhouse,70,97.42,101.09,-3.67,5066,156
-129,Keane Barry,9,2026-09-23,Players Championship,PT,Last 64,Won,6 V 5,Peter Wright,1,92.02,90.59,1.43,5153,168
-129,Keane Barry,10,2026-09-23,Players Championship,PT,Last 128,Won,6 V 0,Martin Lukeman,2201,88.41,78.79,9.62,3006,102
 59,Max Hopp,1,2026-09-24,European Tour Card Holder Qualifier,Q,Final,Won,6 V 2,Daryl Gurney,24,93.28,81.86,11.42,3980,128
 59,Max Hopp,2,2026-09-24,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 5,Cor Dekker,2046,90.9,96.29,-5.39,4939,163
 59,Max Hopp,3,2026-09-24,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 5,Jurjen van der Velde,2784,90.25,92.08,-1.83,5084,169
@@ -489,16 +489,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 38,Gabriel Clemens,8,2026-08-26,Players Championship,PT,Last 128,Lost,3 V 6,Christopher Wickenden,7707,81.47,91.5,-10.03,3775,139
 38,Gabriel Clemens,9,2026-08-25,Players Championship,PT,Last 64,Lost,5 V 6,Peter Wright,1,99.92,97.03,2.89,5329,160
 38,Gabriel Clemens,10,2026-08-25,Players Championship,PT,Last 128,Won,6 V 5,Viktor Tingstrom,3094,87.69,86.97,0.72,5086,174
-138,Beau Greaves,1,2026-10-11,Women&#039;s Series,0,Final,Won,5 V 3,Jade Gofford,29211,101.59,79.14,22.45,3928,116
-138,Beau Greaves,2,2026-10-11,Women&#039;s Series,0,Semi Final,Won,5 V 1,Fallon Sherrock,2618,102.56,85.82,16.74,2906,85
-138,Beau Greaves,3,2026-10-11,Women&#039;s Series,0,Quarter Final,Won,5 V 2,Gemma Hayter,36864,94.1,88.6,5.5,3419,109
-138,Beau Greaves,4,2026-10-11,Women&#039;s Series,0,Last 16,Won,4 V 0,Rebecca Allen,21733,96.97,80.05,16.92,2004,62
-138,Beau Greaves,5,2026-10-11,Women&#039;s Series,0,Last 32,Won,4 V 0,Steph Clarke,20767,103.66,70.55,33.11,2004,58
-138,Beau Greaves,6,2026-10-11,Women&#039;s Series,0,Last 64,Won,4 V 0,Ruby Grey,43330,92.49,68.48,24.01,2004,65
-138,Beau Greaves,7,2026-10-11,Women&#039;s Series,0,Last 128,Won,4 V 0,Jody Hancock,29364,100.2,61.89,38.31,2004,60
-138,Beau Greaves,8,2026-10-11,Women&#039;s Series,0,Final,Won,5 V 2,Aurora Fochesato,19790,79.28,70.97,8.31,3356,127
-138,Beau Greaves,9,2026-10-11,Women&#039;s Series,0,Semi Final,Won,5 V 0,Kirsty Hutchinson,2817,96.35,68.48,27.87,2505,78
-138,Beau Greaves,10,2026-10-11,Women&#039;s Series,0,Quarter Final,Won,5 V 1,Rebecca Allen,21733,94.91,69.65,25.26,2974,94
 196,Niko Springer,1,2026-10-10,European Tour,ET,Last 32,Lost,0 V 6,Gian van Veen,2641,92.59,98.02,-5.43,2685,87
 196,Niko Springer,2,2026-10-09,European Tour,ET,Last 48 (Premier),Won,6 V 1,Roman Wellinger,28418,76.92,71.46,5.46,3487,136
 196,Niko Springer,3,2026-09-12,European Tour,ET,Last 32,Lost,1 V 6,Nathan Aspinall,8,88.78,105.99,-17.21,2693,91
@@ -519,6 +509,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 74,Bradley Brooks,8,2026-09-22,Players Championship,PT,Last 64,Lost,2 V 6,Nathan Aspinall,8,92.76,102.21,-9.45,3525,114
 74,Bradley Brooks,9,2026-09-22,Players Championship,PT,Last 128,Won,6 V 4,Stefaan Henderyck,20186,90.38,86.37,4.01,4519,150
 74,Bradley Brooks,10,2026-09-12,European Tour,ET,Last 32,Lost,3 V 6,Gerwyn Price,2,94.01,103.52,-9.51,4011,128
+138,Beau Greaves,1,2026-10-11,Women&#039;s Series,0,Final,Won,5 V 3,Jade Gofford,29211,101.59,79.14,22.45,3928,116
+138,Beau Greaves,2,2026-10-11,Women&#039;s Series,0,Semi Final,Won,5 V 1,Fallon Sherrock,2618,102.56,85.82,16.74,2906,85
+138,Beau Greaves,3,2026-10-11,Women&#039;s Series,0,Quarter Final,Won,5 V 2,Gemma Hayter,36864,94.1,88.6,5.5,3419,109
+138,Beau Greaves,4,2026-10-11,Women&#039;s Series,0,Last 16,Won,4 V 0,Rebecca Allen,21733,96.97,80.05,16.92,2004,62
+138,Beau Greaves,5,2026-10-11,Women&#039;s Series,0,Last 32,Won,4 V 0,Steph Clarke,20767,103.66,70.55,33.11,2004,58
+138,Beau Greaves,6,2026-10-11,Women&#039;s Series,0,Last 64,Won,4 V 0,Ruby Grey,43330,92.49,68.48,24.01,2004,65
+138,Beau Greaves,7,2026-10-11,Women&#039;s Series,0,Last 128,Won,4 V 0,Jody Hancock,29364,100.2,61.89,38.31,2004,60
+138,Beau Greaves,8,2026-10-11,Women&#039;s Series,0,Final,Won,5 V 2,Aurora Fochesato,19790,79.28,70.97,8.31,3356,127
+138,Beau Greaves,9,2026-10-11,Women&#039;s Series,0,Semi Final,Won,5 V 0,Kirsty Hutchinson,2817,96.35,68.48,27.87,2505,78
+138,Beau Greaves,10,2026-10-11,Women&#039;s Series,0,Quarter Final,Won,5 V 1,Rebecca Allen,21733,94.91,69.65,25.26,2974,94
 3043,Shane McGuirk,1,2026-09-28,World Championship - UK &amp; Ireland Qualifier,Q,Final,Lost,4 V 7,Carl Wilson,10542,93.88,89.27,4.61,5226,167
 3043,Shane McGuirk,2,2026-09-28,World Championship - UK &amp; Ireland Qualifier,Q,Semi Final,Won,7 V 5,Mervyn King,19,94.39,86.3,8.09,5632,179
 3043,Shane McGuirk,3,2026-09-28,World Championship - UK &amp; Ireland Qualifier,Q,Quarter Final,Won,7 V 3,Alan Norris,2248,88.44,85.4,3.04,4658,158
@@ -609,16 +609,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 21,Dave Chisnall,8,2026-09-22,Players Championship,PT,Last 128,Won,6 V 2,Jurjen van der Velde,2784,81.74,75.97,5.77,3869,142
 21,Dave Chisnall,9,2026-08-30,European Tour,ET,Quarter Final,Lost,2 V 6,Ross Smith,26,89.63,95.35,-5.72,3615,121
 21,Dave Chisnall,10,2026-08-30,European Tour,ET,Last 16,Won,6 V 2,Keane Barry,129,94.54,89.98,4.56,3813,121
-5636,Charlie Manby,1,2026-10-05,World Youth Championship,WYC,Semi Final,Lost,3 V 6,Jan Schmidt,28552,91.63,94.85,-3.22,3879,127
-5636,Charlie Manby,2,2026-10-05,World Youth Championship,WYC,Quarter Final,Won,6 V 2,Arthur Allston,38028,87.59,83.08,4.51,3737,128
-5636,Charlie Manby,3,2026-10-05,World Youth Championship,WYC,Last 16,Won,6 V 5,Owen Bates,14661,85.52,89.41,-3.89,5074,178
-5636,Charlie Manby,4,2026-10-05,World Youth Championship,WYC,Last 32,Won,6 V 1,Jarod Becker,22449,97.21,84.65,12.56,3467,107
-5636,Charlie Manby,5,2026-10-05,World Youth Championship,WYC,Last 64,Won,6 V 1,Ansh Sood,28955,89.24,76.27,12.97,3391,114
-5636,Charlie Manby,6,2026-10-05,World Youth Championship,WYC,Round Robin,Won,5 V 1,Bram van Dijk,19771,88.34,79.09,9.25,2974,101
-5636,Charlie Manby,7,2026-10-05,World Youth Championship,WYC,Round Robin,Won,5 V 2,Kieran Tynan,49321,85.51,71.22,14.29,3335,117
-5636,Charlie Manby,8,2026-10-05,World Youth Championship,WYC,Round Robin,Won,5 V 2,Justin Atellinghusen,46104,82.5,74.45,8.05,3465,126
-5636,Charlie Manby,9,2026-10-04,Development Tour,0,Last 32,Lost,2 V 4,Owen Roelofs,135,81.09,78.74,2.35,2730,101
-5636,Charlie Manby,10,2026-10-04,Development Tour,0,Last 64,Won,4 V 2,Cole Davey,6200,87.03,81.71,5.32,2727,94
 5,Michael Smith,1,2026-10-11,European Tour,ET,Last 16,Lost,3 V 6,Dirk van Duijvenbode,14,91.01,88.37,2.64,4065,134
 5,Michael Smith,2,2026-10-10,European Tour,ET,Last 32,Won,6 V 4,Jermaine Wattimena,18,102.65,93.68,8.97,4927,144
 5,Michael Smith,3,2026-10-09,European Tour,ET,Last 48 (Premier),Won,6 V 4,Robert Owen,51308,90.94,86.02,4.92,4759,157
@@ -649,6 +639,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 6682,David Sharp,8,2026-08-26,Players Championship,PT,Last 64,Lost,2 V 6,Jeffrey de Graaf,2092,81.18,96.37,-15.19,3139,116
 6682,David Sharp,9,2026-08-26,Players Championship,PT,Last 128,Won,6 V 4,Lukas Wenig,148,94.67,87.26,7.41,4765,151
 6682,David Sharp,10,2026-08-25,Players Championship,PT,Last 64,Lost,1 V 6,Jeffrey Sparidaans,5172,86.13,91.63,-5.5,3072,107
+5636,Charlie Manby,1,2026-10-05,World Youth Championship,WYC,Semi Final,Lost,3 V 6,Jan Schmidt,28552,91.63,94.85,-3.22,3879,127
+5636,Charlie Manby,2,2026-10-05,World Youth Championship,WYC,Quarter Final,Won,6 V 2,Arthur Allston,38028,87.59,83.08,4.51,3737,128
+5636,Charlie Manby,3,2026-10-05,World Youth Championship,WYC,Last 16,Won,6 V 5,Owen Bates,14661,85.52,89.41,-3.89,5074,178
+5636,Charlie Manby,4,2026-10-05,World Youth Championship,WYC,Last 32,Won,6 V 1,Jarod Becker,22449,97.21,84.65,12.56,3467,107
+5636,Charlie Manby,5,2026-10-05,World Youth Championship,WYC,Last 64,Won,6 V 1,Ansh Sood,28955,89.24,76.27,12.97,3391,114
+5636,Charlie Manby,6,2026-10-05,World Youth Championship,WYC,Round Robin,Won,5 V 1,Bram van Dijk,19771,88.34,79.09,9.25,2974,101
+5636,Charlie Manby,7,2026-10-05,World Youth Championship,WYC,Round Robin,Won,5 V 2,Kieran Tynan,49321,85.51,71.22,14.29,3335,117
+5636,Charlie Manby,8,2026-10-05,World Youth Championship,WYC,Round Robin,Won,5 V 2,Justin Atellinghusen,46104,82.5,74.45,8.05,3465,126
+5636,Charlie Manby,9,2026-10-04,Development Tour,0,Last 32,Lost,2 V 4,Owen Roelofs,135,81.09,78.74,2.35,2730,101
+5636,Charlie Manby,10,2026-10-04,Development Tour,0,Last 64,Won,4 V 2,Cole Davey,6200,87.03,81.71,5.32,2727,94
 2363,Mario Vandenbogaerde,1,2026-10-09,European Tour,ET,Last 48 (Premier),Lost,3 V 6,Rob Cross,29,100.81,105.95,-5.14,4066,121
 2363,Mario Vandenbogaerde,2,2026-09-24,European Tour Card Holder Qualifier,Q,Final,Lost,2 V 6,Callan Rydz,35,94.81,99.89,-5.08,3666,116
 2363,Mario Vandenbogaerde,3,2026-09-24,European Tour Card Holder Qualifier,Q,Semi Final,Won,6 V 5,Christian Kist,2171,91.61,84.3,7.31,5283,173
@@ -819,6 +819,16 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 1982,Raymond van Barneveld,8,2026-09-22,Players Championship,PT,Last 128,Won,6 V 4,Stephen Rosney,3057,87.87,81.87,6.0,4774,163
 1982,Raymond van Barneveld,9,2026-09-11,European Tour,ET,Last 48 (Premier),Lost,2 V 6,Jim Long,5147,82.04,85.7,-3.66,3692,135
 1982,Raymond van Barneveld,10,2026-08-26,Players Championship,PT,Last 64,Lost,5 V 6,Greg Ritchie,2295,85.57,87.53,-1.96,5020,176
+14661,Owen Bates,1,2026-10-05,World Youth Championship,WYC,Last 16,Lost,5 V 6,Charlie Manby,5636,89.41,85.52,3.89,5335,179
+14661,Owen Bates,2,2026-10-05,World Youth Championship,WYC,Last 32,Won,6 V 5,Hunter Eyles,40986,88.23,77.62,10.61,5323,181
+14661,Owen Bates,3,2026-10-05,World Youth Championship,WYC,Last 64,Won,6 V 3,Liam Maendl-Lawrance,24708,84.76,71.73,13.03,4464,158
+14661,Owen Bates,4,2026-10-05,World Youth Championship,WYC,Round Robin,Won,5 V 2,Ciaran Forde,26329,81.68,81.76,-0.08,3131,115
+14661,Owen Bates,5,2026-10-05,World Youth Championship,WYC,Round Robin,Won,5 V 2,Lewy Williams,52575,86.52,78.28,8.24,3403,118
+14661,Owen Bates,6,2026-10-05,World Youth Championship,WYC,Round Robin,Won,5 V 2,Oliver Pearce-Burgess,43779,82.17,82.68,-0.51,3095,113
+14661,Owen Bates,7,2026-10-04,Development Tour,0,Final,Lost,1 V 5,Henry Coates,5628,89.55,97.41,-7.86,2567,86
+14661,Owen Bates,8,2026-10-04,Development Tour,0,Semi Final,Won,5 V 2,Jamai van den Herik,2689,96.76,83.6,13.16,3451,107
+14661,Owen Bates,9,2026-10-04,Development Tour,0,Quarter Final,Won,5 V 1,Ansh Sood,28955,92.81,86.38,6.43,3001,97
+14661,Owen Bates,10,2026-10-04,Development Tour,0,Last 16,Won,4 V 3,Luuk De Waal,51088,90.88,80.08,10.8,3423,113
 17,Ian White,1,2026-09-24,European Tour Card Holder Qualifier,Q,Quarter Final,Lost,0 V 6,Nick Kenny,84,81.96,101.33,-19.37,2295,84
 17,Ian White,2,2026-09-23,Players Championship,PT,Last 64,Lost,3 V 6,Michael van Gerwen,3,86.18,87.97,-1.79,4108,143
 17,Ian White,3,2026-09-23,Players Championship,PT,Last 128,Won,6 V 2,Nathan Potter,2931,98.13,76.3,21.83,3925,120
@@ -879,16 +889,6 @@ player_key,player_name,match_idx,match_date,tournament,category,round,result,sco
 47,Ryan Meikle,8,2026-08-24,World Series Finals Tour Card Qualifier,Q,Quarter Final,Lost,3 V 6,Karel Sedláček,44,87.6,103.8,-16.2,3796,130
 47,Ryan Meikle,9,2026-08-24,World Series Finals Tour Card Qualifier,Q,Last 16,Won,6 V 3,Mike De Decker,66,84.48,88.06,-3.58,4027,143
 47,Ryan Meikle,10,2026-07-30,European Tour Card Holder Qualifier,Q,Semi Final,Lost,2 V 6,Gabriel Clemens,38,77.49,87.73,-10.24,3513,136
-14661,Owen Bates,1,2026-10-05,World Youth Championship,WYC,Last 16,Lost,5 V 6,Charlie Manby,5636,89.41,85.52,3.89,5335,179
-14661,Owen Bates,2,2026-10-05,World Youth Championship,WYC,Last 32,Won,6 V 5,Hunter Eyles,40986,88.23,77.62,10.61,5323,181
-14661,Owen Bates,3,2026-10-05,World Youth Championship,WYC,Last 64,Won,6 V 3,Liam Maendl-Lawrance,24708,84.76,71.73,13.03,4464,158
-14661,Owen Bates,4,2026-10-05,World Youth Championship,WYC,Round Robin,Won,5 V 2,Ciaran Forde,26329,81.68,81.76,-0.08,3131,115
-14661,Owen Bates,5,2026-10-05,World Youth Championship,WYC,Round Robin,Won,5 V 2,Lewy Williams,52575,86.52,78.28,8.24,3403,118
-14661,Owen Bates,6,2026-10-05,World Youth Championship,WYC,Round Robin,Won,5 V 2,Oliver Pearce-Burgess,43779,82.17,82.68,-0.51,3095,113
-14661,Owen Bates,7,2026-10-04,Development Tour,0,Final,Lost,1 V 5,Henry Coates,5628,89.55,97.41,-7.86,2567,86
-14661,Owen Bates,8,2026-10-04,Development Tour,0,Semi Final,Won,5 V 2,Jamai van den Herik,2689,96.76,83.6,13.16,3451,107
-14661,Owen Bates,9,2026-10-04,Development Tour,0,Quarter Final,Won,5 V 1,Ansh Sood,28955,92.81,86.38,6.43,3001,97
-14661,Owen Bates,10,2026-10-04,Development Tour,0,Last 16,Won,4 V 3,Luuk De Waal,51088,90.88,80.08,10.8,3423,113
 2199,Thomas Lovely,1,2026-09-28,World Championship - UK &amp; Ireland Qualifier,Q,Last 128,Lost,4 V 6,Mike Warburton,5143,86.6,84.02,2.58,4763,165
 2199,Thomas Lovely,2,2026-09-24,European Tour Card Holder Qualifier,Q,Semi Final,Lost,3 V 6,Daryl Gurney,24,94.81,89.68,5.13,4077,129
 2199,Thomas Lovely,3,2026-09-24,European Tour Card Holder Qualifier,Q,Quarter Final,Won,6 V 0,Niall Culleton,2034,103.66,100.21,3.45,3006,87
